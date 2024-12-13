@@ -1,0 +1,5000 @@
+1,ul. Abecadło
+2,ul. gen. R. Abrahama
+3,ul. E. J. Abramowskiego
+4,ul. F. A. Achera
+5,ul. Achillesa
+6,Rondo płk. B. Adameckiego
+7,ul. K. Adamieckiego
+8,ul. Adampolska
+9,ul. Admiralska
+10,ul. Adriatycka
+11,ul. Afrodyty
+12,ul. Afrykańska
+13,ul. Agatowa
+14,ul. Agatowa
+15,ul. Agaty
+16,ul. Agawy
+17,ul. Agawy
+18,ul. Agnieszki
+19,ul. Agrarna
+20,ul. Agrestowa
+21,ul. Agrykola
+22,ul. Akacjowa
+23,ul. Akacjowa
+24,ul. Akademicka
+25,ul. Akantu
+26,ul. Akcent
+27,ul. Akermańska
+28,ul. Aksamitna
+29,ul. Aktorska
+30,ul. Akurat
+31,ul. Akustyczna
+32,ul. Akwarelowa
+33,ul. Alabastrowa
+34,ul. Albatrosów
+35,ul. Aleksandrowska
+36,ul. Algierska
+37,ul. Alpejska
+38,ul. Alternatywy
+39,ul. Altowa
+40,ul. Aluzyjna
+41,ul. Aluzyjna - wjazd
+42,ul. Alzacka
+43,ul. mjr. F. M. Amałowicza „Tatara”
+44,ul. Amarantowa
+45,ul. Ambaras
+46,ul. Amelińska
+47,ul. Ametystowa
+48,ul. Ametystowa
+49,ul. R. Amundsena
+50,ul. Analityczna
+51,ul. Ananasowa
+52,ul. gen. W. Andersa
+53,ul. H. Ch. Andersena
+54,ul. M. E. Andriollego
+55,ul. Andromedy
+56,ul. Andrutowa
+57,ul. Andrychowska
+58,ul. Andrzejowska
+59,ul. Andyjska
+60,ul. Anecińska
+61,ul. Angorska
+62,ul. M. Anielewicza
+63,ul. Anilinowa
+64,ul. Animuszu
+65,ul. Annopol
+66,ul. Anny Jagiellonki
+67,ul. J. Antalla
+68,ul. Antenowa
+69,ul. Antka Rozpylacza
+70,ul. św. Antoniego
+71,ul. Antoniewska
+72,ul. Antyczna
+73,ul. Antygony
+74,ul. Anyżkowa
+75,ul. Apartamentowa
+76,ul. Apenińska
+77,Skwer M. D. Apfelbauma
+78,ul. Aplikancka
+79,ul. Apollina
+80,ul. Apteczna
+81,ul. Apteczna
+82,ul. Arabska
+83,ul. Arachidowa
+84,ul. Arbuzowa
+85,ul. Archimedesa
+86,ul. Architektów
+87,ul. Archiwalna
+88,ul. K. Arciszewskiego
+89,ul. H. Arctowskiego
+90,ul. Argentyńska
+91,ul. Arkadii
+92,ul. Arkadowa
+93,ul. Arkadyjska
+94,ul. Arkony
+95,ul. Arktyczna
+96,ul. Arkuszowa
+97,ul. Armatnia
+98,al. Armii Krajowej
+99,ul. Armii Krajowej
+100,al. Armii Ludowej
+101,ul. II Armii Wojska Polskiego
+102,ul. Arniki
+103,ul. Aroniowa
+104,ul. Arrasowa
+105,ul. Arsenalska
+106,ul. Artemidy
+107,ul. Artyleryjska
+108,ul. Artystów
+109,ul. Artystyczna
+110,ul. Asfaltowa
+111,ul. Sz. Askenazego
+112,ul. A. Asnyka
+113,ul. A. Asnyka
+114,ul. Aspekt
+115,ul. Astronautów
+116,ul. Astronomów
+117,ul. Astrowa
+118,ul. Astrów
+119,ul. Astry
+120,ul. Ateńska
+121,ul. Atlasowa
+122,ul. Attykowa
+123,ul. Atutowa
+124,ul. Augustówka
+125,ul. Awionetki RWD
+126,ul. T. Axentowicza
+127,ul. Azaliowa
+128,ul. Azaliowa
+129,ul. Babicka
+130,ul. Babie Lato
+131,ul. Babiego Lata
+132,ul. Babimojska
+133,ul. Babinicza
+134,ul. Baborowska
+135,ul. Baboszewska
+136,ul. M. Bacciarellego
+137,ul. G. Bacewiczówny
+138,ul. J. S. Bacha
+139,ul. Bachmacka
+140,ul. Bachusa
+141,ul. K. K. Baczyńskiego
+142,ul. Badowska
+143,ul. Badylarska
+144,ul. Bagatela
+145,ul. Bagażowa
+146,ul. Bagno
+147,ul. R. Bailly
+148,ul. J. Bajana
+149,ul. Bajeczna
+150,al. „Bajka Iskierki”
+151,ul. Bajkowa
+152,ul. Bajońska
+153,ul. Bakalarska
+154,ul. Bakaliowa
+155,ul. Balaton
+156,ul. Balbinki
+157,ul. J. Balcerzaka
+158,ul. Baletowa
+159,ul. S. Baleya
+160,ul. Balicka
+161,ul. Balkonowa
+162,ul. Balladyny
+163,ul. Balonowa
+164,ul. płk. Z. Baló
+165,ul. Baltazara
+166,ul. H. Balzaka
+167,ul. Bałtycka
+168,ul. M. Bałuckiego
+169,ul. Bambusowa
+170,ul. S. Banacha
+171,ul. Bananowa
+172,ul. Banderii
+173,ul. Bandoski
+174,ul. W. Bandurskiego
+175,ul. Banioska
+176,ul. Bankowa
+177,pl. Bankowy
+178,ul. Baranowska
+179,ul. św. Barbary
+180,ul. Barbórki
+181,ul. Barcelońska
+182,ul. S. Barcewicza
+183,ul. Barcicka
+184,ul. A. Bardiniego
+185,ul. P. Bardowskiego
+186,ul. S. Barei
+187,ul. Barkocińska
+188,ul. N. Barlickiego
+189,ul. Barokowa
+190,ul. H. Barona
+191,ul. Barska
+192,Strona F. Barssa
+193,ul. Barszczewska
+194,ul. E. Barszczewskiej
+195,ul. Bartłomieja
+196,ul. Bartnicza
+197,ul. B. Bartóka
+198,ul. S. Bartosika
+199,ul. J. Bartoszewicza
+200,ul. F. Bartoszka
+201,ul. Bartoszycka
+202,ul. Bartycka
+203,ul. Barwinkowa
+204,ul. Barwna
+205,ul. Barwnicza
+206,ul. Baryczków
+207,ul. Basetli
+208,ul. Baśniowa
+209,ul. Baśniowa
+210,ul. Batalionów Chłopskich
+211,ul. Batalionu „Miotła”
+212,ul. Batalionu AK „Bałtyk”
+213,Skwer Batalionu AK „Czata 49”
+214,Skwer Batalionu AK „Gozdawa”
+215,ul. Batalionu AK „Karpaty”
+216,Skwer Batalionu AK „Miłosz”
+217,ul. Batalionu AK „Oaza”
+218,ul. Batalionu AK „Olza”
+219,ul. Batalionu AK „Parasol”
+220,ul. Batalionu AK „Pięść”
+221,Skwer Batalionu AK „Ruczaj”
+222,ul. Batalionu AK „Ryś”
+223,ul. Batalionu AK „Włochy”
+224,Skwer Batalionu AK „Zaremba-Piorun”
+225,ul. Batalionu AK „Zośka”
+226,Skwer Batalionu Harcerskiego AK „Wigry”
+227,Skwer 3 Batalionu Pancernego AK „Golski”
+228,ul. Batalionu Platerówek
+229,ul. Stefana Batorego
+230,ul. Batumi
+231,ul. Batuty
+232,ul. Batystowa
+233,ul. Bawełniana
+234,Skwer Bazy Lotniczej AK „Łużyce”
+235,ul. Bazyliańska
+236,ul. Bażancia
+237,Skwer T. Bądarzewskiej
+238,al. J. Becka
+239,ul. Beczkowa
+240,ul. Bednarska
+241,ul. L. van Beethovena
+242,ul. Begonii
+243,ul. Bekasów
+244,ul. Belgijska
+245,ul. Belgradzka
+246,ul. Bellony
+247,ul. J. Bellottiego
+248,ul. Belwederska
+249,ul. Bełchatowska
+250,ul. Bełdan
+251,ul. Bełska
+252,ul. W. Bełzy
+253,ul. Bełżecka
+254,ul. J. Bema
+255,ul. Benedykta
+256,ul. Benedykta Polaka
+257,ul. J. G. Bennetta
+258,ul. Berberysowa
+259,Skwerek Berek
+260,ul. L. Berensona
+261,ul. S. Berenta
+262,ul. W. Berenta
+263,ul. Berestecka
+264,ul. Berezyńska
+265,Skwer L. Bergera „Goliata”
+266,ul. Berka Joselewicza
+267,ul. Bernardyńska
+268,pl. Bernardyński
+269,ul. Berneńska
+270,ul. Beskidzka
+271,ul. Betonowa
+272,ul. Będzińska
+273,ul. Biała
+274,ul. Białej Wody
+275,ul. Białoborska
+276,ul. Białobrzeska
+277,ul. Białogońska
+278,ul. Białołęcka
+279,ul. Białoskórnicza
+280,ul. Białostocka
+281,Dreptak M. Białoszewskiego
+282,ul. Białowiejska
+283,ul. Białowieska
+284,ul. Białozora
+285,ul. Biały Kamień
+286,ul. Biechowska
+287,ul. Biedronki
+288,Międzymurze P. Biegańskiego
+289,ul. Bielańska
+290,ul. Bielawska
+291,ul. Bielska
+292,ul. M. Bielskiego
+293,ul. Bielszowicka
+294,ul. Bieniewicka
+295,ul. W. Bieńczaka
+296,ul. Biernacka
+297,ul. Biernata z Lublina
+298,ul. Biesiadna
+299,ul. Bieszczadzka
+300,ul. Bieżanowska
+301,ul. Bieżuńska
+302,ul. H. Billewicza
+303,ul. Biłgorajska
+304,ul. Biograficzna
+305,ul. Biruty
+306,ul. Birżańska
+307,ul. Biskupia
+308,ul. Bitna
+309,ul. Bitwy Grochowskiej
+310,ul. Bitwy pod Lenino
+311,ul. Bitwy pod Rokitną
+312,ul. Bitwy Warszawskiej 1920 r.
+313,ul. Biwakowa
+314,ul. Blacharska
+315,ul. Blaszana
+316,ul. J. Blatona
+317,ul. Bliska
+318,ul. Blokowa
+319,ul. Bluszczańska
+320,ul. Bluszczowa
+321,ul. Bławatków
+322,ul. Błażeja
+323,ul. Błędowska
+324,ul. Błękitna
+325,ul. Błękitna
+326,ul. Błonie
+327,ul. Błońska
+328,ul. Błotna
+329,al. A. Bobkowskiego
+330,ul. św. Andrzeja Boboli
+331,ul. Bobrowa
+332,ul. Bobrowiecka
+333,ul. S. Bobrowskiego
+334,ul. Bocheńska
+335,ul. E. Bocheńskiego „Dubańca”
+336,Skwer A. M. Bocheńskiego
+337,pl. Bociani Zakątek
+338,ul. Bociania
+339,ul. Boczańska
+340,ul. Boczna
+341,ul. Boczna
+342,ul. Boczniaków
+343,ul. E. Bodo
+344,ul. G. P. Boduena
+345,ul. S. Bodycha
+346,ul. Bodzanty
+347,Skwer płk. I. Boernera
+348,ul. Bogata
+349,ul. Bogatki
+350,ul. Bogatyńska
+351,ul. Boglarczyków
+352,ul. Bogoriów
+353,ul. Bogucicka
+354,ul. ks. T. Boguckiego
+355,ul. Bogumińska
+356,ul. Bogunki
+357,ul. W. Bogusławskiego
+358,ul. Boguszewska
+359,ul. gen. B. Bohaterewicza
+360,ul. Bohaterów
+361,ul. Bohaterów Getta
+362,ul. Bohaterów Warszawy
+363,al. Bohaterów Września
+364,ul. K. Bohdanowicza
+365,ul. A. Bohdziewicza
+366,ul. F. Bohomolca
+367,ul. Bohuna
+368,ul. M. Bohuszewiczówny
+369,ul. Bokserska
+370,ul. Bolecha
+371,ul. Bolesława Chrobrego
+372,ul. Bolesława Krzywoustego
+373,ul. Bolesława Śmiałego
+374,ul. Bolesławicka
+375,ul. Boleść
+376,ul. Bolimowska
+377,ul. S. Bolívara
+378,ul. Bolkowska
+379,ul. gen. M. Bołtucia
+380,ul. Bombardierów
+381,ul. św. Bonifacego
+382,ul. Bonifraterska
+383,ul. Bonisławska
+384,ul. gen. T. Bora-Komorowskiego
+385,ul. Borecka
+386,ul. Boremlowska
+387,ul. Borkowska
+388,ul. Borkowska
+389,ul. Borków
+390,ul. Borowa
+391,ul. W. Borowego
+392,ul. Borowej Góry
+393,ul. Borowiecka
+394,ul. Borowika
+395,ul. T. Borowskiego
+396,ul. Borówkowa
+397,ul. Borsucza
+398,ul. K. Borsuka
+399,ul. Boruty
+400,ul. Boryny
+401,ul. Borysławska
+402,ul. Boryszewska
+403,ul. Borzęcińska
+404,ul. Borzymowska
+405,ul. Bosmańska
+406,ul. Botaniczna
+407,ul. Ch. Botewa
+408,ul. T. Boya-Żeleńskiego
+409,ul. O. Boznańskiej
+410,Ścieżka ks. B. Bozowskiego
+411,ul. A. Bożka
+412,Pasaż Braci Łopieńskich
+413,Zaułek Braci Pakulskich
+414,ul. Braci Pillatich
+415,ul. Braci Wagów
+416,ul. Braci Załuskich
+417,ul. Bracka
+418,ul. Bracławska
+419,ul. Bramka
+420,ul. J. Brandta
+421,Skwer W. Brandta
+422,al. M. Brandysa
+423,ul. A. Branickiego
+424,ul. Braniewska
+425,ul. Brata Alberta
+426,ul. Braterstwa Broni
+427,ul. Bratka
+428,ul. Bratnia
+429,ul. Brazylijska
+430,ul. Brązownicza
+431,ul. B. Brechta
+432,ul. Brochowska
+433,ul. Brodnicka
+434,ul. A. Brodowskiego
+435,ul. Brodzik
+436,ul. K. Brodzińskiego
+437,Skwer S. Broniewskiego „Orszy”
+438,ul. W. Broniewskiego
+439,ul. W. Broniewskiego
+440,ul. K. Bronikowskiego
+441,ul. Broniwoja
+442,ul. Bronowska
+443,ul. Browarna
+444,ul. J. Brożka
+445,ul. Bródnowska
+446,ul. A. Brücknera
+447,ul. Brukselska
+448,ul. J. Bruna
+449,ul. Bruszewska
+450,ul. Bruzdowa
+451,ul. Brwinowska
+452,ul. Brygady Pościgowej
+453,ul. Brygadzistów
+454,ul. Brylantowa
+455,ul. Brylowska
+456,ul. S. Bryły
+457,ul. J. Brzechwy
+458,ul. Brzegowa
+459,ul. Brzeska
+460,Trakt Brzeski
+461,ul. Brzeziny
+462,ul. Brzezińska
+463,ul. Brzeżek
+464,ul. Brzoskwiniowa
+465,ul. Brzoskwiniowa
+466,ul. Brzostowska
+467,ul. Brzozowa
+468,ul. Brzozowa
+469,ul. Brzozowy Lasek
+470,ul. Brzozowy Zagajnik
+471,ul. Buchalteryjna
+472,ul. L. Buczkowskiego
+473,ul. Budki Szczęśliwickie
+474,ul. Budnicza
+475,ul. Budowlana
+476,ul. Budrysów
+477,ul. Budy
+478,ul. J. Budzińskiej-Tylickiej
+479,ul. Bugaj
+480,ul. Bukietowa
+481,ul. Bukowa
+482,ul. Bukowa
+483,ul. Bukowiecka
+484,ul. Bukowińska
+485,ul. J. Bukowskiego
+486,ul. Bukszpanowa
+487,ul. Bulwarowa
+488,ul. Buławy
+489,ul. Bułgarska
+490,ul. J. Bułhaka
+491,ul. Buńczuk
+492,ul. Buraczana
+493,ul. Burakowska
+494,ul. W. Burdzińskiego
+495,ul. Burgaska
+496,ul. Burleska
+497,ul. Burmistrzowska
+498,ul. J. Burschego
+499,ul. Bursztynowa
+500,ul. Bursztynowa
+501,ul. Burzliwa
+502,ul. Z. Burzyńskiego
+503,ul. Buska
+504,ul. Busolowa
+505,ul. Buszycka
+506,ul. Bychowska
+507,ul. Byczyńska
+508,ul. Bylicowa
+509,ul. Bysławska
+510,ul. Bystra
+511,ul. Bystrzycka
+512,ul. Byszewska
+513,ul. J. Bytnara „Rudego”
+514,ul. Bytomska
+515,ul. Bzowa
+516,al. Bzów
+517,ul. Calineczki
+518,ul. A. Călinescu
+519,ul. Calowa
+520,ul. Canaletta
+521,ul. Capri
+522,ul. Cechowa
+523,ul. św. Cecylii
+524,ul. Cedrowa
+525,ul. Cedrowa
+526,ul. Cedzyńska
+527,ul. Cegielniana
+528,ul. Ceglana
+529,ul. Cegłowska
+530,ul. Celestynowska
+531,ul. Celna
+532,ul. Celofanowa
+533,ul. Celtów
+534,ul. Celulozy
+535,ul. Cementowa
+536,ul. S. Cendrowskiego
+537,ul. Centralna
+538,ul. Centurii
+539,ul. Ceramiczna
+540,ul. Cesarskiej Korony
+541,ul. Chabrowa
+542,ul. Chabrów
+543,ul. T. Chałubińskiego
+544,ul. Chałupnicza
+545,ul. Chełchowska
+546,ul. J. Chełmońskiego
+547,ul. Chełmska
+548,ul. Chełmżyńska
+549,ul. Chemiczna
+550,ul. Chęcińska
+551,ul. Chińskiej Róży
+552,ul. Chlebowa
+553,ul. Chlewińska
+554,ul. Chlubna
+555,ul. D. A. Chłapowskiego
+556,ul. Chłodna
+557,ul. Chłodnicza
+558,ul. J. Chłopickiego
+559,ul. J. Chmiela
+560,ul. Chmielna
+561,ul. Chmurna
+562,ul. Chochołowska
+563,ul. Chocimska
+564,ul. Chodakowska
+565,ul. Chodecka
+566,ul. J. K. Chodkiewicza
+567,ul. J. K. Chodkiewicza
+568,ul. A. Chodorowskiego
+569,ul. Chodzieska
+570,ul. Chodzonego
+571,ul. Choinkowa
+572,ul. Chojnowska
+573,ul. F. Chopina
+574,ul. F. Chopina
+575,ul. Chorągwi Pancernej
+576,Skwer Chorwacki
+577,ul. Chorzelska
+578,ul. Chorzowska
+579,ul. Chotomowska
+580,ul. Chóralna
+581,ul. Chroszczewska
+582,ul. ks. J. Chrościckiego
+583,al. gen. A. Chruściela „Montera”
+584,ul. Chryzantemy
+585,ul. W. Chrzanowskiego
+586,ul. S. Chudoby
+587,ul. Chylicka
+588,ul. Chylońska
+589,ul. Chyrowska
+590,ul. Ciasna
+591,ul. Ciasna
+592,ul. Cicha
+593,ul. Cicha
+594,ul. Cichej Wody
+595,ul. Cichociemnych
+596,ul. Cichy Zakątek
+597,ul. Ciechanowska
+598,ul. Ciechocińska
+599,ul. Ciekawa
+600,ul. Ciekawa
+601,ul. Ciemna
+602,ul. Cienista
+603,ul. Cienista
+604,ul. Ciepielowska
+605,ul. Cieplarniana
+606,ul. Cieplarniana
+607,ul. Cieplicka
+608,ul. Ciepła
+609,ul. Cierlicka
+610,ul. Ciesielska
+611,ul. A. Cieszkowskiego
+612,ul. Cieszyńska
+613,ul. Cieślewskich
+614,ul. Cietrzewia
+615,ul. E. Ciołka
+616,ul. A. Ciołkosza
+617,ul. K. Ciołkowskiego
+618,ul. Cisowa
+619,ul. Cisowa
+620,ul. Ciszewska
+621,ul. J. F. Ciszewskiego
+622,ul. Ciupagi
+623,ul. Ciżemki
+624,ul. Cmentarna
+625,ul. Codzienna
+626,ul. Cokołowa
+627,ul. J. Conrada
+628,ul. gen. M. C. Coopera
+629,ul. A. Corazziego
+630,ul. Cudna
+631,ul. Cudne Manowce
+632,ul. Cudnowska
+633,ul. Cukrownicza
+634,ul. Cybernetyki
+635,ul. J. Cybisa
+636,ul. Z. Cybulskiego
+637,ul. Cyganeczki
+638,ul. Cygańska
+639,ul. Cyklamenowa
+640,ul. Cyklamenów
+641,ul. Cylichowska
+642,ul. Cymbalistów
+643,ul. Cynamonowa
+644,ul. Cynowa
+645,ul. Cypryjska
+646,ul. Cyprysowa
+647,ul. Cyprysowa
+648,ul. Cyraneczki
+649,ul. Cyrhli
+650,ul. Cyrklowa
+651,ul. Cyrkonii
+652,ul. Cyrulików
+653,ul. Świętych Cyryla i Metodego
+654,ul. Cytadeli
+655,ul. Cytrusowa
+656,ul. Cytrynowa
+657,ul. T. Czackiego
+658,ul. Czajki
+659,ul. H. Czaki
+660,ul. Czapelska
+661,ul. Czapli
+662,ul. Czapnicza
+663,ul. Czardasza
+664,ul. ks. K. Czarkowskiego
+665,ul. Czarna
+666,ul. Czarna Droga
+667,ul. S. Czarnieckiego
+668,ul. S. Czarnieckiego
+669,ul. Czarnocińska
+670,ul. Czarnoleska
+671,ul. Czarnołęcka
+672,ul. Czarnomorska
+673,ul. Czarnuszki
+674,ul. Czarodzieja
+675,ul. Czatów
+676,ul. Cząstkowska
+677,ul. B. Czecha
+678,ul. A. Czechowa
+679,ul. Czechowicka
+680,ul. J. Czechowicza
+681,ul. J. Czeczota
+682,ul. Czekanowska
+683,ul. Czekoladowa
+684,ul. Czeladnicza
+685,ul. Czempińska
+686,ul. Czeremchowa
+687,ul. Czereśniowa
+688,ul. Czereśniowa
+689,ul. Czerniakowska
+690,ul. Czerniowiecka
+691,ul. Czerska
+692,pl. Czerwca 1976 r.
+693,ul. F. Czerwijowskiego
+694,ul. Czerwińska
+695,ul. Czerwona Droga
+696,ul. Czerwonego Kapturka
+697,ul. Czerwonego Krzyża
+698,ul. Czerwonych Beretów
+699,ul. Czerwonych Maków
+700,ul. Czerwonych Wierchów
+701,ul. Czeska
+702,ul. Cześnika
+703,ul. Częstochowska
+704,ul. Człuchowska
+705,ul. Czołgistów
+706,ul. Czołowa
+707,ul. Czorsztyńska
+708,ul. Czółenkowa
+709,ul. Czterech Wiatrów
+710,ul. Czterolistnej Koniczynki
+711,ul. Czubatki
+712,ul. Czujna
+713,ul. gen. W. Czumy
+714,ul. Czwartaków
+715,ul. Czynszowa
+716,ul. Czysta
+717,ul. Czytelnicza
+718,ul. Czyżewska
+719,ul. Ćmielowska
+720,ul. M. Ćwiklińskiej
+721,ul. Daglezji
+722,ul. Daglezji
+723,ul. E. Dahlbergha
+724,ul. G. Daimlera
+725,ul. Daków
+726,ul. Daktylowa
+727,ul. Dalanowska
+728,ul. Daleka
+729,ul. Daleszycka
+730,ul. Dalibora
+731,ul. Dalii
+732,ul. Daliowa
+733,ul. L. Danielewicza
+734,ul. Daniłowiczowska
+735,ul. G. Daniłowskiego
+736,ul. Daniszewska
+737,ul. Dankowicka
+738,ul. Dantego
+739,ul. J. Dantyszka
+740,ul. Danusi
+741,ul. Darłowska
+742,ul. Darniowa
+743,ul. K. Darwina
+744,ul. Daszowska
+745,Rondo I. Daszyńskiego
+746,ul. Dawidowska
+747,ul. A. Dawidowskiego
+748,ul. Dawna
+749,ul. płk. S. Dąbka
+750,ul. Dąbrowa
+751,ul. Dąbrowiecka
+752,pl. J. H. Dąbrowskiego
+753,ul. J. Dąbrowskiego
+754,ul. K. Dąbrowskiego
+755,ul. M. Dąbrowskiej
+756,ul. Dąbrowszczaków
+757,ul. Dąbrowy
+758,ul. Dąbrówki
+759,Rondo gen. Ch. de Gaulle'a
+760,Skwer J. Decowskiego
+761,ul. Dedala
+762,pl. Defilad
+763,ul. Dekarska
+764,Strona J. Dekerta
+765,ul. Delfina
+766,ul. S. Dembego
+767,ul. H. Dembińskiego
+768,ul. E. Dembowskiego
+769,ul. Denarowa
+770,ul. Deotymy
+771,ul. Deptak
+772,ul. Derby
+773,ul. Dereniowa
+774,ul. Derkaczy
+775,ul. Derwida
+776,ul. Deseniowa
+777,ul. Deszczowa
+778,ul. Dewajtis
+779,ul. K. Deyny
+780,ul. Dębicka
+781,ul. Dębinki
+782,ul. Dęblińska
+783,ul. Dębowa
+784,ul. Dębowa
+785,ul. Dęby
+786,ul. Diamentowa
+787,ul. Diamentowa
+788,ul. K. Dickensa
+789,ul. Dionizosa
+790,ul. Długa
+791,ul. Długa
+792,ul. Długomiła
+793,ul. Długopolska
+794,ul. Długorzeczna
+795,ul. J. Długosza
+796,ul. Dłutowska
+797,ul. F. K. Dmochowskiego
+798,Rondo R. Dmowskiego
+799,ul. Dmuchawcowa
+800,ul. Do Fortu
+801,ul. A. Dobiszewskiego
+802,ul. Dobka z Oleśnicy
+803,ul. Dobosza
+804,ul. Dobra
+805,ul. Dobra
+806,Skwer Dobrego Maharadży
+807,ul. Dobrodzieja
+808,ul. Dobrogniewa
+809,ul. Dobrowoja
+810,ul. A. B. Dobrowolskiego
+811,ul. H. Dobrzańskiego „Hubala”
+812,ul. B. Dobrzańskiego
+813,ul. Dobrzyniecka
+814,ul. Dojazdowa
+815,ul. Dokerów
+816,ul. W. Dolańskiego
+817,ul. Dolina Służewiecka
+818,ul. Dolna
+819,ul. Dolnośląska
+820,ul. Dolomitowa
+821,ul. Dołowa
+822,ul. Domaniewska
+823,ul. I. Domeyki
+824,ul. Dominikańska
+825,ul. Dominiki
+826,ul. Domowa
+827,ul. Don Kichota
+828,ul. Dorodna
+829,ul. Dorohuska
+830,ul. W. Doroszewskiego
+831,ul. Dorotowska
+832,ul. Dorycka
+833,ul. Dostatnia
+834,ul. Dostępna
+835,ul. Dowcip
+836,ul. Dowcip
+837,ul. Dowódców
+838,ul. Dożynkowa
+839,ul. Draceny
+840,ul. Dragonów
+841,ul. Drapińska
+842,ul. Drawska
+843,ul. Drewniana
+844,ul. Drewnicka
+845,ul. K. Drewnowskiego
+846,ul. Ł. Drewny
+847,ul. Drezdeńska
+848,ul. Drobiazg
+849,ul. Droga Golfowa
+850,ul. Drogistów
+851,ul. Drogomilska
+852,ul. Drogowa
+853,ul. Drohicka
+854,ul. Drohobycka
+855,ul. Drozdowa
+856,ul. Drożdżowa
+857,ul. Druciana
+858,ul. Drukarzy
+859,ul. Drumli
+860,ul. E. Drużbackiej
+861,ul. Drużynowa
+862,ul. Drwali
+863,ul. Mikołaja Drygały
+864,ul. Drzemlika
+865,al. P. Drzewieckiego
+866,ul. S. Drzewieckiego
+867,ul. Drzeworytników
+868,ul. M. Drzymały
+869,ul. Dubieńska
+870,ul. S. Dubois
+871,ul. Duchnicka
+872,Rondo D. Dudajewa
+873,ul. Dudka
+874,ul. Dudziarska
+875,ul. Dukatowa
+876,ul. Dukielska
+877,ul. Dulczyńska
+878,ul. Dumki
+879,ul. Dunajecka
+880,ul. X. Dunikowskiego
+881,ul. Duninów
+882,ul. T. Duracza
+883,ul. Dusznicka
+884,ul. J. Dwernickiego
+885,ul. J. Dwernickiego
+886,al. „Dwie Dorotki”
+887,ul. Dworcowa
+888,ul. Dworkowa
+889,ul. Dworkowa
+890,ul. Dworska
+891,ul. Dwóch Mieczy
+892,al. Dwudziestolatków
+893,ul. Dwusieczna
+894,ul. B. Dybowskiego
+895,ul. Dychowska
+896,ul. A. Dygasińskiego
+897,ul. Dylewska
+898,ul. Dyliżansowa
+899,ul. Dymińska
+900,ul. Dymna
+901,ul. Dynamiczna
+902,ul. Dynarska
+903,ul. Dynasy
+904,ul. Dyngus
+905,ul. Dynowska
+906,Skwer 1 Dyw.Grenadierów-Francja 1940
+907,Skwer 1 Dywizji Pancernej WP
+908,ul. 20 Dywizji Piechoty WP
+909,ul. Dywizjonu 303
+910,ul. Dywizjonu AK „Jeleń”
+911,ul. A. Dyżewskiego
+912,ul. Działdowska
+913,ul. Działkowa
+914,ul. Działowa
+915,ul. Działyńczyków
+916,ul. Dziatwy
+917,ul. Dzidka Warszawiaka
+918,al. Dzieci Polskich
+919,ul. Dzieci Warszawy
+920,ul. Dziecięca
+921,ul. Dziekania
+922,ul. Dziekanowska
+923,ul. Dzielna
+924,ul. Dzielna
+925,ul. Dzielnicowa
+926,ul. Dziennikarska
+927,ul. Dzierzby
+928,ul. Dzierzgońska
+929,ul. Dzierżoniowska
+930,ul. Dziewanny
+931,ul. Dziewanny
+932,ul. Dziewanowska
+933,ul. Dziewiarska
+934,ul. Dziewierza
+935,ul. Dziewosłęby
+936,ul. Dzięcieliny
+937,ul. Dzięcioła
+938,ul. Dzięgielowa
+939,ul. Dzika
+940,ul. Dzika
+941,ul. Dzikiego Wina
+942,ul. Dzikiej Kaczki
+943,ul. Dzikiej Róży
+944,ul. Dziupli
+945,ul. Dziwna
+946,ul. Dziwożony
+947,ul. Dzwonkowa
+948,ul. Dzwonnicza
+949,ul. Dźwiękowa
+950,ul. Dźwigowa
+951,ul. Dźwińska
+952,ul. Ebro
+953,ul. Echa Leśne
+954,ul. T. Edisona
+955,ul. Egejska
+956,ul. Egipska
+957,ul. A. Einsteina
+958,ul. J. Ejsmonda
+959,ul. Ekologiczna
+960,ul. Ekspresowa
+961,ul. Elbląska
+962,al. „Ele - Mele”
+963,ul. Elegancka
+964,ul. Elegijna
+965,ul. Elekcyjna
+966,ul. Elektoralna
+967,ul. Elektronowa
+968,ul. Elektry
+969,ul. Elektryczna
+970,ul. J. Elsnera
+971,ul. Elsterska
+972,ul. Emaliowa
+973,ul. Encyklopedyczna
+974,ul. Energetyczna
+975,Pasaż A. Englerta
+976,ul. Epopei
+977,ul. Erazma z Zakroczymia
+978,ul. Esej
+979,ul. Eskimoska
+980,ul. Eskulapów
+981,ul. Esperanto
+982,ul. Estońska
+983,ul. Estrady
+984,ul. Etiudy Rewolucyjnej
+985,ul. Europejska
+986,ul. Ewy
+987,ul. Ezopa
+988,ul. Fabiańska
+989,ul. Fabryczna
+990,ul. Fabryczna
+991,ul. Fajansowa
+992,ul. Falenicka
+993,ul. Falentyńska
+994,ul. Falęcka
+995,ul. Falkowska
+996,ul. M. Falskiego
+997,ul. J. Fałata
+998,ul. Familijna
+999,ul. Fanfarowa
+1000,ul. Fantazyjna
+1001,ul. M. Faradaya
+1002,ul. Faraona
+1003,ul. Farbiarska
+1004,ul. Farysa
+1005,ul. Fasolowa
+1006,ul. Fausta
+1007,ul. Fawory
+1008,ul. A. Felińskiego
+1009,ul. M. Fersta
+1010,Rondo gen. A. E. Fieldorfa „Nila”
+1011,ul. gen. A. E. Fieldorfa „Nila”
+1012,ul. Figara
+1013,ul. Figiel
+1014,ul. Figowa
+1015,Skwer Fijewskich
+1016,ul. Filarecka
+1017,ul. Filipinki
+1018,ul. Filmowa
+1019,ul. Filomatów
+1020,ul. Filona
+1021,ul. Filtrowa
+1022,ul. Finałowa
+1023,ul. Finlandzka
+1024,ul. Fińska
+1025,ul. Fioletowa
+1026,ul. Fiołków
+1027,ul. Fiołków
+1028,ul. Firletki
+1029,ul. S. Fiszera
+1030,ul. G. Fitelberga
+1031,ul. Fizyków
+1032,ul. Fizylierów
+1033,ul. Flagowa
+1034,ul. Flamenco
+1035,ul. ks. J. Flazińskiego
+1036,ul. A. Fleminga
+1037,ul. Fletniowa
+1038,ul. M. Flisa
+1039,ul. Flisaków
+1040,ul. Floksów
+1041,ul. Floriana
+1042,ul. Floriańska
+1043,ul. Flory
+1044,ul. Flory
+1045,Bulwar Flotylli Wiślanej
+1046,ul. marsz. F. Focha
+1047,Skwer M. Fogga
+1048,ul. Foksal
+1049,ul. Foliałowa
+1050,ul. Folwarczna
+1051,ul. E. Fondamińskiego
+1052,ul. A. Fontany
+1053,ul. Forsycji
+1054,ul. Forsycji
+1055,ul. Fort Wola
+1056,ul. Forteczna
+1057,ul. Fortel
+1058,ul. Fortowa
+1059,ul. Fortuny
+1060,ul. Fosa
+1061,ul. Frachtowa
+1062,ul. św. Franciszka Salezego
+1063,ul. Franciszkańska
+1064,ul. Francuska
+1065,ul. Frascati
+1066,ul. P. Frasera
+1067,ul. Fraszka
+1068,ul. Fraszki
+1069,ul. A. Fredry
+1070,ul. A. Fredry
+1071,ul. Fregaty
+1072,ul. M. Frenkla
+1073,ul. Freta
+1074,ul. Frezji
+1075,ul. Fromborska
+1076,ul. Frontowa
+1077,ul. A. Frycza Modrzewskiego
+1078,ul. Frygijska
+1079,ul. Frysztacka
+1080,ul. J. Fučíka
+1081,ul. Fukierów
+1082,ul. Fuksji
+1083,ul. Fundamentowa
+1084,ul. Furmańska
+1085,ul. Gabriela
+1086,ul. J. Gagarina
+1087,ul. Gaik
+1088,ul. T. Gajcego
+1089,ul. Gajdy
+1090,ul. A. Gajkowicza
+1091,ul. Gajowa
+1092,ul. Gajowa
+1093,ul. Galaktyki
+1094,ul. Galijska
+1095,ul. Galileusza
+1096,ul. Galla Anonima
+1097,ul. Galopu
+1098,ul. K. I. Gałczyńskiego
+1099,ul. T. Gamerskiego
+1100,ul. I. Gandhi
+1101,ul. M. Gandhiego
+1102,ul. Garażowa
+1103,ul. Garbarska
+1104,ul. K. Garbińskiego
+1105,ul. Gardenii
+1106,ul. G. Garibaldiego
+1107,ul. Garłaczy
+1108,ul. Garncarska
+1109,ul. Garwolińska
+1110,ul. Gawędziarzy
+1111,ul. J. Gawińskiego
+1112,ul. Gawota
+1113,ul. Gazowa
+1114,ul. Gąbińska
+1115,ul. Gąsek
+1116,ul. Gąsienicowa
+1117,ul. W. Gąsiorowskiego
+1118,ul. N. Gąsiorowskiej
+1119,ul. Gąsocińska
+1120,ul. Gdańska
+1121,Most Gdański
+1122,ul. Gdecka
+1123,ul. Gdyńska
+1124,ul. Gedymina
+1125,ul. B. Gembarzewskiego
+1126,ul. Genewska
+1127,ul. Geodetów
+1128,ul. Geodezyjna
+1129,ul. Geograficzna
+1130,ul. Geologiczna
+1131,ul. Geometryczna
+1132,ul. Geranii
+1133,ul. Gerberowa
+1134,ul. W. Gersona
+1135,ul. Gerwazego
+1136,ul. Gębicka
+1137,ul. Z. Gęsickiego „Juno”
+1138,ul. Gęsta
+1139,ul. Gęślarska
+1140,ul. E. Gibalskiego
+1141,ul. Gibraltarska
+1142,ul. B. Gidzińskiego
+1143,Skwer J. Giedroycia
+1144,ul. Giełdowa
+1145,ul. E. Gierczak
+1146,ul. Gierdawska
+1147,ul. K. Gierdziejewskiego
+1148,ul. Giermków
+1149,ul. A. Gierymskiego
+1150,ul. Giewont
+1151,ul. A. Gieysztora
+1152,ul. Gilarska
+1153,ul. Gimnastyczna
+1154,ul. Gimnazjalna
+1155,ul. Gitarowa
+1156,ul. Gizów
+1157,al. W. Giżyckiego
+1158,ul. Gladioli
+1159,ul. Glebowa
+1160,ul. Glicynii
+1161,ul. Gliwicka
+1162,ul. Globusowa
+1163,ul. Z. Glogera
+1164,ul. Gładka
+1165,ul. Głębocka
+1166,ul. Głęboka
+1167,ul. Głogowa
+1168,ul. Głogowska
+1169,ul. B. Głowackiego
+1170,ul. B. Głowackiego
+1171,ul. Główna
+1172,ul. Głubczycka
+1173,ul. Głucha
+1174,ul. Głucha
+1175,ul. Głuszca
+1176,ul. Głuszycka
+1177,ul. Gniazdowska
+1178,ul. Gniewkowska
+1179,ul. Gnieźnieńska
+1180,ul. Gocławska
+1181,ul. Goczałkowicka
+1182,ul. C. Godebskiego
+1183,ul. C. Godebskiego
+1184,ul. Godlewska
+1185,ul. Godowska
+1186,al. Godziny „W”
+1187,ul. Godziszowska
+1188,ul. Gogolińska
+1189,ul. P. Gojawiczyńskiej
+1190,ul. C. Goldoniego
+1191,ul. Goleszowska
+1192,ul. Golędzinowska
+1193,ul. Golfowa
+1194,ul. Goławicka
+1195,ul. Gołdapska
+1196,ul. Gołębia
+1197,ul. Ł. Gołębiowskiego
+1198,ul. Gołkowska
+1199,ul. Gołuchowska
+1200,ul. W. Gombrowicza
+1201,ul. M. Gomółki
+1202,ul. W. Gomulickiego
+1203,ul. Gontarska
+1204,ul. Marii Ludwiki Gonzagi
+1205,ul. Goplańska
+1206,ul. Gorajska
+1207,ul. Goraszewska
+1208,ul. Gorlicka
+1209,ul. Goryczkowa
+1210,ul. Gorzelnicza
+1211,ul. Gorzkiewki
+1212,ul. Gorzykowska
+1213,ul. Gospodarcza
+1214,ul. Gostyńska
+1215,ul. S. Goszczyńskiego
+1216,ul. Gościeradowska
+1217,ul. Gościniec
+1218,ul. Gościniec
+1219,ul. Gościnna
+1220,ul. Gotarda
+1221,ul. Gotycka
+1222,ul. Goworka
+1223,ul. Goworowska
+1224,ul. Gozdawitów
+1225,ul. Goździków
+1226,ul. Góralska
+1227,ul. Górczewska
+1228,ul. Górna
+1229,ul. Górna
+1230,ul. Górna Droga
+1231,ul. Ł. Górnickiego
+1232,ul. Górnośląska
+1233,ul. Górska
+1234,ul. W. Górskiego
+1235,ul. Grabalówki
+1236,ul. Grabiny
+1237,ul. Grabowa
+1238,ul. Grabowska
+1239,ul. A. Grabowskiego
+1240,ul. W. J. Grabskiego
+1241,ul. Grafitowa
+1242,ul. Grajewska
+1243,ul. Graniczna
+1244,ul. Graniczna
+1245,ul. Granitowa
+1246,ul. Granitowa
+1247,ul. Granowska
+1248,ul. Gratyny
+1249,ul. Grawerska
+1250,ul. Grażyny
+1251,ul. Grecka
+1252,ul. Grenadierów
+1253,ul. Grenady
+1254,ul. Grębałowska
+1255,ul. Gręplarska
+1256,ul. Grobelska
+1257,ul. Grocholicka
+1258,ul. S. Grochowiaka
+1259,ul. Grochowska
+1260,ul. K. Grodeckiego
+1261,ul. Grodkowska
+1262,ul. Grodzieńska
+1263,ul. Grodziska
+1264,ul. Grodzka
+1265,ul. F. Groëra
+1266,ul. Gronowa
+1267,ul. J. Groszkowskiego
+1268,ul. Groszowicka
+1269,Most gen. S. Grota-Roweckiego
+1270,ul. Groteski
+1271,ul. Grotowska
+1272,Skwer A. Grotowskiego
+1273,ul. A. Grottgera
+1274,ul. Grójecka
+1275,ul. Gruchacza
+1276,ul. 27 Grudnia
+1277,ul. Grudowska
+1278,ul. Gruntowa
+1279,pl. Grunwaldzki
+1280,Skwer Grupy AK „Granat”
+1281,ul. Grupy AK „Kampinos”
+1282,ul. Grupy AK „Północ”
+1283,ul. P. Gruszczyńskiego
+1284,ul. Gruszy
+1285,ul. Gruzińska
+1286,ul. Gryczana
+1287,ul. Gryfitów
+1288,ul. M. Grzegorzewskiej
+1289,ul. S. Grzesiuka
+1290,ul. Sz. Grzeszczyka
+1291,ul. Grzybowa
+1292,ul. Grzybowa
+1293,ul. Grzybowska
+1294,pl. Grzybowski
+1295,ul. Grzymalitów
+1296,Bulwar B. Grzymały-Siedleckiego
+1297,ul. Grzywaczy
+1298,ul. Gubinowska
+1299,ul. K. Guderskiego
+1300,ul. Guliwera
+1301,ul. Gułowska
+1302,ul. Guńki
+1303,ul. Gustawa
+1304,ul. R. Gutta
+1305,ul. Guźca
+1306,ul. Gwardii
+1307,pl. Gwardii
+1308,ul. Gwarków
+1309,ul. Gwiazda
+1310,Skwer Gwiazda Polski
+1311,ul. Gwiaździsta
+1312,ul. Gwintowa
+1313,ul. Gżegżółki
+1314,ul. Haczowska
+1315,ul. Hafciarska
+1316,ul. Hajduczka
+1317,ul. Hajnowska
+1318,ul. Hajoty
+1319,ul. Halki
+1320,pl. gen. J. Hallera
+1321,ul. Halna
+1322,ul. Handlowa
+1323,ul. S. K. Hankiewicza
+1324,ul. W. Hańczy
+1325,ul. Harcerska
+1326,ul. Harendy
+1327,ul. Harfowa
+1328,ul. Harmonistów
+1329,ul. Harnasie
+1330,al. G. Harrisona
+1331,ul. W. Hassa
+1332,ul. Haubicy
+1333,ul. J. Hauke-Bosaka
+1334,ul. Hawajska
+1335,ul. Hebanowa
+1336,ul. Hebanowa
+1337,ul. Hejnałowa
+1338,ul. Hektarowa
+1339,ul. Heliotropów
+1340,ul. Heloizy
+1341,ul. M. Hemara
+1342,ul. S. Hempla
+1343,pl. D. Henkla
+1344,ul. T. Hennela
+1345,ul. Henryka Brodatego
+1346,ul. Henryka Pobożnego
+1347,ul. Henryka Probusa
+1348,ul. Henrykowska
+1349,ul. Herbaciana
+1350,ul. Herbowa
+1351,ul. S. Herbsta
+1352,ul. Herbu Korczak
+1353,ul. Herbu Leliwa
+1354,ul. Herbu Pogoń
+1355,ul. Herbu Szreniawa
+1356,ul. Hermanowska
+1357,ul. Heroldów
+1358,ul. B. Hertza
+1359,ul. Hery
+1360,ul. Hetmańska
+1361,ul. Hiacyntowa
+1362,ul. Hiacyntowa
+1363,ul. Hieroglif
+1364,ul. św. Hieronima
+1365,ul. Himalajska
+1366,Rondo J. Himilsbacha
+1367,ul. Hipolitowo
+1368,ul. Hipoteczna
+1369,ul. Hipoteczna
+1370,ul. Hipotezy
+1371,ul. L. Hirszfelda
+1372,ul. Prymasa A. Hlonda
+1373,ul. M. Hłaski
+1374,ul. Hodowlana
+1375,ul. J. Hoene-Wrońskiego
+1376,ul. K. Hoffmanowej
+1377,ul. Holenderska
+1378,ul. T. Hołówki
+1379,ul. Hołubcowa
+1380,ul. Homera
+1381,Skwer H. C. Hoovera
+1382,al. T. Hopfera
+1383,ul. Horacego
+1384,ul. E. Horbaczewskiego
+1385,ul. Horodelska
+1386,ul. Hortensji
+1387,ul. Hoserów
+1388,ul. S. Hozjusza
+1389,ul. Hoża
+1390,ul. Hrubieszowska
+1391,ul. Hubalczyków
+1392,ul. M. T. Hubera
+1393,ul. Hucisko
+1394,ul. Huculska
+1395,ul. Huczna
+1396,ul. Hufcowa
+1397,ul. Humanistów
+1398,ul. Humańska
+1399,ul. J. Husa
+1400,ul. Husarii
+1401,ul. Husarska
+1402,ul. Husarska
+1403,ul. Hutnicza
+1404,ul. F. Hynka
+1405,ul. Iberyjska
+1406,ul. Ibisa
+1407,ul. L. Idzikowskiego
+1408,ul. L. Idzikowskiego
+1409,ul. A. Idźkowskiego
+1410,ul. Igańska
+1411,ul. Iglasta
+1412,ul. Igrzyskowa
+1413,ul. Ikara
+1414,ul. F. Ilskiego
+1415,ul. Iłżecka
+1416,ul. Imbirowa
+1417,ul. Imielińska
+1418,ul. Improwizacji
+1419,ul. Indycza
+1420,ul. Indyjska
+1421,ul. Inflancka
+1422,ul. Inna
+1423,ul. Inowłodzka
+1424,ul. Inowrocławska
+1425,ul. Inspektowa
+1426,ul. Instalatorów
+1427,ul. Instruktorska
+1428,ul. Instytutowa
+1429,ul. Insurekcji
+1430,ul. Internetowa
+1431,pl. Inwalidów
+1432,ul. Inżynierska
+1433,ul. Ireny
+1434,Skwer M. Iringha
+1435,ul. Irlandzka
+1436,ul. Irminy
+1437,ul. Irydowa
+1438,ul. Irysowa
+1439,ul. Irysów
+1440,ul. K. Irzykowskiego
+1441,ul. Iskry
+1442,ul. ks. J. Iwaniuka
+1443,ul. J. Iwanowa-Szajnowicza
+1444,ul. Iwicka
+1445,ul. Iwonicka
+1446,ul. Izabelli
+1447,ul. Izbicka
+1448,ul. Izdebnicka
+1449,ul. Izerska
+1450,ul. Izoldy
+1451,ul. Jabłeczna
+1452,ul. Jabłoni
+1453,ul. S. J. Jabłonowskiego
+1454,ul. S. Jachowicza
+1455,ul. Jachtowa
+1456,ul. Jacka i Agatki
+1457,ul. Jadowska
+1458,ul. Jadźwingów
+1459,ul. Jagiellońska
+1460,ul. Jagiellońska
+1461,ul. Jagielska
+1462,ul. Jagienki
+1463,ul. S. Jagmina
+1464,ul. Jagny
+1465,ul. Jagodowa
+1466,ul. Jagody
+1467,ul. A. Jakiela
+1468,ul. Jakobinów
+1469,ul. Jaktorowska
+1470,ul. Jakubowska
+1471,ul. Jałowcowa
+1472,ul. Jałtańska
+1473,ul. Jamińska
+1474,ul. Jamki
+1475,ul. Jana Kazimierza
+1476,al. Jana Pawła II
+1477,ul. Jana Pawła II
+1478,ul. Janczarów
+1479,ul. F. Janika
+1480,ul. Janinówka
+1481,ul. Janiszowska
+1482,ul. Janka Muzykanta
+1483,ul. Jankowska
+1484,Skwer S. Jankowskiego „Agatona”
+1485,ul. E. Jankowskiego
+1486,ul. Janosika
+1487,ul. Janowiecka
+1488,ul. A. Janowskiego
+1489,ul. Jantar
+1490,ul. Jantarowy Szlak
+1491,ul. Januszewska
+1492,ul. Jara
+1493,ul. S. Jaracza
+1494,ul. Jarocińska
+1495,ul. Jarosławska
+1496,ul. Jarząbków
+1497,ul. Jarzębinowa
+1498,ul. Jarzębinowa
+1499,ul. A. Jarzębskiego
+1500,ul. Jasielska
+1501,Rondo P. Jasienicy
+1502,ul. Jasiniec
+1503,ul. J. Jasińskiego
+1504,ul. Jaskółcza
+1505,ul. Jaskrów
+1506,ul. Jasna
+1507,ul. Jasna
+1508,ul. Jasnodworska
+1509,ul. Jasnoty
+1510,ul. Jasówka
+1511,ul. Jaspisowa
+1512,ul. Jastrzębia
+1513,ul. W. B. Jastrzębowskiego
+1514,ul. Jaszczurcza
+1515,ul. Jaszowiecka
+1516,ul. T. Jaśkiewicza
+1517,ul. Jaśminowa
+1518,ul. Jaśminowa
+1519,ul. Jaworowa
+1520,ul. Jaworowa
+1521,ul. Jaworowska
+1522,ul. Jaworzniaków
+1523,ul. Jaworzyńska
+1524,ul. Jazdów
+1525,Rondo Jazdy Polskiej
+1526,ul. Jazgarzewska
+1527,ul. Jedlińska
+1528,ul. Jedwabna
+1529,ul. Jedwabnicka
+1530,ul. Jedwabnicza
+1531,ul. Jelenia
+1532,ul. Jeleniogórska
+1533,ul. E. Jelinka
+1534,ul. Jelonka
+1535,ul. Jemiołowa
+1536,ul. Jemiołuszki
+1537,Al. Jerozolimskie
+1538,ul. Jerzego
+1539,ul. Jerzyka
+1540,ul. Jesienna
+1541,ul. Jesiennych Liści
+1542,ul. Jesionowa
+1543,ul. Jesionowa
+1544,ul. Jesiotrowa
+1545,ul. F. S. Jezierskiego
+1546,ul. J. Jeziorańskiego
+1547,ul. Jeziorki
+1548,ul. Jeziorna
+1549,ul. Jeziorowa
+1550,ul. Jezuicka
+1551,ul. Jeździecka
+1552,ul. Jeździecka
+1553,ul. Jeża
+1554,ul. K. Jeżewskiego
+1555,ul. Jeżowa
+1556,ul. Jeżynowa
+1557,ul. H. Jędrzejowskiego
+1558,ul. Jodłowa
+1559,ul. Jodłowa
+1560,ul. F. Joliot-Curie
+1561,ul. Jontka
+1562,ul. Jordanowska
+1563,ul. T. Joteyki
+1564,ul. Jowisza
+1565,ul. J. Joyce'a
+1566,ul. Z. Jórskiego
+1567,ul. Józefowska
+1568,ul. Jubilerska
+1569,ul. Jugosłowiańska
+1570,ul. Juhasów
+1571,ul. Julianowska
+1572,ul. Junaków
+1573,ul. H. Junkiewicz
+1574,Skwer gen. J. Jura-Gorzechowskiego
+1575,ul. Juranda ze Spychowa
+1576,ul. Juraty
+1577,ul. Jutrzenki
+1578,ul. Jutrzenki
+1579,ul. Kabacka
+1580,ul. Kabacki Dukt
+1581,ul. Kabaretowa
+1582,ul. Kabrioletu
+1583,ul. A. Kacpury
+1584,ul. Kacza
+1585,ul. Kaczeńca
+1586,Skwer J. Kaczmarskiego
+1587,ul. Kaczorowa
+1588,ul. Kaczorowska
+1589,ul. Kaczy Dół
+1590,al. T. Kaczyńskiego
+1591,ul. J. Kaden-Bandrowskiego
+1592,ul. Kadetów
+1593,ul. Kadrowa
+1594,ul. Kadryla
+1595,ul. Kaflowa
+1596,Skwer T. Kahla
+1597,ul. Kajakowa
+1598,ul. Kajetańska
+1599,ul. M. Kajki
+1600,ul. Kakaowa
+1601,ul. kard. A. Kakowskiego
+1602,ul. Kaktusowa
+1603,ul. Kalambur
+1604,ul. Kalatówki
+1605,ul. Kalendarzowa
+1606,ul. Kaleńska
+1607,ul. Kaletnicza
+1608,ul. Kalinowa
+1609,ul. Kalinowa
+1610,ul. Kalinowej Łąki
+1611,ul. Kalinowska
+1612,ul. Kaliny
+1613,ul. Kaliska
+1614,ul. gen. S. Kaliskiego
+1615,ul. Kaliszówka
+1616,ul. Kaloryczna
+1617,ul. Kałuszyńska
+1618,ul. Kamasznicza
+1619,ul. Kamedulska
+1620,ul. Kameliowa
+1621,ul. Kameliowa
+1622,ul. Kameralna
+1623,ul. Kamienna
+1624,ul. Kamienna
+1625,ul. Kamienne Schodki
+1626,ul. M. Kamieńskiego
+1627,ul. A. Kamińskiego
+1628,ul. Kamionkowska
+1629,ul. Kampinoska
+1630,ul. Kamyk
+1631,ul. Kamykowa
+1632,ul. Kanadyjska
+1633,ul. Kanałowa
+1634,ul. Kanarkowa
+1635,ul. Kaniowska
+1636,ul. Kanonia
+1637,ul. Kanonierska
+1638,ul. Kapelanów AK
+1639,ul. Kapeli
+1640,ul. Kapelusznicza
+1641,ul. Kapitańska
+1642,ul. Kapitulna
+1643,ul. Kaprys
+1644,ul. Kapucyńska
+1645,ul. Karabeli
+1646,ul. K. Karasia
+1647,ul. Karatowa
+1648,ul. Karczewska
+1649,ul. Karczocha
+1650,ul. Karczunkowska
+1651,ul. Karkonoska
+1652,ul. Karkonoszy
+1653,ul. Karla
+1654,ul. K. Karlińskiego
+1655,ul. M. Karłowicza
+1656,ul. Karmazynowa
+1657,ul. Karmelicka
+1658,ul. Karminowa
+1659,ul. Karnawał
+1660,ul. Karnicka
+1661,ul. Karolinki
+1662,ul. Karolkowa
+1663,ul. Karolówka
+1664,ul. Karowa
+1665,ul. Karpacka
+1666,ul. F. Karpińskiego
+1667,ul. Karska
+1668,Bulwar J. Karskiego
+1669,ul. Kartaginy
+1670,ul. Kartezjusza
+1671,ul. Kartograficzna
+1672,ul. Kartonowa
+1673,ul. Karuzela
+1674,ul. Karwińska
+1675,ul. Kasjopei
+1676,ul. Kaskadowa
+1677,ul. Kaspijska
+1678,ul. J. Kasprowicza
+1679,ul. J. Kasprowicza
+1680,ul. M. Kasprzaka
+1681,Skwer J. Kastrioty Skanderbega
+1682,ul. Kaszmirowa
+1683,ul. Kasztanowa
+1684,ul. Kasztanowa
+1685,pl. Kasztelański
+1686,ul. Kaszubska
+1687,ul. Kaśki Kariatydy
+1688,ul. Katalogowa
+1689,ul. Katalońska
+1690,ul. Katarynki
+1691,ul. Katiuszy
+1692,ul. Katowicka
+1693,ul. Kaukaska
+1694,ul. Kawalerii
+1695,ul. Kawcza
+1696,ul. W. Kaweckiej
+1697,ul. Kawęczyńska
+1698,ul. Kawki
+1699,ul. F. Kawy
+1700,ul. Kazachska
+1701,ul. Kazimierza Jagiellończyka
+1702,ul. Kazimierza Odnowiciela
+1703,ul. Kazimierza Sprawiedliwego
+1704,ul. Kazimierza Wielkiego
+1705,ul. Kazimierzowska
+1706,ul. Kazita
+1707,ul. Kazubów
+1708,ul. Kazuńska
+1709,ul. S. Kazury
+1710,ul. Kądziołeczki
+1711,ul. Kąkolewska
+1712,ul. Kąkolowa
+1713,ul. Kąpielowa
+1714,ul. Kąsek
+1715,ul. Kątna
+1716,ul. Kątowa
+1717,ul. M. Kątskiego
+1718,ul. Kąty Grodziskie
+1719,ul. M. Keniga
+1720,Rondo Kercelak
+1721,pl. F. Keresztes-Fischera
+1722,ul. Ketlinga
+1723,ul. J. Kędzierskiego
+1724,ul. Kędzierzyńska
+1725,ul. Kępa Tarchomińska
+1726,ul. Kępna
+1727,ul. Kibiców
+1728,ul. B. Kicińskiego
+1729,ul. L. Kickiego
+1730,ul. ppłk. Z. S. Kiedacza
+1731,ul. Kiejstuta
+1732,ul. Kielecka
+1733,ul. Kiełpińska
+1734,ul. J. Kiepury
+1735,ul. S. Kierbedzia
+1736,ul. Kiermaszowa
+1737,ul. K. Kiersnowskiego
+1738,ul. K. Kieślowskiego
+1739,Rondo T. Kifera „Kruszynki”
+1740,ul. Kijowska
+1741,ul. J. Kilińskiego
+1742,ul. J. Kilińskiego
+1743,ul. Kinetyczna
+1744,ul. Kingi
+1745,ul. Kinowa
+1746,ul. Kiprów
+1747,ul. Kirasjerów
+1748,ul. Kircholmska
+1749,Skwer S. Kisielewskiego „Kisiela”
+1750,ul. Kisielicka
+1751,ul. Kiwerska
+1752,ul. Klamrowa
+1753,ul. Klarnecistów
+1754,ul. Klarysewska
+1755,ul. Klasyków
+1756,ul. Klasztorna
+1757,ul. Klaudyny
+1758,ul. Klecka
+1759,ul. Kleczewska
+1760,ul. gen. F. Kleeberga
+1761,ul. Klembowska
+1762,ul. Z. Klemensiewicza
+1763,ul. Klementowicka
+1764,ul. K. Klenczona
+1765,ul. Kleopatry
+1766,ul. Kleszczowa
+1767,ul. Klimatyczna
+1768,ul. Klimatyczna
+1769,ul. F. Klimczaka
+1770,ul. Klimontowska
+1771,ul. Klonowa
+1772,ul. Klonowa
+1773,ul. S. Klonowicza
+1774,ul. Klubowa
+1775,ul. Kluczborska
+1776,ul. Kluczowa
+1777,ul. Klukowska
+1778,ul. Kłobucka
+1779,ul. Kłodawska
+1780,ul. Kłodzka
+1781,ul. Kłopot
+1782,ul. ks. I. Kłopotowskiego
+1783,ul. Cz. Kłosia
+1784,ul. Kłosowa
+1785,ul. D. Kłuszyńskiej
+1786,ul. Kmicica
+1787,ul. Kminkowa
+1788,ul. F. Kniaźnina
+1789,ul. Kniei
+1790,ul. Knyszyńska
+1791,ul. Kobiałka
+1792,ul. Kobielska
+1793,ul. Kobierzycka
+1794,ul. Kobryńska
+1795,ul. Kobuza
+1796,ul. Kobylańska
+1797,ul. Kobzy
+1798,ul. J. Kochanowskiego
+1799,ul. J. Kochanowskiego
+1800,ul. W. Kochowskiego
+1801,ul. Kociszewskich
+1802,ul. A. Kocjana
+1803,ul. Kocka
+1804,Rondo J. Kofty
+1805,ul. Kogucia
+1806,ul. Kokarda
+1807,ul. Kokoryczki
+1808,ul. Kokosowa
+1809,ul. J. i W. Kokoszków
+1810,ul. Kolady
+1811,ul. Kolarska
+1812,ul. Kolbaczewska
+1813,ul. św. Maksymiliana Kolbego
+1814,ul. O. Kolberga
+1815,ul. Kolegiacka
+1816,ul. Kolejarska
+1817,ul. Kolejowa
+1818,ul. Kolektorska
+1819,ul. Kolendrowa
+1820,ul. Kolibrów
+1821,ul. Kolista
+1822,ul. Kolneńska
+1823,ul. Kolorowa
+1824,ul. Kolska
+1825,ul. K. Kolumba
+1826,ul. Kolumbijska
+1827,ul. Kołacińska
+1828,ul. Kołczana
+1829,Strona H. Kołłątaja
+1830,ul. Kołobrzeska
+1831,ul. Kołodziejska
+1832,ul. W. Kołosa
+1833,ul. Kołowa
+1834,al. Komandosów
+1835,ul. Kombajnistów
+1836,ul. K. Komedy
+1837,ul. Komfortowa
+1838,ul. Kominiarska
+1839,ul. Kominkowa
+1840,al. Komisji Edukacji Narodowej
+1841,ul. Komorowska
+1842,ul. Komorska
+1843,ul. Kompanii AK „Kordian”
+1844,Skwer Kompanii AK „Żniwiarz”
+1845,ul. Kompasowa
+1846,ul. Komputerowa
+1847,ul. Komunardów
+1848,ul. S. Konarskiego
+1849,ul. Sz. Konarskiego
+1850,ul. Koncertowa
+1851,ul. Kondracka
+1852,ul. L. Kondratowicza
+1853,ul. Konduktorska
+1854,ul. Konewki
+1855,pl. Konfederacji
+1856,ul. Koniczynowa
+1857,ul. Koniecpolska
+1858,ul. Konińska
+1859,ul. Konopacka
+1860,ul. E. Konopczyńskiego
+1861,ul. Konopna
+1862,ul. M. Konopnickiej
+1863,ul. M. Konopnickiej
+1864,ul. Konotopska
+1865,ul. Konstancińska
+1866,ul. Konstruktorska
+1867,pl. Konstytucji
+1868,Skwer mjr. B. Kontryma „Żmudzina”
+1869,ul. Konturowa
+1870,ul. Kontuszowa
+1871,ul. Konwaliowa
+1872,ul. Konwaliowa
+1873,ul. Konwiktorska
+1874,ul. Konwisarska
+1875,ul. Koński Jar
+1876,ul. Kopalniana
+1877,ul. S. Kopcińskiego
+1878,ul. M. Kopernika
+1879,ul. M. Kopernika
+1880,ul. Kopijników
+1881,ul. Kopińska
+1882,ul. Koprowa
+1883,ul. Koprzywiańska
+1884,ul. Koralowa
+1885,ul. Koralowa
+1886,ul. J. Korczaka
+1887,ul. Korczyńska
+1888,ul. A. Kordeckiego
+1889,ul. Kordiana
+1890,ul. Koreańska
+1891,ul. W. Korfantego
+1892,ul. Korkowa
+1893,ul. Kormoranów
+1894,ul. Koronacyjna
+1895,ul. Koronowska
+1896,ul. W. Korotyńskiego
+1897,ul. Korowodu
+1898,ul. T. Korsaka
+1899,ul. Korsarska
+1900,ul. Korsuńska
+1901,ul. Korsykańska
+1902,ul. Koryncka
+1903,ul. Korytnicka
+1904,ul. Korzeniowa
+1905,ul. J. Korzeniowskiego
+1906,ul. Korzenna
+1907,ul. T. Korzona
+1908,ul. Korzystna
+1909,ul. Kosaćcowa
+1910,ul. Kosiarzy
+1911,ul. Kosmatki
+1912,ul. Kosmosu
+1913,ul. I. Kosmowskiej
+1914,ul. Kosobudzka
+1915,ul. Kosodrzewiny
+1916,ul. J. Kossaka
+1917,ul. J. Kossakowskiego
+1918,ul. L. Kossutha
+1919,ul. A. Kostki Napierskiego
+1920,ul. A. Kostki Napierskiego
+1921,ul. S. Kostki Potockiego
+1922,ul. F. Kostrzewskiego
+1923,ul. Kostrzyńska
+1924,ul. Kosynierów
+1925,ul. Koszalińska
+1926,ul. Koszęcińska
+1927,ul. Koszycka
+1928,ul. Koszykarska
+1929,ul. Koszykowa
+1930,ul. Kośby
+1931,ul. Kościańska
+1932,ul. Kościeliska
+1933,ul. Kościelna
+1934,ul. Kościelna
+1935,ul. Kościerska
+1936,ul. Kościeszów
+1937,ul. T. Kościuszki
+1938,ul. T. Kościuszki
+1939,ul. Kościuszkowców
+1940,pl. T. Kotarbińskiego
+1941,ul. Kotlarska
+1942,ul. A. Kotsisa
+1943,ul. Kotwiczna
+1944,ul. Kotylion
+1945,ul. A. Kowalczyka
+1946,ul. A. Kowalskiego
+1947,ul. Kowarska
+1948,ul. Kowelska
+1949,ul. Kowieńska
+1950,ul. Kozia
+1951,ul. Kozia
+1952,ul. Kozia Górka
+1953,ul. Kozielska
+1954,ul. J. Kozietulskiego
+1955,ul. Koziorożca
+1956,ul. Kozłowicka
+1957,ul. H. Kozłowskiej
+1958,al. „Kozucha Kłamczucha”
+1959,ul. Koźla
+1960,ul. Koźlaków
+1961,ul. K. Koźmiana
+1962,ul. Koźmińska
+1963,ul. Kożuchowska
+1964,ul. Kórnicka
+1965,ul. H. Krahelskiej
+1966,Rondo K. Krahelskiej
+1967,ul. Krajeńska
+1968,ul. R. Krajewskiego
+1969,ul. Krakowiaków
+1970,al. Krakowska
+1971,ul. Krakowskie Przedmieście
+1972,ul. Krakusa
+1973,ul. Kramarska
+1974,ul. Krańcowa
+1975,ul. I. Krasickiego
+1976,ul. I. Krasickiego
+1977,ul. Krasiczyńska
+1978,pl. Krasińskich
+1979,ul. Z. Krasińskiego
+1980,ul. Kraski
+1981,ul. Krasnobrodzka
+1982,ul. Krasnoludków
+1983,ul. Krasnołęcka
+1984,ul. Krasnowolska
+1985,ul. J. I. Kraszewskiego
+1986,ul. J. I. Kraszewskiego
+1987,ul. Kraśnicka
+1988,ul. A. Kraushara
+1989,ul. M. Krawczyka
+1990,ul. Krawiecka
+1991,ul. Krechowiecka
+1992,ul. Kredytowa
+1993,ul. Kremowa
+1994,ul. Kresowa
+1995,ul. Kretonowa
+1996,ul. T. Krępowieckiego
+1997,ul. Kręta
+1998,ul. Krobińska
+1999,ul. Krochmalna
+2000,ul. Kroczewska
+2001,ul. Krokusów
+2002,ul. Krokusów
+2003,ul. Krokwi
+2004,ul. M. Kromera
+2005,ul. Kronikarska
+2006,ul. Krośniewicka
+2007,ul. Krotoszyńska
+2008,ul. Krowia
+2009,ul. Króla Artura
+2010,ul. K. Króla
+2011,ul. Króla Maciusia
+2012,ul. Królewicza Aleksandra
+2013,ul. Królewicza Jakuba
+2014,ul. Królewska
+2015,ul. Królowej Aldony
+2016,ul. Królowej Bony
+2017,ul. Królowej Jadwigi
+2018,ul. Królowej Marysieńki
+2019,ul. Królów Polskich
+2020,ul. Krótka
+2021,ul. Krótka
+2022,ul. Króżańska
+2023,ul. Krucza
+2024,ul. L. Kruczkowskiego
+2025,ul. S. Krupki
+2026,ul. Krupnicza
+2027,ul. I. Kruszewskiego
+2028,ul. Kruszwicka
+2029,ul. Kruszyny
+2030,ul. Kruszyńska
+2031,Rondo ks. M. Krygiera
+2032,ul. Krymska
+2033,ul. Kryniczna
+2034,ul. Krynoliny
+2035,ul. Krypska
+2036,ul. J. Krysta
+2037,ul. Kryształowa
+2038,ul. Kryształowa
+2039,ul. A. Krywulta
+2040,ul. Krzesanego
+2041,ul. Krzesiwa
+2042,ul. Krzewna
+2043,ul. A. Krzyckiego
+2044,ul. Krzywa
+2045,ul. Krzywe Koło
+2046,ul. L. Krzywickiego
+2047,ul. Krzywińska
+2048,ul. A. Krzywoń
+2049,ul. Krzywopoboczna
+2050,ul. S. Krzyżanowskiego
+2051,ul. Krzyżówki
+2052,ul. Ksawerów
+2053,Skwer Książąt Czartoryskich
+2054,ul. Książąt Mazowieckich
+2055,ul. Książęca
+2056,ul. Książkowa
+2057,ul. Księcia Bolesława
+2058,ul. Księcia Janusza
+2059,ul. Księcia Trojdena
+2060,ul. Księcia Witolda
+2061,ul. Księcia Ziemowita
+2062,Skwer Księdza Jerzego
+2063,ul. Księgarzy
+2064,ul. Księżnej Anny
+2065,ul. Księżycowa
+2066,ul. Ku Wiśle
+2067,ul. Kubańska
+2068,ul. J. Kubickiego
+2069,ul. Kubusia Puchatka
+2070,ul. Kubusia Puchatka
+2071,ul. Kudowska
+2072,ul. Kuflewska
+2073,ul. Kuglarska
+2074,ul. Kujawska
+2075,ul. Kukiełki
+2076,ul. J. Kukuczki
+2077,ul. Kukułki
+2078,ul. Kulczycka
+2079,ul. S. Kulczyńskiego
+2080,ul. Kuligowska
+2081,Rondo A. Kulikowskiego
+2082,ul. T. Kulisiewicza
+2083,ul. J. Kulskiego
+2084,ul. Kumaka
+2085,al. K. Kumanieckiego
+2086,ul. S. Kunickiego
+2087,ul. Kuniecka
+2088,ul. Kuny
+2089,ul. Kupiecka
+2090,ul. Kuracyjna
+2091,ul. Kurantów
+2092,ul. K. Kuratowskiego
+2093,ul. Kurhan
+2094,ul. Kurkowa
+2095,pl. J. Kuronia
+2096,ul. Kuropatwy
+2097,ul. K. Kurpińskiego
+2098,ul. Kurpiowska
+2099,ul. Kurzawska
+2100,ul. J. Kusocińskiego
+2101,ul. Kuszników
+2102,ul. Kutnowska
+2103,ul. gen. T. Kutrzeby
+2104,Skwer płk. Z. Kuźmirskiego-Pacaka
+2105,ul. Kuźnicy Kołłątajowskiej
+2106,ul. Kwarciana
+2107,ul. Kwatery Głównej
+2108,ul. E. Kwiatkowskiego
+2109,ul. Kwiatowa
+2110,ul. Kwiatowa
+2111,ul. Kwiatowa Polana
+2112,ul. Kwiatów Polskich
+2113,ul. Kwidzyńska
+2114,ul. Kwietniowa
+2115,ul. Kwitnąca
+2116,ul. Kwitnącego Sadu
+2117,ul. Kwitnącej Akacji
+2118,ul. Kwitnącej Łąki
+2119,ul. Kwitnącej Wiśni
+2120,ul. W. Lachmana
+2121,ul. Lajkonika
+2122,ul. Lakowa
+2123,ul. M. Lalewicza
+2124,ul. Lalki
+2125,ul. Lambady
+2126,ul. F. M. Lanciego
+2127,ul. Landwarowska
+2128,ul. O. Langego
+2129,ul. M. Langiewicza
+2130,ul. Lapońska
+2131,ul. Lasek Brzozowy
+2132,ul. Laserowa
+2133,ul. Laskowa
+2134,ul. Latarnika
+2135,ul. Latoszki
+2136,ul. Latyczowska
+2137,ul. Laurowa
+2138,ul. Lawendowa
+2139,ul. Lawendowa
+2140,ul. Lawendy
+2141,ul. Lawinowa
+2142,ul. Lazurowa
+2143,ul. Lądowa
+2144,ul. Lebiodowa
+2145,ul. Lecha
+2146,ul. Lechicka
+2147,ul. Lechitów
+2148,ul. J. Lechonia
+2149,ul. Legendy
+2150,ul. Legionowa
+2151,ul. Legnicka
+2152,ul. G. Leibniza
+2153,ul. Lekarska
+2154,ul. Lektykarska
+2155,ul. Lelechowska
+2156,pl. J. Lelewela
+2157,ul. Leliwitów
+2158,ul. Lelka
+2159,ul. Lemiesz
+2160,ul. T. Lenartowicza
+2161,ul. S. Lencewicza
+2162,ul. J. Lennona
+2163,ul. S. Lentza
+2164,ul. Leonarda
+2165,ul. Leonidasa
+2166,ul. W. Lercha
+2167,ul. Leszczynowa
+2168,ul. Leszczynowa
+2169,ul. Leszczyny
+2170,ul. Leszczyńska
+2171,ul. Stanisława Leszczyńskiego
+2172,ul. Leszka Białego
+2173,ul. Leszka Czarnego
+2174,ul. Leszno
+2175,ul. Lesznowolska
+2176,ul. Leszowa
+2177,ul. B. Leśmiana
+2178,ul. Leśna
+2179,ul. Leśna
+2180,ul. Leśnej Polanki
+2181,ul. Leśniczówka
+2182,ul. Leśniewska
+2183,ul. Leśny Potok
+2184,ul. Leśnych Ziół
+2185,ul. Letnia
+2186,ul. Letnia
+2187,ul. Letniskowa
+2188,ul. K. Levittoux
+2189,ul. Lewandów
+2190,ul. J. Lewartowskiego
+2191,ul. Lewicka
+2192,ul. Lewicpolska
+2193,ul. Lewinowska
+2194,ul. Lewkonii
+2195,ul. Leżajska
+2196,ul. Leżakowa
+2197,ul. Lęborska
+2198,ul. Lędzka
+2199,ul. Libawska
+2200,ul. Libijska
+2201,ul. Licealna
+2202,ul. Liczydło
+2203,ul. Lidzbarska
+2204,ul. Lidzka
+2205,Rondo Ligi Morskiej i Rzecznej
+2206,ul. Ligocka
+2207,ul. S. Ligonia
+2208,ul. Ligustrowa
+2209,ul. Liliowa
+2210,ul. B. Limanowskiego
+2211,ul. Limby
+2212,ul. Limby
+2213,ul. S. B. Lindego
+2214,ul. W. H. Lindleya
+2215,ul. K. Linneusza
+2216,ul. Linotypowa
+2217,ul. Lipiec Reymontowskich
+2218,ul. Lipińska
+2219,ul. Lipkowska
+2220,ul. Lipowa
+2221,ul. Lipowa
+2222,ul. P. Lipowczana
+2223,ul. Lipska
+2224,ul. J. J. Lipskiego
+2225,ul. Liptowska
+2226,ul. Lirowa
+2227,ul. Liryczna
+2228,ul. Liryczna
+2229,ul. L. Lisa-Kuli
+2230,ul. Lisi Jar
+2231,ul. Lisia
+2232,al. K. Lisieckiego „Dziadka”
+2233,ul. Lisowska
+2234,ul. Listonoszy
+2235,ul. 11 Listopada
+2236,ul. 29 Listopada
+2237,ul. Listopadowa
+2238,ul. Liściasta
+2239,ul. Liścienia
+2240,ul. Litawora
+2241,ul. Literacka
+2242,ul. Literacka
+2243,ul. Literatów
+2244,ul. Litewska
+2245,ul. Litworowa
+2246,ul. Liwiecka
+2247,ul. Liwska
+2248,ul. Lizbońska
+2249,ul. Lniana
+2250,ul. A. Locciego
+2251,ul. E. Lokajskiego
+2252,ul. Lokalna
+2253,ul. Londyńska
+2254,al. S. Lorentza
+2255,ul. Lotaryńska
+2256,ul. Loteryjki
+2257,ul. Lotnicza
+2258,ul. Lotnicza
+2259,ul. Lotnika
+2260,al. Lotników
+2261,ul. Lotosu
+2262,ul. Lubartowska
+2263,ul. Lubaszki
+2264,ul. Lubczyka
+2265,Szosa Lubelska
+2266,ul. Lubelska
+2267,Trakt Lubelski
+2268,ul. Lubiana
+2269,ul. Lubieszowska
+2270,ul. Lubiniecka
+2271,ul. Lubkowska
+2272,ul. Lubomelska
+2273,ul. Lubomira
+2274,Rondo Z. Lubomirskiego
+2275,ul. Lubuska
+2276,ul. Lucerny
+2277,ul. Lucynowska
+2278,ul. Ludna
+2279,ul. Ludowa
+2280,ul. Ludwicka
+2281,ul. Ludwiki
+2282,ul. Ludwinowska
+2283,ul. Ludwisarska
+2284,Skwer W. Lurie
+2285,ul. Lusińska
+2286,ul. Lustrzana
+2287,ul. Lutniowa
+2288,ul. Lutocińska
+2289,ul. W. Lutosławskiego
+2290,ul. Lwa
+2291,ul. Lwowska
+2292,ul. Łabędzia
+2293,ul. Łabiszyńska
+2294,ul. Łacińska
+2295,ul. Ładna
+2296,ul. bł. Ładysława z Gielniowa
+2297,ul. Łagiewnicka
+2298,ul. Łagodna
+2299,ul. Łagodna
+2300,ul. Łagowska
+2301,ul. A. P. Łaguny
+2302,ul. Łamana
+2303,ul. Łanowa
+2304,ul. Łany
+2305,ul. Łańcucka
+2306,ul. Łasicy
+2307,ul. Łasińska
+2308,ul. Ławnicza
+2309,ul. Łazanowicka
+2310,ul. Łaziebna
+2311,ul. Łazienkowska
+2312,Most Łazienkowski
+2313,ul. Łazy
+2314,ul. Łącząca
+2315,ul. Łączna
+2316,ul. Łączyny
+2317,ul. Łąkocińska
+2318,ul. Łąkowa
+2319,ul. Łąkowa
+2320,ul. Łęczycka
+2321,ul. Łęgi
+2322,ul. Łobeska
+2323,ul. Łochowska
+2324,ul. Łodygowa
+2325,ul. Łojewska
+2326,ul. Łokciowa
+2327,ul. płk. W. Łokuciewskiego
+2328,ul. Łomiańska
+2329,ul. Łomżyńska
+2330,ul. Łopianowa
+2331,ul. Łopuszańska
+2332,ul. Łosia
+2333,ul. Łosicka
+2334,ul. Łososiowa
+2335,ul. Łotewska
+2336,ul. Łowcza
+2337,ul. Łowicka
+2338,ul. Łozinowa
+2339,ul. Łubinowa
+2340,ul. Łucka
+2341,ul. Łuczek
+2342,ul. Łucznicza
+2343,ul. Łuczników
+2344,ul. Łuczywo
+2345,ul. Ługi
+2346,ul. I. Łukasiewicza
+2347,ul. W. Łukasińskiego
+2348,ul. F. Łukaszczyka
+2349,ul. Łuki Małe
+2350,ul. Łuki Wielkie
+2351,ul. Łukiska
+2352,ul. Łukowa
+2353,ul. Łukowska
+2354,ul. Łużycka
+2355,ul. Łysakowska
+2356,ul. Łysogórska
+2357,ul. S. Łyszkiewicza „Pechowca”
+2358,ul. Łyszkowicka
+2359,ul. Łyżwiarska
+2360,ul. Macedońska
+2361,ul. R. Maciejewskiego
+2362,ul. Maciejki
+2363,ul. Maciejowicka
+2364,ul. Macierzanki
+2365,ul. Macierzanki
+2366,ul. A. Mackiewicza
+2367,Rondo J. Mackiewicza
+2368,ul. gen. S. Maczka
+2369,ul. Maćka z Bogdańca
+2370,ul. A. J. Madalińskiego
+2371,ul. Madziarów
+2372,ul. Magazynowa
+2373,ul. F. Magellana
+2374,ul. Magenta
+2375,ul. Magiczna
+2376,ul. A. Magiera
+2377,ul. Magistracka
+2378,ul. Magnacka
+2379,ul. Magnolii
+2380,ul. Magnolii
+2381,ul. Magury
+2382,ul. Mahoniowa
+2383,ul. 1 Maja
+2384,ul. 1 Maja
+2385,al. 3 Maja
+2386,ul. W. Majakowskiego
+2387,ul. Majdańska
+2388,ul. Majerankowa
+2389,ul. Majolikowa
+2390,ul. Majorki
+2391,ul. Majowa
+2392,ul. Majowa
+2393,ul. J. Maklakiewicza
+2394,Rondo Z. Maklakiewicza
+2395,ul. Makolągwy
+2396,ul. Makowska
+2397,ul. T. Makowskiego
+2398,ul. K. Makuszyńskiego
+2399,ul. Malachitowa
+2400,ul. Malachitowa
+2401,ul. A. Malawskiego
+2402,ul. Malborska
+2403,ul. A. Malczewskiego
+2404,ul. Malczycka
+2405,Rondo E. Malessy „Marcysi”
+2406,ul. Malinowa
+2407,ul. Malinowa
+2408,ul. E. Malinowskiego
+2409,ul. Malownicza
+2410,ul. Maltańska
+2411,ul. Maluchów
+2412,ul. Malwowa
+2413,ul. Malwy
+2414,ul. Mała
+2415,ul. Mała
+2416,pl. S. Małachowskiego
+2417,ul. W. Małcużyńskiego
+2418,ul. Małego Franka
+2419,ul. Małego Księcia
+2420,ul. Małego Rycerza
+2421,Rondo Małej Brzozy
+2422,ul. Małej Brzozy
+2423,ul. Małej Łąki
+2424,ul. Małej Żabki
+2425,Skwer O. i A. Małkowskich
+2426,ul. H. Małkowskiego
+2427,ul. Małogoska
+2428,ul. Małopolska
+2429,ul. Małowiejska
+2430,ul. Małych Dębów
+2431,ul. Mandarynki
+2432,ul. Mangalia
+2433,ul. T. Manteuffla
+2434,ul. Mańkowska
+2435,ul. Marabuta
+2436,ul. Maratońska
+2437,ul. Marca Polo
+2438,ul. Marcelińska
+2439,ul. Marchołta
+2440,ul. Marcina z Wrocimowic
+2441,ul. F. Marciniaka
+2442,ul. K. Marcinkowskiego
+2443,ul. Marconich
+2444,ul. Marecka
+2445,ul. Margerytki
+2446,ul. Mariańska
+2447,Rynek Mariensztacki
+2448,ul. Mariensztat
+2449,ul. Marii Eleonory
+2450,ul. Marii Kazimiery
+2451,ul. św. Marii Magdaleny
+2452,ul. Z. Markerta
+2453,ul. Markietanki
+2454,ul. ks. B. Markiewicza
+2455,Wiadukt S. Markiewicza
+2456,ul. Markowska
+2457,ul. Marmurowa
+2458,ul. Marmurowa
+2459,ul. Marokańska
+2460,ul. Marsa
+2461,ul. Marsylska
+2462,ul. Marszałkowska
+2463,ul. Marty
+2464,ul. Maryli
+2465,ul. Marymoncka
+2466,ul. Marynarska
+2467,ul. Marynin
+2468,ul. Marysińska
+2469,ul. Marywilska
+2470,ul. Marzanny
+2471,ul. Masłowiecka
+2472,ul. Maszewska
+2473,ul. Masztalerska
+2474,ul. Masztowa
+2475,ul. Maszynowa
+2476,ul. P. Maszyńskiego
+2477,ul. Maślaków
+2478,ul. Matecznik
+2479,ul. J. Matejki
+2480,ul. J. Matejki
+2481,ul. Matematyczna
+2482,ul. Materii
+2483,Skwer Matki Sybiraczki
+2484,ul. Matki Teresy z Kalkuty
+2485,ul. Matuszewska
+2486,ul. Matyldy
+2487,ul. K. Matysiakówny
+2488,ul. Mazowiecka
+2489,ul. Mazowiecka
+2490,ul. Mazura
+2491,ul. Mazurska
+2492,ul. Z. Mączeńskiego
+2493,ul. Mątwicka
+2494,ul. Mchów
+2495,ul. Meander
+2496,ul. Meblowa
+2497,ul. Mechaników
+2498,ul. J. Mehoffera
+2499,ul. J. Meissnera
+2500,ul. Meksykańska
+2501,ul. H. Melcera-Szczawińskiego
+2502,ul. Melioracyjna
+2503,ul. Melisy
+2504,ul. Melodyjna
+2505,ul. Melomanów
+2506,ul. Melsztyńska
+2507,ul. D. Mendelejewa
+2508,ul. Menueta
+2509,ul. D. Merliniego
+2510,ul. L. Messal
+2511,ul. Mestwina
+2512,ul. Mesyńska
+2513,ul. Metafory
+2514,ul. Metalowców
+2515,ul. Metryczna
+2516,ul. Metrykantów
+2517,ul. Męcińska
+2518,ul. Mglista
+2519,ul. J. Mianowskiego
+2520,ul. K. Miarki
+2521,ul. Miączyńska
+2522,ul. Michalinki
+2523,ul. Michaliny
+2524,ul. J. Michałowicza
+2525,ul. Michałowska
+2526,ul. P. Michałowskiego
+2527,ul. A. Mickiewicza
+2528,ul. A. Mickiewicza
+2529,Skwer A. Mickiewicza
+2530,ul. Miechowska
+2531,ul. I. Miecznikowa
+2532,ul. Mieczykowa
+2533,ul. Miedziana
+2534,ul. Miedzianogórska
+2535,ul. Miejska
+2536,ul. R. Mielczarskiego
+2537,ul. Mielecka
+2538,ul. Mielnicka
+2539,ul. L. Mierosławskiego
+2540,ul. H. Mierzejewskiego
+2541,ul. Mieszczańska
+2542,ul. Mieszka I
+2543,ul. Mieszka Starego
+2544,ul. Międzyborska
+2545,ul. Międzynarodowa
+2546,ul. Międzyparkowa
+2547,ul. Międzyrzecka
+2548,ul. Międzyrzecze
+2549,ul. Miętowa
+2550,ul. Migdałowa
+2551,ul. J. Miklaszewskiego
+2552,ul. Mikołaja z Długolasu
+2553,ul. S. Mikołajczyka
+2554,ul. Mikołajska
+2555,ul. Milanowska
+2556,ul. Milenijna
+2557,ul. Milewska
+2558,ul. R. Millera
+2559,ul. Miła
+2560,ul. Miła
+2561,ul. S. Miłkowskiego
+2562,ul. Miłobędzka
+2563,ul. Miłosierna
+2564,ul. Mimozy
+2565,ul. Mineralna
+2566,ul. Minerska
+2567,ul. Minutowa
+2568,ul. Mińska
+2569,ul. Miodowa
+2570,ul. Mirabelki
+2571,ul. J. Mireckiego „Montwiłła”
+2572,ul. Mirocińska
+2573,pl. Mirowski
+2574,ul. Mirska
+2575,ul. Mirtowa
+2576,ul. Misia Uszatka
+2577,ul. Mistrzowska
+2578,ul. Mlądzka
+2579,ul. Mleczna
+2580,ul. Mławska
+2581,ul. Młocarni
+2582,ul. Młocińska
+2583,ul. Młoda
+2584,ul. Młodnicka
+2585,ul. Młodzieńcza
+2586,ul. Młodzieży
+2587,ul. J. Młota
+2588,ul. Młynarska
+2589,pl. E. Młynarskiego
+2590,ul. Młyńska
+2591,ul. Mniszka
+2592,ul. M. Mochnackiego
+2593,ul. Mochtyńska
+2594,ul. Moczydło
+2595,ul. Moczydłowska
+2596,ul. Modelowa
+2597,ul. Modlińska
+2598,ul. Modra
+2599,ul. Modraszki
+2600,ul. H. Modrzejewskiej
+2601,ul. Modrzewiowa
+2602,ul. Modrzewiowa
+2603,ul. Modrzykowa
+2604,ul. Modularna
+2605,ul. Z. Modzelewskiego
+2606,ul. Mokotowska
+2607,ul. Mokra
+2608,ul. Mokra
+2609,ul. Mokry Ług
+2610,ul. Mokrzecka
+2611,ul. Moliera
+2612,ul. Mołdawska
+2613,ul. S. Moniuszki
+2614,ul. S. Moniuszki
+2615,ul. Montażowa
+2616,ul. Monte Cassino
+2617,ul. Morąska
+2618,ul. G. Morcinka
+2619,ul. Morelowa
+2620,ul. Morelowa
+2621,ul. Morgowa
+2622,ul. Morska
+2623,ul. Morskie Oko
+2624,ul. J. A. Morsztyna
+2625,ul. Morszyńska
+2626,ul. J. Mortkowicza
+2627,ul. Morwowa
+2628,ul. Mory
+2629,ul. Mosiężna
+2630,ul. Mostowa
+2631,ul. Moszczenicka
+2632,Rondo I. Mościckiego
+2633,ul. Motorowa
+2634,ul. Motycka
+2635,ul. Motylkowa
+2636,ul. Mozaikowa
+2637,ul. W. A. Mozarta
+2638,ul. Moździerzy
+2639,ul. Mrągowska
+2640,ul. Mroczna
+2641,ul. Mrozowska
+2642,ul. Mroźna
+2643,ul. Mrówcza
+2644,ul. Mszańska
+2645,ul. Mszczonowska
+2646,ul. Mścisławska
+2647,ul. Muchomora
+2648,ul. Municypalna
+2649,ul. A. Munka
+2650,ul. Muranowska
+2651,ul. Murarska
+2652,ul. Murawy
+2653,ul. Murmańska
+2654,ul. Muszkieterów
+2655,ul. Muszlowa
+2656,ul. Muszyńska
+2657,ul. Muzealna
+2658,ul. Muzyczna
+2659,Skwer Muzyki Węgierskiej
+2660,ul. L. Mycielskiego
+2661,ul. Mydlarska
+2662,ul. Mysia
+2663,ul. Mysikrólika
+2664,ul. Mysłowicka
+2665,ul. Myszkowska
+2666,ul. Myszyniecka
+2667,ul. Myśliborska
+2668,ul. Myśliwiecka
+2669,ul. Myśliwska
+2670,ul. Na Bateryjce
+2671,ul. Na Grobli
+2672,ul. Na Krańcu
+2673,ul. Na Przełaj
+2674,ul. Na Przyzbie
+2675,pl. Na Rozdrożu
+2676,al. Na Skarpie
+2677,ul. Na Skraju
+2678,ul. Na Uboczu
+2679,ul. Na Wyraju
+2680,ul. L. Nabielaka
+2681,ul. Nachyłkowa
+2682,ul. Naczelnikowska
+2683,ul. Nad Potokiem
+2684,ul. Nad Rzeczką
+2685,ul. Nad Strugą
+2686,ul. Nad Wilanówką
+2687,ul. Nad Wisłą
+2688,ul. Nadarzyńska
+2689,ul. Naddnieprzańska
+2690,ul. Nadrzeczna
+2691,ul. Nadwiślańska
+2692,ul. Nadziei
+2693,al. Nadziei
+2694,ul. Naftowa
+2695,ul. Nagietkowa
+2696,ul. Nagłowicka
+2697,ul. Nagodziców
+2698,ul. J. Nagórskiego
+2699,ul. Nakielska
+2700,ul. Nalewki
+2701,ul. Nałęcz
+2702,ul. Nałęczowska
+2703,ul. Z. Nałkowskiej
+2704,ul. Namioty
+2705,ul. Namysłowska
+2706,ul. Napoleona Bonaparte
+2707,Trakt Napoleoński
+2708,ul. L. Narbutta
+2709,ul. Narcyzowa
+2710,ul. W. Narkiewicza
+2711,ul. Narocz
+2712,ul. Narodowa
+2713,ul. Narożna
+2714,ul. A. Naruszewicza
+2715,pl. G. Narutowicza
+2716,ul. G. Narutowicza
+2717,ul. Narwiańska
+2718,ul. Narwik
+2719,ul. Nasielska
+2720,ul. Nasienna
+2721,ul. Nastawnicza
+2722,ul. Nastrojowa
+2723,ul. Nasturcjowa
+2724,ul. Nasypowa
+2725,ul. Nasza
+2726,ul. Natalii
+2727,ul. Natolińska
+2728,ul. Nauczycielska
+2729,ul. Naukowa
+2730,ul. Nawigatorów
+2731,ul. Nawłocka
+2732,ul. Nefrytowa
+2733,ul. Nefrytowa
+2734,ul. P. Negri
+2735,ul. J. Nehru
+2736,ul. Nenufarów
+2737,ul. P. Nerudy
+2738,ul. Neseberska
+2739,ul. Newelska
+2740,ul. I. Newtona
+2741,ul. Nicejska
+2742,ul. Niebieska
+2743,ul. Nieborowska
+2744,ul. Niecała
+2745,ul. Niedotrzymska
+2746,ul. Nieduża
+2747,ul. M. Niedziałkowskiego
+2748,Skwer ks. S. Niedzielaka
+2749,ul. Niedzielna
+2750,ul. płk. M. Niedzielskiego „Żywiciela”
+2751,ul. Niedźwiedzia
+2752,ul. Niegocińska
+2753,ul. W. Niegolewskiego
+2754,ul. Niekłańska
+2755,ul. J. U. Niemcewicza
+2756,ul. J. U. Niemcewicza
+2757,ul. Niemeńska
+2758,ul. Niemirowska
+2759,ul. Niemodlińska
+2760,al. Niepodległości
+2761,ul. Niepołomicka
+2762,ul. Nieporęcka
+2763,ul. Niesulicka
+2764,ul. Nieszawska
+2765,ul. Nieświeska
+2766,ul. Niewielka
+2767,ul. Niewinna
+2768,ul. Niezapominajki
+2769,ul. Nike
+2770,ul. Niska
+2771,ul. Nizinna
+2772,ul. Nizinna
+2773,Pasaż W. Niżyńskiego
+2774,ul. S. Noakowskiego
+2775,ul. A. Nobla
+2776,ul. T. Nocznickiego
+2777,al. J. Nojiego
+2778,ul. Nokturnu
+2779,ul. C. K. Norwida
+2780,ul. C. K. Norwida
+2781,ul. Z. Noskowskiego
+2782,ul. Notarialna
+2783,ul. Notecka
+2784,ul. Nowa
+2785,ul. Nowa
+2786,ul. J. Nowaka-Jeziorańskiego
+2787,al. A. Nowakowskiego
+2788,Rynek Nowego Miasta
+2789,ul. Nowej Huty
+2790,ul. M. Nowickiego
+2791,ul. Nowiniarska
+2792,ul. Nowiny
+2793,ul. Nowińska
+2794,ul. Nowoberestecka
+2795,ul. Nowoczesna
+2796,ul. Nowodworska
+2797,ul. Nowogrodzka
+2798,ul. Nowolipie
+2799,ul. Nowolipki
+2800,ul. Nowomiejska
+2801,ul. Noworegulska
+2802,ul. Nowosądecka
+2803,ul. Nowosielecka
+2804,ul. Nowosolipsowska
+2805,ul. Nowotarska
+2806,ul. Nowotyska
+2807,ul. Nowoursynowska
+2808,ul. Nowowiejska
+2809,ul. Nowowiśniowa
+2810,ul. Nowy Przejazd
+2811,ul. Nowy Służewiec
+2812,ul. Nowy Świat
+2813,ul. Nowy Zjazd
+2814,ul. Nubijska
+2815,ul. Nugat
+2816,ul. F. Nulla
+2817,ul. P. Nurmiego
+2818,ul. Nurska
+2819,ul. Nurzyńska
+2820,ul. J. Nusbauma-Hilarowicza
+2821,ul. Nutki
+2822,ul. Obarowska
+2823,ul. Oberka
+2824,ul. Obiegowa
+2825,ul. Objazdowa
+2826,ul. Objazdowa
+2827,ul. Oblęgorska
+2828,ul. Obok Sadu
+2829,ul. Obornicka
+2830,ul. Obotrycka
+2831,ul. Obozowa
+2832,ul. Oboźna
+2833,ul. Obrazkowa
+2834,ul. Obrębowa
+2835,ul. Obrońców
+2836,al. Obrońców Grodna
+2837,ul. Obrońców Helu
+2838,ul. Obrońców Pokoju
+2839,ul. Obrońców Tobruku
+2840,ul. Obrzeżna
+2841,ul. Obserwatorów
+2842,ul. Obszarowa
+2843,ul. Obwodowa
+2844,ul. Obywatelska
+2845,ul. Ochocka
+2846,ul. Ochocza
+2847,ul. M. Oczapowskiego
+2848,ul. Oczary
+2849,ul. Oczeretu
+2850,ul. W. Oczki
+2851,ul. Odblask
+2852,ul. Odeska
+2853,ul. Odkryta
+2854,ul. Odległa
+2855,ul. Odlewnicza
+2856,ul. Odłogi
+2857,ul. Odolańska
+2858,ul. Odpoczynek
+2859,ul. Odrębna
+2860,ul. Odrodzenia
+2861,ul. św. J. Odrowąża
+2862,ul. Odrzykońska
+2863,ul. Odsieczy Wiednia
+2864,ul. A. E. Odyńca
+2865,ul. Odysa
+2866,ul. Odysei
+2867,Rondo Ofiar Zbrodni Katyńskiej
+2868,ul. Oficerska
+2869,ul. M. K. Ogińskiego
+2870,ul. Ogólna
+2871,ul. Ogórkowa
+2872,ul. Ogrodnicza
+2873,ul. Ogrodników
+2874,ul. Ogrodowa
+2875,ul. Ogrodowa
+2876,ul. Ogrody
+2877,ul. Ojca Aniceta
+2878,ul. Ojcowska
+2879,ul. Ojrzanowska
+2880,ul. Okaryny
+2881,ul. Okęcka
+2882,ul. Okienko
+2883,ul. W. Okińskiego
+2884,ul. Oknicka
+2885,ul. Okocimska
+2886,ul. Okoliczna
+2887,ul. Okolska
+2888,ul. Okopowa
+2889,ul. Okólnik
+2890,ul. Okrąg
+2891,ul. Okrągła
+2892,ul. Określona
+2893,ul. Okrętowa
+2894,ul. Okrężna
+2895,ul. S. Okrzei
+2896,ul. Okrzeszyńska
+2897,ul. Oksywska
+2898,ul. Oktawii
+2899,ul. Okularowa
+2900,ul. gen. L. Okulickiego
+2901,ul. Okuniewska
+2902,ul. Okuniewska
+2903,ul. M. Okurzałego
+2904,ul. Jana Olbrachta
+2905,ul. Olchy
+2906,ul. Olchy
+2907,ul. Olczyska
+2908,ul. Oleandrów
+2909,Skwer Oleandrów
+2910,ul. Olecka
+2911,ul. Oleńki
+2912,ul. Olesin
+2913,ul. Olesińska
+2914,ul. Olgierda
+2915,ul. Olimpijska
+2916,ul. Oliwkowa
+2917,ul. Oliwska
+2918,ul. Olkuska
+2919,ul. Olszewska
+2920,ul. Olszowa
+2921,ul. Olszynki Grochowskiej
+2922,ul. Olszynowa
+2923,ul. Oławska
+2924,ul. Ołówkowa
+2925,ul. Ołtarzewska
+2926,ul. Ołycka
+2927,ul. Omulewska
+2928,ul. Ondraszka
+2929,ul. Opaczewska
+2930,ul. Opalin
+2931,ul. Opalińska
+2932,ul. K. Opalińskiego
+2933,ul. Opalowa
+2934,ul. Opatowska
+2935,ul. Operowa
+2936,ul. Opieńki
+2937,ul. H. Opieńskiego
+2938,ul. Opinogórska
+2939,ul. Opłotek
+2940,ul. Opłotki
+2941,ul. Opoczyńska
+2942,pl. Opolski
+2943,ul. Optyczna
+2944,ul. Optymistów
+2945,ul. Oraczy
+2946,ul. Orańska
+2947,ul. Orbity
+2948,ul. Orchidei
+2949,ul. Orchowiecka
+2950,ul. Orderu Uśmiechu
+2951,ul. J. K. Ordona
+2952,ul. H. Ordonówny
+2953,ul. Ordynacka
+2954,ul. Orężna
+2955,ul. Orfeusza
+2956,ul. Organistów
+2957,Rondo ONZ
+2958,Skwer S. Orgelbranda
+2959,ul. Oriona
+2960,ul. W. Orkana
+2961,ul. Orla
+2962,ul. Orla
+2963,ul. Orląt Lwowskich
+2964,ul. Orlego Lotu
+2965,ul. Orlich Gniazd
+2966,ul. Orlika
+2967,ul. M. Orłowicza
+2968,ul. Orłowska
+2969,ul. A. Orłowskiego
+2970,ul. Orłów Piastowskich
+2971,Skwer Ormiański
+2972,ul. Ornak
+2973,ul. Ornecka
+2974,ul. Or-Ota
+2975,ul. Orszady
+2976,ul. Oryszewska
+2977,ul. Orzechowa
+2978,ul. Orzechowa
+2979,ul. Orzechowska
+2980,ul. S. Orzechowskiego
+2981,ul. E. Orzeszkowej
+2982,ul. E. Orzeszkowej
+2983,ul. Orzycka
+2984,ul. Osada Ojców
+2985,ul. Osadnicza
+2986,ul. Osiecka
+2987,ul. Osiedle
+2988,ul. Osiedlowa
+2989,ul. Osieki
+2990,ul. Osikowa
+2991,ul. E. J. Osmańczyka
+2992,ul. Osmańska
+2993,ul. Osowiecka
+2994,ul. Osowska
+2995,ul. Ossolińskich
+2996,ul. M. Ossowskiego
+2997,ul. Ostaszewska
+2998,ul. J. Osterwy
+2999,pl. J. Osterwy
+3000,ul. Ostoja
+3001,ul. Ostów
+3002,ul. Ostra
+3003,pl. Ostrej Bramy
+3004,ul. Ostrobramska
+3005,ul. Ostrogi
+3006,ul. Ostrołęcka
+3007,ul. J. Ostroroga
+3008,ul. Ostrowiecka
+3009,ul. Ostródzka
+3010,ul. Ostróżki
+3011,ul. Ostrzycka
+3012,ul. Osuchowska
+3013,Rondo L. Osvátha
+3014,ul. Oszczepników
+3015,ul. Oszmiańska
+3016,ul. Oś Królewska
+3017,ul. Oświatowa
+3018,ul. Otawska
+3019,ul. Otrębuska
+3020,ul. Otwarta
+3021,ul. Otwocka
+3022,ul. Owalna
+3023,ul. Owczarska
+3024,ul. Owocowa
+3025,ul. Owoców Leśnych
+3026,ul. Owsiana
+3027,ul. Ożarowska
+3028,ul. Pabianicka
+3029,ul. L. M. Paca
+3030,ul. Pachnąca
+3031,ul. Pacholęca
+3032,ul. Paczkowska
+3033,ul. I. Paderewskiego
+3034,ul. Padewska
+3035,ul. N. Paganiniego
+3036,ul. A. Pajdaka
+3037,ul. Pajęcza
+3038,ul. R. Palestera
+3039,ul. Palestyńska
+3040,ul. Palisadowa
+3041,ul. A. Pallutha
+3042,ul. Palmirska
+3043,ul. Palmowa
+3044,ul. Paluch
+3045,ul. Pałacowa
+3046,ul. Pałuków
+3047,Skwer Pamięci
+3048,ul. Pana Tadeusza
+3049,ul. F. Pancera
+3050,ul. Pandy
+3051,ul. Panieńska
+3052,ul. J. Pankiewicza
+3053,ul. Panny
+3054,ul. Panny Wodnej
+3055,ul. Panoramiczna
+3056,ul. Panoramy
+3057,ul. Pańska
+3058,ul. Papierowa
+3059,ul. Papieska
+3060,ul. Papirusów
+3061,ul. Paproci
+3062,ul. Paprociowa
+3063,ul. Paprotki
+3064,ul. Papuzia
+3065,ul. J. Parandowskiego
+3066,ul. Parcelacyjna
+3067,ul. Parkingowa
+3068,ul. Parkowa
+3069,ul. Parkowa
+3070,ul. Parnas
+3071,ul. A. Parola
+3072,ul. Parowcowa
+3073,ul. Parowozowa
+3074,ul. Parterowa
+3075,ul. Paryska
+3076,ul. Pasażerska
+3077,ul. Pasieczna
+3078,ul. Pasieki
+3079,ul. J. Ch. Paska
+3080,ul. Pasłęcka
+3081,ul. Pastelowa
+3082,ul. Pasterska
+3083,ul. L. Pasteura
+3084,ul. Pastewna
+3085,ul. Pastuszków
+3086,ul. Pasymska
+3087,ul. L. Paszkiewicza
+3088,ul. prof. W. Paszkowskiego
+3089,ul. J. Paszyna
+3090,ul. Paśników
+3091,ul. A. Patkowskiego
+3092,ul. Patriotów
+3093,ul. Patrolowa
+3094,ul. św. Patryka
+3095,Skwer A. Pawełka
+3096,ul. Pawia
+3097,ul. A. Pawińskiego
+3098,ul. Z. Pawlaczyka
+3099,Skwer kpt. Z. Pawlaczyka
+3100,ul. M. Pawlikowskiego
+3101,ul. M. Pawlikowskiej-Jasnorzewskiej
+3102,ul. Pawłowska
+3103,ul. R. Pazińskiego
+3104,ul. Pejzażowa
+3105,ul. Pelargonii
+3106,ul. Pelikanów
+3107,ul. Pelplińska
+3108,ul. gen. T. Pełczyńskiego
+3109,ul. Penelopy
+3110,ul. Peonii
+3111,ul. I. L. Pereca
+3112,ul. Pergaminów
+3113,ul. Perkalowa
+3114,ul. Perkoza
+3115,ul. Perkuna
+3116,ul. Perkusyjna
+3117,ul. Perlicza
+3118,ul. Perlonowa
+3119,ul. Perłowa
+3120,ul. Perłowa
+3121,ul. Perseusza
+3122,ul. Perzowa
+3123,ul. W. Perzyńskiego
+3124,ul. Peszteńska
+3125,ul. S. Petöfiego
+3126,ul. Petunii
+3127,ul. Petyhorska
+3128,ul. Pęcherska
+3129,ul. Pęcicka
+3130,ul. Pianistów
+3131,ul. Piaseczyńska
+3132,ul. Piaskowa
+3133,ul. Piaskowa
+3134,ul. Piasta Kołodzieja
+3135,ul. Piastowa
+3136,ul. Piastowska
+3137,ul. Piastowska
+3138,ul. Piastów Śląskich
+3139,ul. Piątkowska
+3140,ul. P. Picassa
+3141,ul. Piechocka
+3142,ul. Piechoty Łanowej
+3143,ul. Piechoty Wybranieckiej
+3144,ul. Piechurów
+3145,ul. Piecuszka
+3146,ul. Teofila Piecyka
+3147,ul. J. Piekałkiewicza
+3148,ul. Piekarska
+3149,ul. Pielęgniarek
+3150,ul. Pielgrzymów
+3151,ul. Z. Pieniążka
+3152,ul. S. Pieńkowskiego
+3153,ul. Pierwiosnków
+3154,ul. Piesza
+3155,ul. B. Pietraszewicza „Lota”
+3156,ul. Pięciolinii
+3157,ul. Pięciu Stawów
+3158,ul. Piękna
+3159,ul. Piękna
+3160,ul. Pigwy
+3161,ul. Pilarzy
+3162,ul. Pilchowicka
+3163,ul. rtm. W. Pileckiego
+3164,ul. Pilicka
+3165,ul. Piłkarska
+3166,al. marsz. J. Piłsudskiego
+3167,pl. marsz. J. Piłsudskiego
+3168,ul. Pińczowska
+3169,ul. Pińska
+3170,ul. Piołunowa
+3171,ul. Pionierów
+3172,ul. Pionierska
+3173,ul. Piotrkowska
+3174,ul. Piotrusia Pana
+3175,ul. G. Piramowicza
+3176,ul. Pirenejska
+3177,ul. Pisankowa
+3178,ul. M. Pisarka
+3179,ul. Piskląt
+3180,ul. Piskorska
+3181,ul. Pistacjowa
+3182,ul. Pitagorasa
+3183,ul. J. F. Piwarskiego
+3184,ul. Piwna
+3185,ul. Piwoniowa
+3186,ul. Plakatowa
+3187,ul. Planetowa
+3188,ul. Plantowa
+3189,ul. Plastyczna
+3190,ul. Platanowa
+3191,ul. Platanów
+3192,ul. E. Plater
+3193,ul. Platynowa
+3194,ul. Platynowa
+3195,ul. Plażowa
+3196,ul. Pląsy
+3197,ul. Pleciona
+3198,ul. Plutonowych
+3199,ul. Plutonu AK „Torpedy”
+3200,ul. Płaska
+3201,ul. F. Płaskowickiej
+3202,ul. Płatnerska
+3203,ul. Płatnicza
+3204,ul. Płatowcowa
+3205,ul. Płochocińska
+3206,ul. Płocka
+3207,al. „Płomyczek”
+3208,ul. Płomyka
+3209,ul. Płońska
+3210,ul. Płowce
+3211,ul. Płowiecka
+3212,ul. Płudowska
+3213,ul. A. Pługa
+3214,ul. Płużańska
+3215,ul. Płużnicka
+3216,ul. Płyćwiańska
+3217,ul. Płytowa
+3218,ul. Pływacka
+3219,Rondo B. Pniewskiego
+3220,ul. Poborzańska
+3221,ul. Pobudki
+3222,ul. Pochyła
+3223,ul. Pocieszeń
+3224,ul. Pociskowa
+3225,ul. Początkowa
+3226,ul. M. Poczobutta-Odlanickiego
+3227,ul. Pocztowa
+3228,ul. Poczty Gdańskiej
+3229,ul. Pod Brzozami
+3230,ul. Pod Kopcem
+3231,ul. Pod Lipą
+3232,ul. Pod Skocznią
+3233,ul. Pod Strzechą
+3234,ul. Podbiałowa
+3235,ul. Podbipięty
+3236,ul. Podborska
+3237,ul. Podchorążych
+3238,ul. B. Podczaszyńskiego
+3239,ul. Podgórna
+3240,ul. Podgórska
+3241,ul. Podgrodzie
+3242,ul. Podgrzybków
+3243,ul. Podhajecka
+3244,ul. Podhalańska
+3245,ul. Podjazd
+3246,ul. Podkładowa
+3247,ul. Podkowińska
+3248,ul. Podkowy
+3249,ul. Podleśna
+3250,ul. Podleśna
+3251,ul. Podłużna
+3252,ul. Podmiejska
+3253,ul. Podmokła
+3254,ul. Podobna
+3255,ul. Podolska
+3256,ul. R. i J. Podoskich
+3257,ul. Podróżnicza
+3258,ul. Podskarbińska
+3259,ul. Podstarościch
+3260,ul. Podstawowa
+3261,ul. Podstolińska
+3262,ul. Podwale
+3263,ul. Podwójna
+3264,ul. Poetów
+3265,ul. Poezji
+3266,ul. Poezji
+3267,ul. Pogodna
+3268,ul. Pogodna
+3269,ul. S. Pogonowskiego
+3270,ul. prof. W. Pogorzelskiego
+3271,ul. Pograniczna
+3272,ul. Pokorna
+3273,ul. Pokrzywnicka
+3274,ul. Pokrzywowa
+3275,ul. Pokucka
+3276,ul. W. Pola
+3277,ul. Polanicka
+3278,ul. Polanki
+3279,ul. Polany
+3280,ul. Polarna
+3281,pl. Pole Elekcyjne
+3282,ul. Poleczki
+3283,ul. Poleska
+3284,ul. Poligonowa
+3285,ul. Polinezyjska
+3286,pl. Politechniki
+3287,ul. Polkowska
+3288,ul. Polna
+3289,ul. Polna
+3290,ul. Polnego Wiatru
+3291,ul. Polnej Róży
+3292,ul. Polnych Kwiatów
+3293,ul. Poloneza
+3294,ul. Polska
+3295,al. Polski Walczącej
+3296,Rondo Polskich Kryptologów Enigmy
+3297,ul. Polskich Skrzydeł
+3298,ul. Polskie Drogi
+3299,ul. Połaniecka
+3300,ul. Połączona
+3301,ul. Połczyńska
+3302,ul. Połoniny
+3303,ul. Południowa
+3304,ul. Pomarańczowa
+3305,ul. Pomianowska
+3306,ul. Pomidorowa
+3307,ul. Pomiechowska
+3308,ul. Pomocnicza
+3309,ul. Pomologiczna
+3310,ul. Pomorska
+3311,ul. Ponarska
+3312,ul. Ponczowa
+3313,al. Józefa Poniatowskiego
+3314,Most Józefa Poniatowskiego
+3315,ul. Poniecka
+3316,ul. A. Ponikowskiego
+3317,ul. Pontonierów
+3318,ul. Popas
+3319,ul. Popiela
+3320,ul. ks. J. Popiełuszki
+3321,ul. R. Popiołka
+3322,ul. Popiołów
+3323,ul. Popradzka
+3324,ul. Poprawna
+3325,ul. I Poprzeczna
+3326,ul. II Poprzeczna
+3327,ul. III Poprzeczna
+3328,ul. IV Poprzeczna
+3329,ul. V Poprzeczna
+3330,ul. VI Poprzeczna
+3331,ul. VII Poprzeczna
+3332,ul. VIII Poprzeczna
+3333,ul. IX Poprzeczna
+3334,ul. X Poprzeczna
+3335,ul. XI Poprzeczna
+3336,ul. XII Poprzeczna
+3337,ul. Popularna
+3338,ul. Porajów
+3339,ul. Poranek
+3340,ul. Poranna
+3341,ul. Porannej Bryzy
+3342,ul. Porannej Rosy
+3343,ul. Porcelanowa
+3344,ul. Porębska
+3345,ul. Poręby
+3346,ul. Poronińska
+3347,ul. Porostowa
+3348,ul. Portofino
+3349,ul. Portowa
+3350,ul. Pory
+3351,ul. Porzeczkowa
+3352,ul. Posag 7 Panien
+3353,ul. Posejdona
+3354,ul. Poselska
+3355,ul. Posłańców
+3356,ul. Pospieszna
+3357,ul. Pospolita
+3358,ul. Postępu
+3359,ul. Pośrednia
+3360,ul. Poświaty
+3361,ul. Poświętna
+3362,ul. Potażowa
+3363,ul. Potocka
+3364,ul. Potockich
+3365,ul. I. Potockiego
+3366,ul. Potoki
+3367,ul. Potrzebna
+3368,ul. Potulicka
+3369,ul. Potułkały
+3370,ul. Powałów
+3371,ul. Powązkowska
+3372,ul. Powiatowa
+3373,ul. Powojowa
+3374,ul. Powroźnicza
+3375,ul. Powsińska
+3376,Kopiec Powstania Warszawskiego
+3377,Rondo Powstania Węgierskiego'56
+3378,ul. Powstańców Śląskich
+3379,pl. Powstańców Warszawy
+3380,ul. Powstańców Warszawy
+3381,ul. Powstańców Wielkopolskich
+3382,ul. Powszechna
+3383,ul. Poziomkowa
+3384,ul. Poznańska
+3385,ul. Pozytywki
+3386,ul. Pożarowa
+3387,ul. M. Pożaryskiego
+3388,ul. Półksiężyca
+3389,ul. Północna
+3390,ul. Prabucka
+3391,ul. Prałatowska
+3392,ul. Praska
+3393,ul. 1 Praskiego Pułku
+3394,ul. 1 Praskiego Pułku
+3395,ul. Prasowa
+3396,ul. Pratulińska
+3397,ul. Prawdziwka
+3398,ul. Prawnicza
+3399,ul. Prażmowska
+3400,ul. I. Prądzyńskiego
+3401,ul. Prezydencka
+3402,ul. Prętowa
+3403,ul. Prochowa
+3404,ul. Produkcyjna
+3405,ul. Profesorska
+3406,ul. Prokuratorska
+3407,ul. Proletariatczyków
+3408,ul. Promenada
+3409,ul. Prometeusza
+3410,ul. Promienista
+3411,al. Promienistych
+3412,ul. Promienna
+3413,ul. Promienna
+3414,ul. K. Promyka
+3415,ul. Promykowa
+3416,ul. Prosta
+3417,ul. Prosta
+3418,ul. Protazego
+3419,ul. Prozy
+3420,ul. A. Próchnika
+3421,ul. Próżna
+3422,ul. Prudnicka
+3423,ul. B. Prusa
+3424,ul. B. Prusa
+3425,ul. Pruszkowska
+3426,ul. K. Pruszyńskiego
+3427,al. Prymasa Tysiąclecia
+3428,Skwer Prymasowski
+3429,ul. Prymulki
+3430,ul. A. Prystora
+3431,ul. Pryzmaty
+3432,ul. W. Przanowskiego
+3433,ul. Przasnyska
+3434,ul. Przaśna
+3435,ul. Prząśniczek
+3436,ul. Przebieg
+3437,ul. Przechodnia
+3438,ul. Przechodnia
+3439,ul. Przecławska
+3440,ul. Przecznica
+3441,ul. Przedatki
+3442,ul. Przednia
+3443,ul. Przedpole
+3444,ul. Przedświt
+3445,ul. Przedwiośnie
+3446,ul. Przejazd
+3447,ul. Przejazdowa
+3448,ul. Przejazdowa
+3449,ul. Przekorna
+3450,ul. Przelot
+3451,ul. Przełęczy
+3452,ul. Przemian
+3453,ul. Przemyska
+3454,ul. Przemysława II
+3455,ul. Przemysłowa
+3456,ul. Przepiórki
+3457,ul. Przeskok
+3458,ul. Przesmyk
+3459,ul. Przestronna
+3460,ul. Przewłocka
+3461,ul. Przewodowa
+3462,ul. Przeworska
+3463,ul. Przewoźników
+3464,ul. Przeździecka
+3465,ul. Przodowników
+3466,ul. Przy Agorze
+3467,ul. Przy Bażantarni
+3468,ul. Przy Bernardyńskiej Wodzie
+3469,ul. Przy Forcie
+3470,ul. Przy Fosie
+3471,ul. Przy Grobli
+3472,ul. Przy Grodzisku
+3473,ul. Przy Lasku
+3474,ul. Przy Parku
+3475,ul. Przy Trasie
+3476,ul. Przy Wodzie
+3477,ul. J. Przybosia
+3478,ul. Cz. Przybylskiego
+3479,ul. S. Przybyszewskiego
+3480,ul. Przyce
+3481,ul. Przyczółkowa
+3482,ul. Przydrożna
+3483,ul. Przygodna
+3484,ul. Przyjacielska
+3485,al. Przyjaciół
+3486,Skwer Przyjaciół Węgierskich
+3487,ul. Przyjazna
+3488,ul. Przyjaźni
+3489,os. Przyjaźń
+3490,ul. Przyjemna
+3491,ul. Przykoszarowa
+3492,ul. Przylaszczkowa
+3493,ul. Przylesie
+3494,ul. Przyleśna
+3495,ul. Przyleśna
+3496,ul. Przyłęcka
+3497,pl. Przymierza
+3498,ul. Przyokopowa
+3499,ul. Przyrodnicza
+3500,ul. Przyrynek
+3501,ul. Przyrzecze
+3502,ul. Przystaniowa
+3503,ul. Przytulna
+3504,ul. Przytyk
+3505,al. „Psotki i Śmieszki”
+3506,ul. Pstra
+3507,ul. W. Pstrowskiego
+3508,ul. Pszczela
+3509,ul. Pszczyńska
+3510,ul. A. Pszenickiego
+3511,ul. Pszeniczna
+3512,ul. Ptasia
+3513,ul. Ptasia
+3514,ul. Ptysiowa
+3515,ul. G. Pucciniego
+3516,ul. Puchaczy
+3517,ul. Puchalska
+3518,ul. K. Pułaskiego
+3519,ul. Puławska
+3520,ul. Pułkowa
+3521,ul. Pułku AK „Baszta”
+3522,ul. Pułku AK „Broda”
+3523,ul. Pułku AK „Waligóra”
+3524,Skwer 7 PP AK „Garłuch”
+3525,ul. 21 PP Dzieci Warszawy
+3526,Skwer 30 Pułku Strzelców Kaniowskich
+3527,ul. Pułtuska
+3528,ul. Pustelnicka
+3529,ul. Pustola
+3530,ul. Pustułeczki
+3531,ul. Puszczy Solskiej
+3532,ul. Puszczyka
+3533,ul. Puszkarzy
+3534,ul. Puzonistów
+3535,ul. K. Pużaka
+3536,ul. Pyszniańska
+3537,ul. W. Pytlasińskiego
+3538,ul. H. Raabego
+3539,ul. Rabarbarowa
+3540,ul. Rabatowa
+3541,ul. Rabczańska
+3542,ul. Rabsztyńska
+3543,ul. Raciborska
+3544,ul. Racjonalizacji
+3545,ul. Racławicka
+3546,ul. Radarowa
+3547,ul. Radecka
+3548,ul. Radiowa
+3549,Skwer Radiowej Rodziny Matysiaków
+3550,al. Radiowej Trójki
+3551,ul. Radłowa
+3552,ul. Radłowska
+3553,ul. Radna
+3554,ul. Radomska
+3555,ul. Radomszczańska
+3556,ul. Radosna
+3557,ul. Radosna
+3558,ul. Radoszycka
+3559,ul. Raduńska
+3560,ul. Radziejowicka
+3561,ul. Radziłowska
+3562,ul. Radziwie
+3563,ul. Barbary Radziwiłłówny
+3564,ul. Radzymińska
+3565,ul. Rafaela
+3566,ul. Rafałowska
+3567,ul. Rafii
+3568,ul. kpt. W. Raginisa
+3569,ul. Rajców
+3570,ul. Rajgrasowa
+3571,ul. Rajgrodzka
+3572,ul. Rajmunda
+3573,ul. Rajska
+3574,ul. Rajskich Ptaków
+3575,ul. Rajszewska
+3576,ul. Rakietników
+3577,ul. Rakowiecka
+3578,ul. Elżbiety Rakuszanki
+3579,ul. Ramowa
+3580,ul. Raniuszka
+3581,ul. W. Rapackiego
+3582,ul. Rapperswilska
+3583,ul. F. Raszei
+3584,ul. Rasztowska
+3585,ul. Raszyńska
+3586,ul. M. Rataja
+3587,ul. Ratoszyńska
+3588,ul. Ratuszowa
+3589,pl. Ratuszowy
+3590,ul. Ratyniecka
+3591,ul. Rawicka
+3592,ul. Rawska
+3593,ul. Rąblowska
+3594,ul. Rdestowa
+3595,Rondo R. Reagana
+3596,ul. Rebusowa
+3597,ul. T. Rechniewskiego
+3598,ul. Redaktorska
+3599,ul. Redutowa
+3600,Skwer Reduty Kaliskiej
+3601,ul. Referendarska
+3602,ul. Regatowa
+3603,ul. T. Regera
+3604,ul. Regionalna
+3605,ul. Regulska
+3606,ul. G. Reichera
+3607,ul. M. Reja
+3608,ul. M. Reja
+3609,ul. M. Rejewskiego
+3610,ul. Rejonowa
+3611,ul. II Rejonu AK
+3612,ul. Rejowiecka
+3613,ul. Rejsu
+3614,ul. T. Rejtana
+3615,ul. T. Rejtana
+3616,ul. Rekrucka
+3617,ul. Rektorska
+3618,ul. Relaksowa
+3619,ul. Rembertowska
+3620,ul. Rembielińska
+3621,pl. A. Rembowskiego
+3622,ul. Remiszewska
+3623,ul. Remontowa
+3624,ul. Renesansowa
+3625,ul. Renety
+3626,ul. Reniferowa
+3627,ul. Reprezentacyjna
+3628,ul. Republikańska
+3629,ul. Resorowa
+3630,ul. Reszelska
+3631,ul. Retmańska
+3632,al. W. Reymonta
+3633,ul. W. Reymonta
+3634,ul. Rezedowa
+3635,ul. Rezerwowa
+3636,ul. Reżyserska
+3637,ul. Rębkowska
+3638,ul. Rękawicznicza
+3639,ul. Rękodzielnicza
+3640,ul. Rękopis
+3641,ul. E. Ringelbluma
+3642,ul. Robinii
+3643,ul. Robotnicza
+3644,ul. H. Rodakowskiego
+3645,ul. Rodła
+3646,ul. Rodowa
+3647,al. J. Rodowicza „Anody”
+3648,ul. M. Rodziewiczówny
+3649,ul. M. Rodziewiczówny
+3650,ul. Rodzinna
+3651,ul. Rodziny Hiszpańskich
+3652,ul. Rodziny Kluczyńskich
+3653,Skwer Rodziny Lilpopów
+3654,ul. Rodziny Połanieckich
+3655,ul. Rodzynkowa
+3656,ul. W. K. Roentgena
+3657,ul. Rogalińska
+3658,ul. S. Rogalskiego
+3659,ul. Rogatkowa
+3660,ul. Rogowska
+3661,ul. Rohatyńska
+3662,ul. Rokitnicka
+3663,ul. Rokokowa
+3664,ul. Rokosowska
+3665,pl. 1831 Roku
+3666,pl. 1905 Roku
+3667,ul. Rolanda
+3668,ul. M. Roli
+3669,ul. Rolna
+3670,ul. Rolna
+3671,ul. Rolnicza
+3672,ul. Romantyczna
+3673,ul. Romańska
+3674,ul. Romea i Julii
+3675,ul. E. Romera
+3676,ul. Ropczycka
+3677,ul. Rosiczki
+3678,ul. Rosnąca
+3679,ul. M. Rosnowskiego
+3680,ul. Rosochata
+3681,ul. J. Rosoła
+3682,ul. G. Rossiniego
+3683,ul. J. i J. Rostafińskich
+3684,ul. S. Rostworowskiego
+3685,ul. Rosy
+3686,ul. Rościszewska
+3687,ul. Roślinna
+3688,ul. Rotmistrzowska
+3689,ul. Rotundy
+3690,ul. Roty
+3691,Pasaż W. Rowickiego
+3692,ul. Rowowa
+3693,ul. Rozalińska
+3694,ul. Rozbrat
+3695,ul. Rozchodnikowa
+3696,ul. Rozewska
+3697,ul. Rozkoszna
+3698,ul. Rozłączona
+3699,ul. Rozłogi
+3700,ul. Rozłucka
+3701,ul. Rozmarynu
+3702,ul. Rozszerzona
+3703,ul. Roztocka
+3704,ul. Roztoki
+3705,ul. Rozwadowska
+3706,ul. gen. T. Rozwadowskiego
+3707,ul. Rożek
+3708,ul. Rożnowska
+3709,ul. Równa
+3710,ul. Równa
+3711,ul. Równoległa
+3712,al. Róż
+3713,ul. Różana
+3714,ul. Różana
+3715,ul. Róży Wiatrów
+3716,ul. L. Różyckiego
+3717,ul. Rubinowa
+3718,ul. Rubinowa
+3719,ul. Ruchliwa
+3720,ul. Ruciańska
+3721,ul. Ruczaj
+3722,ul. Rudawska
+3723,ul. L. Rudnickiego
+3724,ul. Rudzka
+3725,ul. Rumby
+3726,ul. Rumiana
+3727,ul. Rumiankowa
+3728,ul. Rumiankowa
+3729,ul. Rumuńska
+3730,ul. Rusałki
+3731,ul. Rusiecka
+3732,ul. Rusinowska
+3733,ul. Ruskowy Bród
+3734,ul. Rusznikarska
+3735,ul. W. Rutkiewicz
+3736,ul. Ruty
+3737,ul. Rybacka
+3738,ul. Rybaki
+3739,ul. Rybałtów
+3740,ul. Rybieńska
+3741,ul. Cz. L. Rybińskiego
+3742,ul. Rybitwy
+3743,ul. Rybna
+3744,ul. Rybnicka
+3745,ul. Rycerska
+3746,ul. Rycerstwa Polskiego
+3747,ul. S. Rychlińskiego
+3748,ul. Rychnowska
+3749,ul. W. Rychtera
+3750,Skwer Sue Ryder
+3751,ul. L. Rydla
+3752,ul. L. Rydygiera
+3753,ul. Rydzowa
+3754,ul. Rydzyńska
+3755,ul. Rymanowska
+3756,ul. Rymarska
+3757,ul. F. Rymkiewicza
+3758,ul. Rynkowa
+3759,ul. Rypińska
+3760,ul. Rysia
+3761,ul. Rysia
+3762,Skwer Ryski
+3763,ul. Rysy
+3764,ul. Rytelska
+3765,ul. Ryżowa
+3766,ul. Rzeczna
+3767,ul. Rzeczycka
+3768,al. Rzeczypospolitej
+3769,ul. Rzekotki
+3770,ul. Rzemieślników
+3771,ul. Rzepichy
+3772,ul. H. Rzeszotarskiej
+3773,ul. Rzeszowska
+3774,ul. Rzewińska
+3775,ul. Rzeźbiarska
+3776,ul. Rzędziana
+3777,ul. Rzędzińska
+3778,ul. Rzodkiewki
+3779,ul. W. Rzymowskiego
+3780,ul. Rzymska
+3781,ul. Sabały
+3782,ul. A. Sacharowa
+3783,ul. Sadkowska
+3784,ul. Sadowa
+3785,ul. Sadowa
+3786,ul. B. Sadowskiej
+3787,ul. Sadulska
+3788,ul. Sady Zawadowskie
+3789,ul. Sady Żoliborskie
+3790,ul. Safony
+3791,ul. Sagalli
+3792,ul. Salamandry
+3793,Skwer ks. J. Salamuchy
+3794,ul. Salomejska
+3795,ul. Sałatkowa
+3796,ul. Samarytanka
+3797,ul. Samborska
+3798,ul. Samby
+3799,ul. Samochodowa
+3800,ul. Samogłoska
+3801,ul. Samolotowa
+3802,ul. Samorządowa
+3803,ul. Samosiejki
+3804,ul. Samotna
+3805,ul. Samowarowa
+3806,ul. Samsonowska
+3807,ul. Sandomierska
+3808,ul. R. Sanguszki
+3809,ul. Sanocka
+3810,ul. Santocka
+3811,ul. Saperów
+3812,ul. Saperska
+3813,ul. P. J. Sapiehy
+3814,ul. Sapieżyńska
+3815,ul. Sarabandy
+3816,ul. M. Sarbiewskiego
+3817,ul. Sardyńska
+3818,ul. Sarenki
+3819,ul. Sarenki
+3820,ul. Sarmacka
+3821,ul. Sarmatów
+3822,ul. Sarny
+3823,ul. Sasanki
+3824,ul. Sasanki
+3825,ul. Saska
+3826,ul. H. Sawickiej
+3827,ul. Sawy
+3828,ul. Sąchocka
+3829,ul. Sągi
+3830,ul. Sąsiedzka
+3831,ul. Sążnista
+3832,ul. L. Schillera
+3833,ul. Scholastyków
+3834,ul. E. Schroegera
+3835,ul. B. Schulza
+3836,ul. W. Sebyły
+3837,ul. Secemińska
+3838,Rondo S. Sedlaczka
+3839,al. I. Sendlerowej
+3840,ul. Sejmikowa
+3841,ul. Sejmu Czteroletniego
+3842,ul. Sekundowa
+3843,ul. Sekwoi
+3844,ul. Seledynowa
+3845,ul. Semaforowa
+3846,ul. S. Sempołowskiej
+3847,ul. Senacka
+3848,ul. Senatorska
+3849,ul. M. Sengera „Cichego”
+3850,ul. Senna
+3851,ul. Serdeczna
+3852,ul. Serocka
+3853,ul. Serwituty
+3854,ul. Sewastopolska
+3855,ul. Sewerynów
+3856,ul. Sezam
+3857,ul. Sezamkowa
+3858,ul. Sęczkowa
+3859,ul. Sędziowska
+3860,ul. Sękocińska
+3861,ul. M. Sępa-Szarzyńskiego
+3862,ul. Sępia
+3863,ul. Sępolińska
+3864,ul. Sianokosów
+3865,ul. Siarczana
+3866,ul. J. Sibeliusa
+3867,ul. Sieciechowska
+3868,ul. Sieczna
+3869,ul. Siedlecka
+3870,ul. Siedliskowa
+3871,ul. Siedmiogrodzka
+3872,ul. Siedzibna
+3873,ul. Siekierkowska
+3874,Most Siekierkowski
+3875,ul. Sielanki
+3876,ul. Sielankowa
+3877,ul. Sielecka
+3878,ul. Sielska
+3879,ul. Siemiatycka
+3880,ul. K. Siemienowicza
+3881,ul. J. Siemieńskiego
+3882,ul. H. Siemiradzkiego
+3883,ul. Sieniawska
+3884,ul. H. Sienkiewicza
+3885,ul. H. Sienkiewicza
+3886,ul. Sienna
+3887,ul. Siennicka
+3888,ul. Sieradzka
+3889,ul. J. Sierakowskiego
+3890,ul. W. Sieroszewskiego
+3891,ul. Sierpecka
+3892,ul. W. Sierpińskiego
+3893,ul. 1 Sierpnia
+3894,ul. 15 Sierpnia
+3895,ul. 6 Sierpnia
+3896,ul. Siewierska
+3897,ul. Sikorska
+3898,ul. gen. W. Sikorskiego
+3899,al. gen. W. Sikorskiego
+3900,ul. Siłaczki
+3901,ul. Siodlarska
+3902,ul. ks. J. Sitnika
+3903,ul. Sitowie
+3904,ul. R. Siwca
+3905,ul. Skalbmierska
+3906,ul. Skalista
+3907,ul. W. Skalmowskiego
+3908,ul. Skalnicowa
+3909,ul. gen. S. Skalskiego
+3910,ul. Skałacka
+3911,ul. Skarbka z Gór
+3912,ul. ks. P. Skargi
+3913,ul. ks. P. Skargi
+3914,ul. Skaryszewska
+3915,ul. S. Skarżyńskiego
+3916,ul. Skazańców
+3917,ul. Skibicka
+3918,Skwer kpt. S. Skibniewskiego „Cubryny”
+3919,ul. Skierdowska
+3920,ul. Skierniewicka
+3921,ul. gen. L. Skierskiego
+3922,ul. Sklepowa
+3923,ul. gen. F. S. Składkowskiego
+3924,ul. Składowa
+3925,ul. Skłoby
+3926,ul. M. Skłodowskiej-Curie
+3927,ul. M. Skłodowskiej-Curie
+3928,Most M. Skłodowskiej-Curie
+3929,ul. Skoczna
+3930,ul. W. Skoczylasa
+3931,ul. Skokowa
+3932,ul. Skolimowska
+3933,ul. W. Skorochód-Majewskiego
+3934,ul. Skoroszewska
+3935,ul. Skorpiona
+3936,ul. ks. I. Skorupki
+3937,ul. Skotnicka
+3938,ul. Skowronkowa
+3939,ul. Skrajna
+3940,ul. Skromna
+3941,ul. ks. S. Skrzeszewskiego
+3942,ul. Skrzetuskiego
+3943,ul. Skrzydlata
+3944,ul. J. Skrzyneckiego
+3945,ul. Skrzypcowa
+3946,ul. Skrzypów
+3947,ul. Skuterowa
+3948,ul. Skwierzyńska
+3949,Pasaż H. Sławika
+3950,ul. Sławińska
+3951,ul. W. Sławka
+3952,ul. Sławkowska
+3953,ul. Słodka
+3954,ul. Słodowiec
+3955,ul. Słodowiecka
+3956,ul. Słomiana
+3957,ul. Z. Słomińskiego
+3958,ul. Słoneczna
+3959,ul. Słoneczna
+3960,ul. Słonecznego Poranka
+3961,ul. Słonecznej Polany
+3962,ul. Słonecznikowa
+3963,pl. Słoneczny
+3964,Skwer A. Słonimskiego
+3965,ul. Słonki
+3966,ul. Słotna
+3967,ul. J. Słowackiego
+3968,ul. J. Słowackiego
+3969,Skwer Słoweński
+3970,al. Słowiańska
+3971,ul. Słowicza
+3972,ul. Słowicza
+3973,ul. Słubicka
+3974,ul. Słupecka
+3975,ul. Słupska
+3976,ul. Służby Polsce
+3977,ul. Służewska
+3978,ul. Smardzewska
+3979,ul. B. Smetany
+3980,ul. Smocza
+3981,ul. Smogorska
+3982,ul. Smogulecka
+3983,ul. Smoleńska
+3984,ul. W. Smoleńskiego
+3985,ul. S. Smolki
+3986,ul. Smolna
+3987,ul. M. Smoluchowskiego
+3988,ul. J. Smosarskiej
+3989,ul. Smoszewska
+3990,ul. Smugowa
+3991,ul. J. Smulikowskiego
+3992,ul. Smyczkowa
+3993,ul. Snopowa
+3994,ul. Snycerska
+3995,ul. M. Sobczaka
+3996,ul. Sobiborska
+3997,ul. Sobierajska
+3998,ul. Jana III Sobieskiego
+3999,ul. Sobieszyńska
+4000,ul. Sobocka
+4001,ul. Sobolewska
+4002,ul. Sobótki
+4003,ul. Sochaczewska
+4004,ul. Soczewkowa
+4005,ul. Soczi
+4006,ul. Sokola
+4007,ul. Sokołowska
+4008,ul. ppłk. M. Sokołowskiego „Grzymały”
+4009,ul. Sokratesa
+4010,ul. Solankowa
+4011,ul. A. Solariego
+4012,ul. Solec
+4013,Rynek Solecki
+4014,ul. Solferino
+4015,al. „Solidarności”
+4016,ul. Solidna
+4017,ul. Solińska
+4018,ul. A. Solińskiego
+4019,ul. Solipska
+4020,ul. Solistów
+4021,ul. L. Solskiego
+4022,ul. Solurska
+4023,ul. A. Sołtana
+4024,ul. K. Sołtyka
+4025,ul. Sonaty
+4026,ul. Soplicka
+4027,ul. Sortowa
+4028,ul. gen. S. Sosabowskiego
+4029,ul. gen. K. Sosnkowskiego
+4030,ul. Sosnowa
+4031,ul. Sosnowa
+4032,ul. Sosnowiecka
+4033,ul. O. Sosnowskiego
+4034,ul. K. Sotta „Sokoła”
+4035,ul. Sowia
+4036,ul. J. Sowińskiego
+4037,ul. Sowizdrzała
+4038,ul. Sozopolska
+4039,ul. Sójki
+4040,ul. Spacerowa
+4041,ul. Spacerowa
+4042,ul. Spadkowa
+4043,ul. Spadowa
+4044,ul. Spalinowa
+4045,ul. Spalska
+4046,ul. Spartakusa
+4047,ul. Spartańska
+4048,ul. Spedycyjna
+4049,ul. Spichrzowa
+4050,ul. Spiralna
+4051,ul. M. Spisaka
+4052,ul. Spiska
+4053,ul. Spokojna
+4054,ul. Spokojna
+4055,ul. Sporna
+4056,ul. Sportowa
+4057,ul. Sportowa
+4058,ul. Sporyszowa
+4059,ul. Spójni
+4060,ul. Spółdzielcza
+4061,ul. Spółdzielcza
+4062,ul. Sprawna
+4063,ul. Sprzeczna
+4064,ul. Spychowska
+4065,ul. Spytka z Melsztyna
+4066,ul. Srebrna
+4067,ul. Srebrnogórska
+4068,ul. E. Stachury
+4069,ul. Stadionowa
+4070,ul. L. Staffa
+4071,ul. Stajenna
+4072,ul. Stalowa
+4073,Rondo F. Stamma
+4074,ul. Staniewicka
+4075,ul. Stanisława Augusta
+4076,ul. św. Stanisława
+4077,ul. Stanisławowska
+4078,al. ks. J. Stanka
+4079,al. Stanów Zjednoczonych
+4080,ul. Stara
+4081,ul. Starczewska
+4082,ul. Starego Dębu
+4083,ul. Starego Doktora
+4084,Rynek Starego Miasta
+4085,ul. Starej Baśni
+4086,ul. Starej Gruszy
+4087,ul. Stargardzka
+4088,ul. Starodawna
+4089,ul. Starodęby
+4090,ul. Staropolska
+4091,ul. Starościńska
+4092,ul. Starowiejska
+4093,ul. Starozaciszańska
+4094,Skwer „Starszych Panów”
+4095,ul. Startowa
+4096,pl. S. Starynkiewicza
+4097,Rondo S. Starzyńskiego
+4098,ul. S. Starzyńskiego
+4099,ul. S. Starzyńskiego
+4100,ul. Stasinek
+4101,ul. S. Staszica
+4102,ul. S. Staszica
+4103,ul. Staszowska
+4104,ul. R. Statkowskiego
+4105,ul. Statyczna
+4106,ul. Stawiszyńska
+4107,ul. Stawki
+4108,ul. Stawowa
+4109,ul. Stawy
+4110,ul. Stągiewna
+4111,ul. M. R. Stefanika
+4112,ul. H. Steinhausa
+4113,ul. P. A. Steinkellera
+4114,ul. P. Stellera
+4115,ul. Stelmachów
+4116,ul. Stepowa
+4117,ul. Sterdyńska
+4118,ul. H. Sternhela
+4119,ul. Sternicza
+4120,ul. Stębarska
+4121,ul. Stępińska
+4122,ul. Stężycka
+4123,ul. Stocka
+4124,ul. Stoczkowska
+4125,ul. Stoczniowców
+4126,ul. Stogi
+4127,ul. Stoicka
+4128,ul. Stojanowska
+4129,ul. Z. Stojowskiego
+4130,ul. Stokłosy
+4131,Pasaż Stokłosy
+4132,ul. Stokrotki
+4133,ul. Stokrotki
+4134,ul. Stolarska
+4135,ul. Stopowa
+4136,ul. Storczykowa
+4137,ul. Stradomska
+4138,ul. Strawczyńska
+4139,ul. Strażacka
+4140,ul. Strąkowa
+4141,Skwer płk. dr. L. Strehla
+4142,ul. Stroma
+4143,ul. Strońska
+4144,ul. Strubiczów
+4145,ul. A. Struga
+4146,ul. Strumykowa
+4147,ul. Strunowa
+4148,ul. J. Strusia
+4149,ul. Strycharska
+4150,ul. Stryjeńskich
+4151,al. J. Strzałkowskiego
+4152,ul. Strzegomska
+4153,ul. Strzelca
+4154,ul. Strzelców
+4155,ul. Strzelecka
+4156,ul. P. E. Strzeleckiego
+4157,ul. Strzelińska
+4158,ul. Strzybnicka
+4159,ul. Strzygłowska
+4160,ul. Studencka
+4161,ul. Studzienna
+4162,ul. 17 Stycznia
+4163,ul. J. Styki
+4164,ul. Stylowa
+4165,ul. Styrska
+4166,ul. Sucha
+4167,ul. mjr. H. Sucharskiego
+4168,ul. Suchocińska
+4169,ul. Suchodolska
+4170,ul. Suchy Las
+4171,ul. Sueska
+4172,ul. Suflerska
+4173,ul. Sulejkowska
+4174,ul. Sulęcińska
+4175,ul. A. Suligowskiego
+4176,ul. Sulimy
+4177,ul. A. Sulkiewicza
+4178,ul. Sulmierzycka
+4179,ul. Sułkowicka
+4180,ul. J. Sułkowskiego
+4181,ul. Sumaków
+4182,ul. J. Supińskiego
+4183,ul. W. Surowieckiego
+4184,ul. Suwak
+4185,ul. Suwalska
+4186,ul. P. Suzina
+4187,ul. Swarożyca
+4188,ul. Swarzewska
+4189,ul. Swojska
+4190,ul. Sworzniowa
+4191,ul. Swoszowicka
+4192,ul. Sybilli
+4193,Skwer Sybiraków
+4194,ul. Sycowska
+4195,ul. Sycylijska
+4196,ul. T. Sygietyńskiego
+4197,ul. Sygnałowa
+4198,ul. Symboliczna
+4199,ul. Symfonii
+4200,ul. Sympatyczna
+4201,ul. Synogarlicy
+4202,ul. Synów Pułku
+4203,ul. Sypniewska
+4204,ul. Syreny
+4205,ul. W. Syrokomli
+4206,ul. W. Syrokomli
+4207,ul. Syryńska
+4208,ul. Syta
+4209,ul. Szachowa
+4210,ul. ppłk. W. Szadkowskiego
+4211,ul. Szafarzy
+4212,ul. Szafirków
+4213,ul. Szafirowa
+4214,ul. Szafirowa
+4215,ul. Szaflarska
+4216,ul. Szafranowa
+4217,ul. Szafranów
+4218,ul. Szafrańców
+4219,ul. K. Szajnochy
+4220,Rondo J. Szala
+4221,ul. Szalejowa
+4222,ul. K. Szałasa
+4223,ul. J. Szałka
+4224,ul. Szałwiowa
+4225,ul. Szamocin
+4226,ul. Szamocka
+4227,ul. Szamotulska
+4228,ul. Szamoty
+4229,ul. J. Szanajcy
+4230,ul. J. M. Szancera
+4231,ul. J. Szaniawskiego
+4232,ul. Szańcowa
+4233,ul. Szara
+4234,ul. Szarady
+4235,ul. gen. B. Szareckiego
+4236,ul. Szarotki
+4237,ul. Szarych Szeregów
+4238,ul. Szarych Szeregów
+4239,ul. Szaserów
+4240,ul. Szatkowników
+4241,ul. Szawelska
+4242,ul. Szczawnicka
+4243,ul. K. Szczecińskiego
+4244,ul. Szczekocińska
+4245,ul. św. Szczepana
+4246,pl. W. Szczepaniaka
+4247,ul. J. Szczepanika
+4248,ul. S. Szczepanowskiego
+4249,Rondo J. Szczepańskiego „Ziutka”
+4250,ul. Szczera
+4251,ul. Szczerbca
+4252,ul. Szczęsna
+4253,ul. Szczęśliwa
+4254,ul. Szczęśliwicka
+4255,ul. Szczotkarska
+4256,ul. Szczuczyńska
+4257,ul. M. Szczuki
+4258,ul. Szczupacza
+4259,ul. Szczygla
+4260,ul. Szczytnowska
+4261,ul. Szczytowa
+4262,ul. W. Szeflera „Włada”
+4263,ul. Szegedyńska
+4264,ul. W. Szekspira
+4265,ul. Szeligowska
+4266,pl. P. Szembeka
+4267,ul. Szepietowska
+4268,ul. Szermiercza
+4269,ul. W. Szernera
+4270,ul. Szeroka
+4271,ul. Szeroka
+4272,ul. Szeroki Dunaj
+4273,Skwer T. Szewczenki
+4274,al. „Szewczyk Dratewka”
+4275,ul. Szewska
+4276,ul. Szklana
+4277,ul. Szklanych Domów
+4278,Skwer ks. K. Szklarczyka
+4279,ul. Szklarniowa
+4280,ul. Szklarniowa
+4281,ul. Szkolna
+4282,ul. Szkolna
+4283,ul. Szkoły Orląt
+4284,ul. Szkutników
+4285,ul. Szlachecka
+4286,ul. Szlachecka
+4287,ul. Szlenkierów
+4288,ul. Szlifierska
+4289,ul. Szmaragdowa
+4290,ul. Szmaragdowa
+4291,ul. S. Szobera
+4292,ul. Szoferska
+4293,ul. S. Szolc-Rogozińskiego
+4294,ul. A. Szomańskiego
+4295,ul. Szosowa
+4296,ul. Szpacza
+4297,ul. Szparagowa
+4298,ul. Szpinakowa
+4299,al. Szpitala Ujazdowskiego
+4300,ul. Szpitalna
+4301,ul. K. Szpotańskiego
+4302,ul. Szprotawska
+4303,ul. Szreniawska
+4304,ul. Sztabowa
+4305,ul. Sztajerka
+4306,al. Sztandarów
+4307,ul. Sztormowa
+4308,ul. Sztuk Pięknych
+4309,ul. Sztukatorska
+4310,ul. ks. J. Sztuki
+4311,ul. Sztumska
+4312,ul. Szturmowa
+4313,ul. Sztygarów
+4314,ul. F. Szuberta
+4315,ul. Szubińska
+4316,al. J. Ch. Szucha
+4317,ul. J. Szujskiego
+4318,ul. Szulborska
+4319,ul. ks. S. Szulczyka
+4320,ul. Szumiąca
+4321,ul. Szumiących Traw
+4322,ul. Szumna
+4323,ul. Szuwary
+4324,ul. E. Szwankowskiego
+4325,ul. Szwedzka
+4326,ul. Szwoleżerów
+4327,ul. Szybowcowa
+4328,ul. Szydłowiecka
+4329,Pasaż A. Szyfmana
+4330,ul. Szymanowska
+4331,ul. K. Szymanowskiego
+4332,ul. E. Szymańskiego
+4333,ul. J. Szymańskiego
+4334,ul. Szymbarska
+4335,ul. J. Szymczaka
+4336,ul. Szynowa
+4337,ul. Szyprów
+4338,ul. Szyszaków
+4339,ul. Szyszkowa
+4340,ul. P. Ściegiennego
+4341,ul. Ścieżka
+4342,ul. Ślazowa
+4343,ul. Śląska
+4344,ul. A. Śląskiej
+4345,Most Śląsko-Dąbrowski
+4346,ul. Ślepa
+4347,ul. Ślimaka
+4348,ul. Śliska
+4349,ul. Śliska
+4350,ul. Śliwkowa
+4351,ul. Śmiała
+4352,ul. Śmiała
+4353,ul. Śmieszna
+4354,ul. Śmigielska
+4355,ul. Śmigłowca
+4356,ul. J. i J. Śniadeckich
+4357,ul. Śniardwy
+4358,ul. C. Śniegockiej
+4359,ul. Śnieguliczki
+4360,ul. Śnieżna
+4361,ul. Śnieżna
+4362,ul. Śpiewaków
+4363,ul. Śpiewna
+4364,ul. Średnia
+4365,ul. Śreniawitów
+4366,ul. Środkowa
+4367,ul. Środkowa
+4368,ul. Śródborowska
+4369,ul. Śródziemnomorska
+4370,ul. Światowa
+4371,pl. Światowida
+4372,ul. Światowida
+4373,ul. Świderska
+4374,ul. Świdnicka
+4375,ul. Świebodzińska
+4376,ul. Świecka
+4377,ul. Świeradowska
+4378,ul. Świerkowa
+4379,ul. Świerkowa
+4380,ul. Świerszcza
+4381,ul. Świetlana
+4382,ul. Świetlicka
+4383,ul. Świetlików
+4384,ul. Świetlista
+4385,ul. Świeża
+4386,ul. Święciańska
+4387,ul. J. Święcickiego
+4388,ul. A. Świętochowskiego
+4389,ul. Świętojańska
+4390,ul. Świętojerska
+4391,ul. Świętokrzyska
+4392,Most Świętokrzyski
+4393,ul. Świętosławska
+4394,ul. W. Świętosławskiego
+4395,ul. Świtezianki
+4396,ul. Taborowa
+4397,ul. Tadżycka
+4398,ul. R. Tagore
+4399,al. „Tajemnicze Butki”
+4400,ul. Talarowa
+4401,ul. Tamaryszków
+4402,ul. Tamka
+4403,ul. Taneczna
+4404,ul. Tango
+4405,ul. Cz. Tańskiego
+4406,ul. Tapetowa
+4407,ul. Tapicerska
+4408,ul. Tarasowa
+4409,ul. Tarchomińska
+4410,ul. Tarczowa
+4411,ul. Tarczyńska
+4412,ul. Targowa
+4413,ul. Tarniny
+4414,ul. Tarnobrzeska
+4415,ul. Tarnogórska
+4416,ul. Tarnowiecka
+4417,ul. Tasznikowa
+4418,ul. Taśmowa
+4419,ul. W. Tatarkiewicza
+4420,ul. Tatarska
+4421,ul. Tatrzańska
+4422,ul. Tawerny
+4423,ul. Tawułkowa
+4424,ul. Tczewska
+4425,pl. Teatralny
+4426,ul. Techniczna
+4427,ul. Techników
+4428,ul. W. Telakowskiej
+4429,ul. Telefoniczna
+4430,ul. P. Telekiego
+4431,ul. Telewizyjna
+4432,ul. L. Teligi
+4433,ul. Telimeny
+4434,ul. Tenisowa
+4435,ul. Teodozji
+4436,ul. Teresińska
+4437,ul. Terespolska
+4438,ul. św. Teresy
+4439,ul. W. Tetmajera
+4440,ul. Tęczowa
+4441,ul. Tęczowa
+4442,ul. gen. W. Thomméego
+4443,ul. Tkaczy
+4444,ul. Tłomackie
+4445,ul. Tłuchowska
+4446,ul. T. Toeplitza
+4447,ul. Tokarska
+4448,ul. W. Tokarza
+4449,ul. gen. M. Tokarzewskiego-Karaszewicza
+4450,ul. L. Tołstoja
+4451,ul. S. Tołwińskiego
+4452,ul. Tomaszowska
+4453,ul. Tomcia Palucha
+4454,ul. Tomnicka
+4455,ul. Topazowa
+4456,ul. Topazowa
+4457,ul. Topiel
+4458,ul. Topograficzna
+4459,ul. Topolowa
+4460,ul. Topolowa
+4461,ul. Toporczyków
+4462,ul. Toporowska
+4463,ul. Torfowa
+4464,ul. Torfowa
+4465,ul. Torowa
+4466,ul. Toruńska
+4467,ul. Towarowa
+4468,ul. Traczy
+4469,Skwer D. Trafankowskiej
+4470,ul. Traktorzystki
+4471,ul. Traktorzystów
+4472,ul. Tramblanki
+4473,ul. Tramwajowa
+4474,ul. Transportowców
+4475,ul. Trapez
+4476,ul. Traszki
+4477,ul. R. Traugutta
+4478,ul. Trawiasta
+4479,ul. M. Trąby
+4480,ul. Trele
+4481,ul. Trembowelska
+4482,ul. Trenów
+4483,ul. B. Trentowskiego
+4484,ul. Trębacka
+4485,ul. Tristana
+4486,ul. Trocinowa
+4487,ul. Trocka
+4488,ul. Trojaka
+4489,ul. Trojanowska
+4490,ul. Trojańska
+4491,ul. Trombity
+4492,ul. Trójpolowa
+4493,ul. ks. Z. Trószyńskiego
+4494,ul. Trufle
+4495,ul. Truskawiecka
+4496,ul. Truskawkowa
+4497,ul. Truskolaska
+4498,ul. Trybunalska
+4499,ul. Trylogii
+4500,ul. Trzcinowa
+4501,ul. Trzebnicka
+4502,ul. Trzech Budrysów
+4503,pl. Trzech Krzyży
+4504,ul. Trzos
+4505,ul. Trzykrotki
+4506,ul. Tuberozy
+4507,ul. Tuchlińska
+4508,ul. Tucholska
+4509,ul. Tukana
+4510,ul. Tulipanowa
+4511,ul. Tułowicka
+4512,ul. Tumska
+4513,ul. Tunelowa
+4514,ul. Turbinowa
+4515,ul. Turecka
+4516,ul. Turkawki
+4517,ul. Turkusowa
+4518,ul. Turkusowa
+4519,ul. Turmoncka
+4520,ul. Turniejowa
+4521,ul. Turoszowska
+4522,Rondo J. Turowicza
+4523,ul. Turystyczna
+4524,ul. J. Tuwima
+4525,ul. J. Tuwima
+4526,ul. Tuzinowa
+4527,ul. Tużycka
+4528,ul. Twarda
+4529,ul. Twardowska
+4530,Skwer ks. J. Twardowskiego
+4531,ul. S. Twardowskiego
+4532,ul. Twórcza
+4533,Rondo Tybetu
+4534,ul. Tykocińska
+4535,ul. Tylna
+4536,ul. Tylżycka
+4537,ul. Tymiankowa
+4538,ul. Tymiankowa
+4539,ul. Tymotki
+4540,ul. Tyniecka
+4541,ul. Tynkarska
+4542,Pasaż L. Tyrmanda
+4543,ul. Tyrreńska
+4544,al. Tysiąclecia
+4545,ul. E. Tyszkiewicza
+4546,ul. Tyszowiecka
+4547,ul. Tyśmienicka
+4548,ul. Tytoniowa
+4549,ul. Tytułowa
+4550,ul. Uczniowska
+4551,ul. Uczonych
+4552,ul. Ugorek
+4553,ul. Uhrocie
+4554,Al. Ujazdowskie
+4555,ul. Ukośna
+4556,ul. Ukryta
+4557,ul. Ulanowska
+4558,ul. Ulrychowska
+4559,ul. Ulubiona
+4560,ul. Ułanów Krechowieckich
+4561,ul. Ułańska
+4562,ul. Ułańska
+4563,ul. W. Umińskiego
+4564,ul. Umowna
+4565,pl. UNICEF
+4566,ul. A. Uniechowskiego
+4567,ul. Uniejowska
+4568,Rondo UE
+4569,pl. Unii Lubelskiej
+4570,ul. Uniwersału
+4571,ul. Uniwersytecka
+4572,ul. Uprawna
+4573,ul. Uranowa
+4574,ul. Urbanistów
+4575,ul. Urle
+4576,ul. Urocza
+4577,ul. Urocza
+4578,ul. Uroczysko
+4579,ul. Urodzajna
+4580,ul. Ursynowska
+4581,Pasaż Ursynowski
+4582,ul. Urszuli
+4583,ul. św. Urszuli Ledóchowskiej
+4584,ul. Urugwajska
+4585,ul. Urwisko
+4586,ul. Urzędnicza
+4587,ul. Ustronie
+4588,ul. Ustronna
+4589,ul. Ustrzycka
+4590,ul. Usypiskowa
+4591,ul. Uśmiech
+4592,ul. Utrata
+4593,ul. Uzdowska
+4594,ul. Uznamska
+4595,ul. V. van Gogha
+4596,Pasaż ks. B. Vargi
+4597,ul. G. Verdiego
+4598,ul. Villardczyków
+4599,ul. A. Vivaldiego
+4600,ul. Z. Vogla
+4601,ul. Wadowicka
+4602,ul. Waflowa
+4603,ul. Wagonowa
+4604,ul. Wahadło
+4605,ul. Wakacyjna
+4606,ul. Waksmundzka
+4607,ul. Walcownicza
+4608,ul. Walczyka
+4609,ul. J. Waldorffa
+4610,ul. Walecznych
+4611,ul. Walewska
+4612,ul. Waliców
+4613,ul. Waligóry
+4614,ul. Wallenroda
+4615,ul. gen. Waltera
+4616,ul. Wał Kościuszkowski
+4617,ul. Wał Miedzeszyński
+4618,ul. Wał Zawadowski
+4619,ul. Wałbrzyska
+4620,ul. Wałowa
+4621,ul. Wałowicka
+4622,ul. Wałuszewska
+4623,ul. Wandy
+4624,ul. Waniliowa
+4625,ul. Wantule
+4626,ul. M. Wańkowicza
+4627,ul. Wapienna
+4628,ul. Wapienna
+4629,ul. B. Wapowskiego
+4630,ul. E. Warchałowskiego
+4631,ul. Warecka
+4632,ul. Warmińska
+4633,ul. Warneńska
+4634,ul. Warowna
+4635,ul. Warsa
+4636,ul. Warszawska
+4637,ul. Warszawska
+4638,ul. K. Warszewickiego
+4639,ul. Warsztatowa
+4640,ul. Wartka
+4641,ul. L. Waryńskiego
+4642,ul. Warzelnicza
+4643,ul. Wasilkowska
+4644,ul. J. Wasilkowskiego
+4645,ul. Z. Wasiutyńskiego
+4646,ul. A. Waszkowskiego
+4647,al. J. Waszyngtona
+4648,Rondo J. Waszyngtona
+4649,ul. H. Wawelberga
+4650,ul. Wawelska
+4651,ul. Wawerska
+4652,ul. Wawerska
+4653,ul. Wawrzynowa
+4654,ul. L. Wawrzyńskiej
+4655,ul. Wawrzyszewska
+4656,ul. Wazów
+4657,ul. Wąbrzeska
+4658,ul. Wąchocka
+4659,ul. Wągrowiecka
+4660,ul. Wąska
+4661,ul. Wąska
+4662,ul. Wąski Dunaj
+4663,ul. Wąwolnicka
+4664,ul. Wąwozowa
+4665,ul. Wczasowa
+4666,ul. Wczele
+4667,al. E. Wedla
+4668,ul. Wejherowska
+4669,ul. A. Wejnerta
+4670,ul. Wełniana
+4671,ul. Wenecka
+4672,ul. Wenedów
+4673,ul. Werandowa
+4674,ul. Werbeny
+4675,ul. Wergiliusza
+4676,ul. Wernyhory
+4677,ul. Wersalska
+4678,ul. Weselna
+4679,ul. Wesoła
+4680,ul. B. Wesołowskiego
+4681,ul. Westerplatte
+4682,ul. Weteranów
+4683,pl. Weteranów 1863 r.
+4684,ul. Weterynaryjna
+4685,ul. Wędkarska
+4686,ul. Wędrowców
+4687,ul. Węgierska
+4688,ul. Węglarska
+4689,ul. Węgorzewska
+4690,ul. Węgrowska
+4691,ul. J. Węgrzyna
+4692,ul. Wiartel
+4693,ul. Wiarusów
+4694,ul. Wiatraczna
+4695,Rondo Wiatraczna
+4696,ul. Wiązana
+4697,ul. Wiązowska
+4698,ul. Wiązów
+4699,ul. Wichrowa
+4700,ul. Widawska
+4701,ul. Widna
+4702,ul. Widoczna
+4703,ul. Widok
+4704,ul. Widokowa
+4705,ul. Widzewska
+4706,Pasaż S. Wiecheckiego „Wiecha”
+4707,Skwer S. Wiecheckiego „Wiecha”
+4708,ul. Wiechy
+4709,ul. B. Wieczorkiewicza
+4710,ul. Wieczorowa
+4711,ul. Wiejska
+4712,ul. Wiejska
+4713,ul. Wielbarska
+4714,ul. Wielicka
+4715,ul. Wieliszewska
+4716,ul. Wielkiego Dębu
+4717,al. Wielkopolski
+4718,ul. Wielostronna
+4719,ul. Wielowiejska
+4720,ul. Wieluńska
+4721,ul. H. Wieniawskiego
+4722,al. gen. B. Wieniawy-Długoszowskiego
+4723,ul. Wieniecka
+4724,ul. Wierchów
+4725,ul. Wierna
+4726,ul. Wiertnicza
+4727,ul. prof. W. Wierzbickiego
+4728,ul. Wierzbiny
+4729,ul. Wierzbowa
+4730,ul. Wierzbowa
+4731,ul. Wierzby
+4732,ul. H. Wierzchowskiego
+4733,ul. M. Wierzynka
+4734,ul. K. Wierzyńskiego
+4735,ul. Wiesiołka
+4736,ul. Wieśniacza
+4737,ul. Wiewiórki
+4738,ul. Wieżowa
+4739,Skwer Więźniów Politycznych Stalinizmu
+4740,ul. S. Wigury
+4741,ul. Wikingów
+4742,ul. Wiklinowa
+4743,ul. Wiktorii Wiedeńskiej
+4744,ul. Wiktorska
+4745,al. Wilanowska
+4746,ul. Wilanowska
+4747,ul. Wilanowska
+4748,ul. Wilcza
+4749,ul. Wilczej Łąki
+4750,ul. Wilczy Dół
+4751,ul. Wilczycka
+4752,ul. Wileńska
+4753,pl. Wileński
+4754,ul. Wilgi
+4755,ul. A. Wilkońskiego
+4756,ul. Wilkowiecka
+4757,ul. Wilków Morskich
+4758,ul. Willowa
+4759,pl. T. W. Wilsona
+4760,ul. Wincentego Kadłubka
+4761,ul. św. Wincentego
+4762,ul. Winiarska
+4763,ul. Winnicka
+4764,ul. Winogronowa
+4765,ul. Winorośli
+4766,ul. Wiolinowa
+4767,ul. Wiolonczeli
+4768,ul. Wiosenna
+4769,ul. Wiosenna
+4770,ul. Wiosny Ludów
+4771,ul. Wioślarska
+4772,ul. Wirażowa
+4773,ul. Wisełki
+4774,ul. Wisienki
+4775,Skwer S. Wisłockiego
+4776,ul. Wiślana
+4777,ul. Wiślana
+4778,ul. Wiślanego Nurtu
+4779,ul. Wiślanych Pól
+4780,ul. Wiślicka
+4781,ul. Wiśniowa
+4782,ul. Wiśniowa
+4783,ul. Wiśniowy Sad
+4784,ul. Wita Stwosza
+4785,ul. Wita Stwosza
+4786,ul. Witebska
+4787,ul. Witki
+4788,ul. S. Witkiewicza
+4789,ul. Witolińska
+4790,al. W. Witosa
+4791,ul. Cz. Witoszyńskiego
+4792,ul. E. Wittiga
+4793,ul. W. Witwickiego
+4794,ul. Wjazdowa
+4795,ul. Władysława Hermana
+4796,ul. Władysława IV
+4797,ul. Władysława Jagiełły
+4798,ul. Władysława Laskonogiego
+4799,ul. Władysława Łokietka
+4800,ul. Władysława Warneńczyka
+4801,ul. Władysławowska
+4802,ul. Włochowska
+4803,ul. J. i W. Włoczewskich
+4804,ul. Włodarzewska
+4805,ul. P. Włodkowica
+4806,ul. Włodzicka
+4807,ul. Włoska
+4808,ul. Włościańska
+4809,ul. Włóki
+4810,ul. Włókiennicza
+4811,Skwer B. Wodiczko
+4812,ul. Wodna
+4813,ul. Wodniaków
+4814,ul. Wodyńska
+4815,ul. Wodzirejów
+4816,ul. Wodzisławska
+4817,ul. św. Wojciecha
+4818,ul. S. Wojciechowskiego
+4819,ul. Wojdyńska
+4820,Rondo J. Wojnara
+4821,ul. Wojnicka
+4822,al. Wojska Polskiego
+4823,pl. Wojska Polskiego
+4824,ul. Wojskowa
+4825,ul. Wojskowej Służby Kobiet
+4826,ul. Wojsławicka
+4827,ul. W. Wojtyszki
+4828,ul. Wokalna
+4829,ul. Wolborska
+4830,ul. Wolbromska
+4831,ul. Wolęcińska
+4832,ul. H. Wolff
+4833,ul. M. Wolfkego
+4834,Rondo K. E. Wolframa
+4835,ul. Wolicka
+4836,ul. Wolińska
+4837,ul. Wolna
+4838,Skwer Wolnego Słowa
+4839,ul. Wolnej Wszechnicy
+4840,pl. Wolności
+4841,ul. Wolności
+4842,ul. Wolność
+4843,ul. Wolska
+4844,ul. Wolumen
+4845,ul. Wołodyjowskiego
+4846,ul. Wołomińska
+4847,ul. Wołoska
+4848,Skwer Wołyński
+4849,ul. S. Worcella
+4850,ul. J. P. Woronicza
+4851,Skwer A. Woyciechowskiego
+4852,ul. Woziwody
+4853,ul. Wójcicka
+4854,ul. Wójtowska
+4855,ul. Wólczyńska
+4856,ul. K. Wóycickiego
+4857,pl. Z. Wóycickiej
+4858,ul. Wrocławska
+4859,ul. Wronia
+4860,ul. S. Wrońskiego
+4861,ul. Wrotkowa
+4862,ul. Wróbla
+4863,ul. W. Wróblewskiego
+4864,ul. Wrzeciono
+4865,ul. Wrzesińska
+4866,Skwer 16 Września 1944 r.
+4867,ul. Wrzosowa
+4868,ul. Wrzosowa
+4869,ul. Wrzosowisko
+4870,ul. Wschodnia
+4871,ul. Wschodnia
+4872,ul. Wschowska
+4873,ul. Wspaniała
+4874,ul. Wspomnień
+4875,ul. Wspólna
+4876,ul. Wspólna
+4877,ul. Wspólna Droga
+4878,ul. Współczesna
+4879,ul. Współczesna
+4880,ul. Wszeborska
+4881,ul. Wszemirowska
+4882,ul. J. Wybickiego
+4883,ul. Wybieg
+4884,ul. Wyborna
+4885,ul. Wybrańska
+4886,ul. Wybrzeże Gdańskie
+4887,ul. Wybrzeże Gdyńskie
+4888,ul. Wybrzeże Helskie
+4889,ul. Wybrzeże Kościuszkowskie
+4890,ul. Wybrzeże Puckie
+4891,ul. Wybrzeże Szczecińskie
+4892,ul. Wycieczka
+4893,ul. Wyczółki
+4894,ul. L. Wyczółkowskiego
+4895,ul. Wydawnicza
+4896,ul. Wydmińska
+4897,ul. Wydmowa
+4898,ul. Wyganowska
+4899,ul. Wyględowska
+4900,ul. Wygoda
+4901,ul. Wygodna
+4902,ul. Wygon
+4903,ul. Wyjazd
+4904,ul. Wyjściowa
+4905,ul. K. Wyki
+4906,ul. Wykrot
+4907,ul. Wykusz
+4908,ul. Wylot
+4909,ul. Wylotowa
+4910,ul. Wynalazek
+4911,ul. Wypoczynkowa
+4912,ul. Wyprawa
+4913,ul. Wyrzyska
+4914,ul. P. Wysockiego
+4915,ul. Wysoczyńska
+4916,ul. Wysokomazowiecka
+4917,ul. Wysowska
+4918,ul. S. Wyspiańskiego
+4919,ul. Wyspiarska
+4920,ul. Wyspowa
+4921,Strona I. Wyssogoty Zakrzewskiego
+4922,ul. Wyszatycka
+4923,ul. Wyszkowska
+4924,ul. Wyszogrodzka
+4925,Skwer kard. S. Wyszyńskiego
+4926,al. Wyścigowa
+4927,ul. Wytworna
+4928,al. Wyzwolenia
+4929,ul. Wzorcowa
+4930,ul. Wzorzysta
+4931,ul. Za Dębami
+4932,ul. Za Łąkami
+4933,ul. Zabawna
+4934,ul. Zabielska
+4935,ul. Zabłocińska
+4936,ul. Zabłocka
+4937,ul. Zabłudowska
+4938,ul. Zaboreczne
+4939,ul. Zaborowska
+4940,ul. Zabraniecka
+4941,ul. Zabrzańska
+4942,ul. Zachariasza
+4943,ul. Zachodnia
+4944,ul. Zachodu Słońca
+4945,ul. Zachodzącego Słońca
+4946,Międzymurze J. Zachwatowicza
+4947,ul. Zaciszańska
+4948,ul. Zaciszna
+4949,ul. Zaciszna
+4950,ul. Zaczarowanej Dorożki
+4951,ul. Zadroże
+4952,ul. Zadrzewiona
+4953,ul. Zadumana
+4954,ul. Zagadki
+4955,ul. Zagaje
+4956,ul. Zagajnikowa
+4957,ul. Zagajnikowa
+4958,ul. Zagięta
+4959,ul. Zagłoby
+4960,ul. Zagorzycka
+4961,ul. Zagójska
+4962,ul. Zagórna
+4963,ul. Zagórzańska
+4964,ul. Zagraniczna
+4965,ul. Zagrodecka
+4966,ul. Zagrodowa
+4967,ul. gen. J. Zajączka
+4968,ul. Zajączkowska
+4969,ul. Zajęcza
+4970,ul. Zakamarek
+4971,ul. Zakątek
+4972,ul. Zakątek
+4973,ul. Zakątna
+4974,ul. Zakładowa
+4975,ul. Zakole
+4976,ul. Zakopiańska
+4977,ul. Zakręcona
+4978,ul. Zakręt
+4979,ul. Zakrętowa
+4980,ul. Zakroczymska
+4981,ul. Zakrzewska
+4982,ul. Zalew
+4983,ul. Zalipie
+4984,ul. J. Zaliwskiego
+4985,ul. Załęże
+4986,al. Załogi Samolotu „Kościuszko”
+4987,ul. Załuski
+4988,ul. Zambrowska
+4989,ul. L. Zamenhofa
+4990,ul. Zamglona
+4991,ul. Zamiany
+4992,ul. Zamiejska
+4993,ul. Zamieniecka
+4994,ul. Zamknięta
+4995,ul. Zamkowa
+4996,pl. Zamkowy
+4997,ul. J. Zamoyskiego
+4998,ul. Zamożna
+4999,ul. T. Zana
+5000,ul. Zaniemyska

@@ -1,0 +1,7 @@
+LOAD DATA
+CHARACTERSET UTF8
+INFILE 'dane/klient.txt'
+BADFILE 'klient.bad'
+INSERT INTO TABLE klient
+FIELDS TERMINATED BY ','
+(id_klient,imie, nazwisko, email, nr_tel)

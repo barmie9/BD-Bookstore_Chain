@@ -1,0 +1,286 @@
+1,Abecedariusz,Wciaga w kazdym wieku
+2,Acta martyrum,Gatunek swietny dla rozwoju osobistego
+3,Adagium,Gatunek swietny dla rozwoju osobistego
+4,Adoksografia,Nie dla dzieci
+5,Aequidicium,Gatunek swietny dla rozwoju osobistego
+6,Aforyzm,Wciaga w kazdym wieku
+7,Agitka,Gatunek stary jak swiat
+8,Akromonogram,Nie dla dzieci
+9,Akrostych,Nie dla dzieci
+10,Alba (literatura),Gatunek swietny dla rozwoju osobistego
+11,Alfabeton,Gatunek swietny dla rozwoju osobistego
+12,Ałpamysz,Gatunek swietny dla rozwoju osobistego
+13,Anakreontyk,Gatunek stary jak swiat
+14,Anatomy of roguery,Wciaga w kazdym wieku
+15,Anegdota,Nie dla dzieci
+16,Annały,Nikt ni chciał kazdy potrzebował
+17,Apodemikum,Śmieszne i nie tylko
+18,Apoftegmat,Nikt ni chciał kazdy potrzebował
+19,Apolog,Śmieszne i nie tylko
+20,Apologia,Gatunek swietny dla rozwoju osobistego
+21,Arabeska (literatura),Śmieszne i nie tylko
+22,Aretalogia,Nikt ni chciał kazdy potrzebował
+23,Ariada,Gatunek swietny dla rozwoju osobistego
+24,Astracán,Śmieszne i nie tylko
+25,Aube (pieśń),Wciaga w kazdym wieku
+26,Autobiografia,Nie dla dzieci
+27,Autoepitafium,Nikt ni chciał kazdy potrzebował
+28,Awdl,Gatunek stary jak swiat
+29,Bajka,Gatunek swietny dla rozwoju osobistego
+30,Bajka ludowa,Gatunek swietny dla rozwoju osobistego
+31,Bajka terapeutyczna,Gatunek swietny dla rozwoju osobistego
+32,Balada (gatunek literacki),Gatunek stary jak swiat
+33,Ballada,Gatunek stary jak swiat
+34,Ballada francuska,Nie dla dzieci
+35,Ballada romantyczna,Nikt ni chciał kazdy potrzebował
+36,Ballade,Gatunek stary jak swiat
+37,Baśń,Gatunek swietny dla rozwoju osobistego
+38,Bergerette,Nikt ni chciał kazdy potrzebował
+39,Bildungsroman,Gatunek stary jak swiat
+40,Biografia,Nie dla dzieci
+41,Blason,Gatunek swietny dla rozwoju osobistego
+42,Blason populaire,Gatunek stary jak swiat
+43,Bruscello,Nikt ni chciał kazdy potrzebował
+44,Burletta,Wciaga w kazdym wieku
+45,Campus novel,Nie dla dzieci
+46,Canso,Wciaga w kazdym wieku
+47,Cantiga,Nikt ni chciał kazdy potrzebował
+48,Canzona (literatura),Nikt ni chciał kazdy potrzebował
+49,Carmen patrium,Gatunek swietny dla rozwoju osobistego
+50,Centon,Gatunek stary jak swiat
+51,Chansons de geste,Gatunek stary jak swiat
+52,Chantefable,Wciaga w kazdym wieku
+53,Charakter (gatunek literacki),Gatunek swietny dla rozwoju osobistego
+54,Chick lit,Gatunek swietny dla rozwoju osobistego
+55,Chōka,Śmieszne i nie tylko
+56,Chreja,Śmieszne i nie tylko
+57,Chuanqi,Gatunek stary jak swiat
+58,Cinquain,Wciaga w kazdym wieku
+59,Clerihew,Gatunek swietny dla rozwoju osobistego
+60,Climate fiction,Nikt ni chciał kazdy potrzebował
+61,Copypasta,Nie dla dzieci
+62,Coronach,Nie dla dzieci
+63,Cykl nowelistyczny,Gatunek stary jak swiat
+64,Cywydd,Nikt ni chciał kazdy potrzebował
+65,Czarny kryminał,Wciaga w kazdym wieku
+66,Dastan (gatunek literacki),Wciaga w kazdym wieku
+67,Dialog (literatura),Gatunek stary jak swiat
+68,Diariusz,Nikt ni chciał kazdy potrzebował
+69,Dni Arabów,Śmieszne i nie tylko
+70,Dreszczowiec,Gatunek stary jak swiat
+71,Duma (literatura polska),Śmieszne i nie tylko
+72,Duma (literatura ukraińska),Gatunek swietny dla rozwoju osobistego
+73,Dumka,Gatunek swietny dla rozwoju osobistego
+74,Dytyramb,Nie dla dzieci
+75,Dywan (literatura),Nie dla dzieci
+76,Dziennik (literatura),Śmieszne i nie tylko
+77,Dziennik intymny,Śmieszne i nie tylko
+78,Dziennik podróży,Nie dla dzieci
+79,Dziwny Zachód,Nikt ni chciał kazdy potrzebował
+80,Ekfraza,Nie dla dzieci
+81,Elegia,Gatunek stary jak swiat
+82,Emaus (gatunek literacki),Nie dla dzieci
+83,Emblemat,Śmieszne i nie tylko
+84,Englyn,Gatunek swietny dla rozwoju osobistego
+85,Enkomion,Wciaga w kazdym wieku
+86,Ensenhamen,Gatunek swietny dla rozwoju osobistego
+87,Entremés,Nie dla dzieci
+88,Epicedium,Gatunek stary jak swiat
+89,Epigramat,Nikt ni chciał kazdy potrzebował
+90,Epinikion,Gatunek stary jak swiat
+91,Epitafium,Wciaga w kazdym wieku
+92,Epitalamium,Wciaga w kazdym wieku
+93,Epoda,Śmieszne i nie tylko
+94,Epyllion,Nie dla dzieci
+95,Erotyk,Śmieszne i nie tylko
+96,Esperpento,Gatunek stary jak swiat
+97,Fabliaux,Gatunek swietny dla rozwoju osobistego
+98,Facecja,Gatunek stary jak swiat
+99,Fastnachtsspiel,Nikt ni chciał kazdy potrzebował
+100,Fescennina,Śmieszne i nie tylko
+101,Figlik,Śmieszne i nie tylko
+102,Fikcja polityczna,Gatunek stary jak swiat
+103,Filipika,Wciaga w kazdym wieku
+104,Folkevise,Nikt ni chciał kazdy potrzebował
+105,Fotonowela,Nie dla dzieci
+106,Fraszka,Nie dla dzieci
+107,Frottola,Wciaga w kazdym wieku
+108,Fu (poezja),Gatunek stary jak swiat
+109,Gawęda (literatura),Nie dla dzieci
+110,Gawęda szlachecka,Wciaga w kazdym wieku
+111,Gazel,Gatunek stary jak swiat
+112,Geheimbundroman,Gatunek swietny dla rozwoju osobistego
+113,Geisslerlieder,Nikt ni chciał kazdy potrzebował
+114,Género chico,Wciaga w kazdym wieku
+115,Genethliakon,Gatunek swietny dla rozwoju osobistego
+116,Gnom (literatura),Nikt ni chciał kazdy potrzebował
+117,Gnoma,Wciaga w kazdym wieku
+118,Gregueria,Śmieszne i nie tylko
+119,Haiku,Śmieszne i nie tylko
+120,Hiperfikcja,Nie dla dzieci
+121,Hodoeporikon,Wciaga w kazdym wieku
+122,Homerokentron,Nikt ni chciał kazdy potrzebował
+123,Horror lovecraftowski,Gatunek stary jak swiat
+124,Hospodská historka,Gatunek stary jak swiat
+125,Huaben,Gatunek swietny dla rozwoju osobistego
+126,Humoreska,Gatunek swietny dla rozwoju osobistego
+127,Hymn,Nikt ni chciał kazdy potrzebował
+128,Ibisigo,Nikt ni chciał kazdy potrzebował
+129,Ibitekerezo,Nie dla dzieci
+130,Ijohajocis,Śmieszne i nie tylko
+131,Imayō,Wciaga w kazdym wieku
+132,Intymistyka,Gatunek swietny dla rozwoju osobistego
+133,Isopet,Śmieszne i nie tylko
+134,Izbornik,Śmieszne i nie tylko
+135,Jajjukara,Gatunek swietny dla rozwoju osobistego
+136,Jajkatekara,Nikt ni chciał kazdy potrzebował
+137,Jeremiady,Wciaga w kazdym wieku
+138,Jukar,Gatunek stary jak swiat
+139,Karisi,Nie dla dzieci
+140,Karykatura,Wciaga w kazdym wieku
+141,Katauta,Nikt ni chciał kazdy potrzebował
+142,Kauhou,Nie dla dzieci
+143,Klechda,Nie dla dzieci
+144,Knittelvers,Gatunek stary jak swiat
+145,Kodycyl,Nie dla dzieci
+146,Kolaż literacki,Śmieszne i nie tylko
+147,Komentarz prasowy,Wciaga w kazdym wieku
+148,Komiks,Nikt ni chciał kazdy potrzebował
+149,Kronika,Śmieszne i nie tylko
+150,Kuplet,Wciaga w kazdym wieku
+151,Lad lit,Wciaga w kazdym wieku
+152,Lamentacja (teoria literatury),Wciaga w kazdym wieku
+153,Lapidarium (literatura),Nikt ni chciał kazdy potrzebował
+154,Latopis,Śmieszne i nie tylko
+155,Laudes (literatura),Gatunek swietny dla rozwoju osobistego
+156,Legenda,Śmieszne i nie tylko
+157,Lepiej,Nikt ni chciał kazdy potrzebował
+158,Libretto,Gatunek swietny dla rozwoju osobistego
+159,Limeryk,Wciaga w kazdym wieku
+160,List,Nikt ni chciał kazdy potrzebował
+161,List poetycki,Śmieszne i nie tylko
+162,Lüshi,Śmieszne i nie tylko
+163,Makabreska,Śmieszne i nie tylko
+164,Makama,Nikt ni chciał kazdy potrzebował
+165,Meander (literatura),Śmieszne i nie tylko
+166,Melodramat,Śmieszne i nie tylko
+167,Mimijamb,Wciaga w kazdym wieku
+168,Minucje,Gatunek swietny dla rozwoju osobistego
+169,Monogatari,Nie dla dzieci
+170,Moralia,Wciaga w kazdym wieku
+171,Moralitet,Nikt ni chciał kazdy potrzebował
+172,Moskalik (wiersz),Gatunek swietny dla rozwoju osobistego
+173,Naat,Nikt ni chciał kazdy potrzebował
+174,New adult,Nikt ni chciał kazdy potrzebował
+175,Ninni,Gatunek swietny dla rozwoju osobistego
+176,Norito,Nie dla dzieci
+177,Novas rimadas,Nikt ni chciał kazdy potrzebował
+178,Nowela,Śmieszne i nie tylko
+179,Obrazek,Nikt ni chciał kazdy potrzebował
+180,Oda (literatura),Nie dla dzieci
+181,Odmiana gatunkowa,Nikt ni chciał kazdy potrzebował
+182,Oficjum,Nikt ni chciał kazdy potrzebował
+183,Opowiadanie,Nie dla dzieci
+184,Padwan,Gatunek stary jak swiat
+185,Palinodia,Nikt ni chciał kazdy potrzebował
+186,Pamflet,Śmieszne i nie tylko
+187,Pamiętnik,Wciaga w kazdym wieku
+188,Panegiryk,Gatunek swietny dla rozwoju osobistego
+189,Parada (literatura),Gatunek stary jak swiat
+190,Paradoksografia,Nikt ni chciał kazdy potrzebował
+191,Paramythia,Śmieszne i nie tylko
+192,Parodia,Nie dla dzieci
+193,Pastisz (stylistyka),Gatunek swietny dla rozwoju osobistego
+194,Pastorela,Gatunek swietny dla rozwoju osobistego
+195,Pastourelle,Nikt ni chciał kazdy potrzebował
+196,Paszkwil,Śmieszne i nie tylko
+197,Pateryk,Śmieszne i nie tylko
+198,Pieśni wołczebne,Nikt ni chciał kazdy potrzebował
+199,Pieśń (gatunek literacki),Gatunek stary jak swiat
+200,Pieśń eschatologiczna,Gatunek stary jak swiat
+201,Pieśń farerska,Gatunek swietny dla rozwoju osobistego
+202,Pinghua,Nikt ni chciał kazdy potrzebował
+203,Piosenka aktorska,Gatunek stary jak swiat
+204,Planctus,Nikt ni chciał kazdy potrzebował
+205,Planh,Wciaga w kazdym wieku
+206,Podanie (literatura),Śmieszne i nie tylko
+207,Postylla,Gatunek stary jak swiat
+208,Prosodion,Wciaga w kazdym wieku
+209,Przypowieść,Gatunek stary jak swiat
+210,Psalm,Gatunek stary jak swiat
+211,Pseudoepigrafy,Nikt ni chciał kazdy potrzebował
+212,Purany,Gatunek swietny dla rozwoju osobistego
+213,Querimonium,Wciaga w kazdym wieku
+214,Rajok,Nie dla dzieci
+215,Raki (versus cancrini),Śmieszne i nie tylko
+216,Rapsod (utwór),Gatunek stary jak swiat
+217,Reportaż,Śmieszne i nie tylko
+218,Responsy,Nikt ni chciał kazdy potrzebował
+219,Robinsonada,Nie dla dzieci
+220,Romanca,Nie dla dzieci
+221,Romans (historyczny gatunek literacki),Śmieszne i nie tylko
+222,Romans dworski,Gatunek swietny dla rozwoju osobistego
+223,Romans epok,Nikt ni chciał kazdy potrzebował
+224,Romans pasterski,Śmieszne i nie tylko
+225,Rondel (utwór literacki),Nie dla dzieci
+226,Rozprawka syntetyzująca,Wciaga w kazdym wieku
+227,Rubajjat,Gatunek stary jak swiat
+228,Rymowanka,Śmieszne i nie tylko
+229,Sadż,Gatunek stary jak swiat
+230,Saibara,Nikt ni chciał kazdy potrzebował
+231,Sainete,Wciaga w kazdym wieku
+232,Satyra menippejska,Gatunek stary jak swiat
+233,Sedōka,Gatunek stary jak swiat
+234,Sentencja,Nie dla dzieci
+235,Serena (gatunek literacki),Wciaga w kazdym wieku
+236,Sermon joyeux,Nikt ni chciał kazdy potrzebował
+237,Setsuwa,Gatunek stary jak swiat
+238,Shi,Wciaga w kazdym wieku
+239,Sielanka,Nie dla dzieci
+240,Sirat,Nikt ni chciał kazdy potrzebował
+241,Sirventes,Nikt ni chciał kazdy potrzebował
+242,Skecz,Śmieszne i nie tylko
+243,Sohar,Nikt ni chciał kazdy potrzebował
+244,Sonet,Nikt ni chciał kazdy potrzebował
+245,Sonetoid,Gatunek stary jak swiat
+246,Song (utwór),Gatunek swietny dla rozwoju osobistego
+247,Sortilegium,Wciaga w kazdym wieku
+248,Sotie,Wciaga w kazdym wieku
+249,Splatterpunk,Wciaga w kazdym wieku
+250,Stemmat,Nie dla dzieci
+251,Sylwa,Nie dla dzieci
+252,Synkretyzm w literaturze,Śmieszne i nie tylko
+253,Szarada,Nikt ni chciał kazdy potrzebował
+254,Sztambuch,Nie dla dzieci
+255,Tanka,Nikt ni chciał kazdy potrzebował
+256,Tautogram,Nie dla dzieci
+257,Technothriller,Gatunek swietny dla rozwoju osobistego
+258,Tenso,Gatunek swietny dla rozwoju osobistego
+259,Testament poetycki,Nikt ni chciał kazdy potrzebował
+260,Thriller medyczny,Śmieszne i nie tylko
+261,Toast,Wciaga w kazdym wieku
+262,Tonadilla,Wciaga w kazdym wieku
+263,Tren (literatura),Nikt ni chciał kazdy potrzebował
+264,Triady,Śmieszne i nie tylko
+265,Ucaskoma,Wciaga w kazdym wieku
+266,Upaniszady,Nie dla dzieci
+267,Vida,Śmieszne i nie tylko
+268,Vilanella,Gatunek stary jak swiat
+269,Virelai,Nikt ni chciał kazdy potrzebował
+270,Literatura wagonowa,Wciaga w kazdym wieku
+271,Waka (poezja),Wciaga w kazdym wieku
+272,Walentynka,Nie dla dzieci
+273,Walterscotyzm,Śmieszne i nie tylko
+274,Wat (gatunek literacki),Nie dla dzieci
+275,Western (literatura),Nie dla dzieci
+276,Wiersz obrazkowy,Gatunek swietny dla rozwoju osobistego
+277,Wyliczanka (literatura),Śmieszne i nie tylko
+278,Xenia (epigramat),Śmieszne i nie tylko
+279,Young adult,Gatunek stary jak swiat
+280,Zagadka,Nikt ni chciał kazdy potrzebował
+281,Zehel,Wciaga w kazdym wieku
+282,Zeitroman,Gatunek stary jak swiat
+283,Zuihitsu,Gatunek swietny dla rozwoju osobistego
+284,Zwierciadło (literatura),Gatunek stary jak swiat
+285,Żale (literatura),Nikt ni chciał kazdy potrzebował
+286,Żurawiejka,Nie dla dzieci

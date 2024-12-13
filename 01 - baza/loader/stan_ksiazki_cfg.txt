@@ -1,0 +1,7 @@
+LOAD DATA
+CHARACTERSET UTF8
+INFILE 'dane/stan_ksiazki.txt'
+BADFILE 'stan_ksiazki.bad'
+INSERT INTO TABLE stan_ksiazki
+FIELDS TERMINATED BY ','
+(id_stan_ksiazki, ilosc, id_ksiazka, id_ksiegarnia)

@@ -1,0 +1,200 @@
+1,599,Wysoka sprzedaż,2019/8/20,783
+2,1952,Punktualnośc,2017/1/14,227
+3,1020,Punktualnośc,2020/5/8,577
+4,1423,Punktualnośc,2018/3/18,309
+5,846,Ciekawe Pomysły,2020/1/2,227
+6,1073,Największa sprzedaż,2018/9/16,201
+7,1972,Największa sprzedaż,2019/8/27,290
+8,672,Punktualnośc,2019/7/15,159
+9,1296,Punktualnośc,2020/2/3,137
+10,1315,Punktualnośc,2020/10/21,487
+11,806,Największa sprzedaż,2019/1/10,422
+12,1879,Największa sprzedaż,2019/9/19,686
+13,1130,Wysoka sprzedaż,2020/4/2,636
+14,1073,Wysoka sprzedaż,2020/9/3,691
+15,1494,Największa sprzedaż,2020/8/8,193
+16,1830,Największa sprzedaż,2019/1/13,859
+17,1122,Ciekawe Pomysły,2019/12/7,300
+18,1963,Wysoka sprzedaż,2017/3/13,456
+19,1448,Wysoka sprzedaż,2019/7/15,790
+20,1483,Punktualnośc,2020/8/7,904
+21,1680,Ciekawe Pomysły,2018/10/6,837
+22,1969,Największa sprzedaż,2020/3/24,513
+23,766,Wysoka sprzedaż,2017/5/1,10
+24,1958,Wysoka sprzedaż,2020/11/13,320
+25,505,Wysoka sprzedaż,2019/12/19,693
+26,1533,Wysoka sprzedaż,2018/11/5,387
+27,1860,Ciekawe Pomysły,2020/8/7,127
+28,918,Punktualnośc,2019/4/11,763
+29,888,Największa sprzedaż,2019/5/2,641
+30,557,Ciekawe Pomysły,2019/1/17,938
+31,971,Największa sprzedaż,2018/11/11,248
+32,693,Ciekawe Pomysły,2019/11/13,261
+33,1025,Największa sprzedaż,2017/7/9,167
+34,574,Ciekawe Pomysły,2019/6/15,999
+35,1053,Punktualnośc,2017/7/12,561
+36,1404,Ciekawe Pomysły,2020/10/18,284
+37,1698,Największa sprzedaż,2019/8/10,645
+38,1089,Wysoka sprzedaż,2020/11/24,31
+39,1969,Punktualnośc,2017/2/20,779
+40,1803,Punktualnośc,2017/3/5,639
+41,819,Punktualnośc,2019/12/4,849
+42,971,Punktualnośc,2018/11/9,468
+43,607,Największa sprzedaż,2018/11/4,638
+44,1406,Punktualnośc,2019/5/24,525
+45,1348,Punktualnośc,2019/5/1,506
+46,1762,Największa sprzedaż,2018/5/14,580
+47,589,Ciekawe Pomysły,2017/1/24,430
+48,1488,Punktualnośc,2017/3/24,562
+49,1689,Punktualnośc,2020/11/21,737
+50,660,Punktualnośc,2017/10/20,762
+51,599,Ciekawe Pomysły,2020/7/27,673
+52,1564,Ciekawe Pomysły,2018/6/21,122
+53,899,Punktualnośc,2019/10/24,145
+54,1448,Największa sprzedaż,2017/7/12,535
+55,1022,Ciekawe Pomysły,2018/9/27,862
+56,724,Wysoka sprzedaż,2018/1/27,310
+57,1380,Wysoka sprzedaż,2018/9/21,792
+58,639,Największa sprzedaż,2020/8/12,561
+59,1435,Punktualnośc,2020/3/3,155
+60,720,Ciekawe Pomysły,2018/12/14,765
+61,1543,Punktualnośc,2018/7/23,604
+62,734,Największa sprzedaż,2020/7/18,450
+63,734,Wysoka sprzedaż,2019/4/15,109
+64,1670,Ciekawe Pomysły,2018/8/26,952
+65,1189,Ciekawe Pomysły,2018/4/6,6
+66,682,Punktualnośc,2020/1/5,871
+67,1897,Punktualnośc,2019/8/4,989
+68,584,Punktualnośc,2020/7/13,172
+69,1222,Punktualnośc,2019/7/2,18
+70,1894,Ciekawe Pomysły,2017/4/12,639
+71,1442,Ciekawe Pomysły,2018/1/5,56
+72,1787,Punktualnośc,2017/2/4,536
+73,1990,Ciekawe Pomysły,2019/10/25,378
+74,1914,Punktualnośc,2020/12/2,124
+75,1579,Punktualnośc,2018/5/2,194
+76,1857,Punktualnośc,2019/2/22,630
+77,1967,Wysoka sprzedaż,2017/8/7,728
+78,1725,Wysoka sprzedaż,2017/7/24,734
+79,756,Największa sprzedaż,2018/1/7,520
+80,1603,Wysoka sprzedaż,2018/5/17,845
+81,752,Wysoka sprzedaż,2019/12/13,502
+82,756,Największa sprzedaż,2020/7/22,517
+83,917,Punktualnośc,2017/1/26,779
+84,1251,Ciekawe Pomysły,2017/4/2,233
+85,1455,Ciekawe Pomysły,2020/1/8,52
+86,1384,Ciekawe Pomysły,2019/12/7,632
+87,1017,Ciekawe Pomysły,2018/8/6,893
+88,1713,Największa sprzedaż,2017/2/21,557
+89,763,Punktualnośc,2017/9/14,970
+90,1303,Punktualnośc,2019/10/25,847
+91,709,Największa sprzedaż,2019/4/6,58
+92,1154,Największa sprzedaż,2020/3/27,231
+93,695,Ciekawe Pomysły,2018/9/26,999
+94,1970,Największa sprzedaż,2020/8/10,344
+95,1128,Największa sprzedaż,2018/2/10,166
+96,1653,Największa sprzedaż,2019/11/23,46
+97,888,Wysoka sprzedaż,2019/8/2,323
+98,1296,Punktualnośc,2020/3/5,515
+99,632,Ciekawe Pomysły,2019/11/12,695
+100,680,Wysoka sprzedaż,2019/3/5,998
+101,1549,Wysoka sprzedaż,2020/9/15,400
+102,1572,Największa sprzedaż,2019/12/19,747
+103,1485,Największa sprzedaż,2019/7/23,737
+104,641,Największa sprzedaż,2020/6/20,273
+105,1998,Wysoka sprzedaż,2017/2/13,443
+106,1039,Wysoka sprzedaż,2017/6/19,873
+107,1309,Punktualnośc,2017/7/26,251
+108,1714,Punktualnośc,2017/11/10,271
+109,1240,Wysoka sprzedaż,2020/11/18,651
+110,1813,Ciekawe Pomysły,2020/5/6,910
+111,1378,Punktualnośc,2017/4/14,88
+112,1841,Ciekawe Pomysły,2018/7/5,139
+113,625,Największa sprzedaż,2019/5/14,569
+114,994,Punktualnośc,2017/6/24,6
+115,885,Wysoka sprzedaż,2017/7/17,884
+116,1756,Wysoka sprzedaż,2019/1/8,683
+117,680,Największa sprzedaż,2020/3/1,735
+118,506,Największa sprzedaż,2019/4/2,52
+119,1030,Ciekawe Pomysły,2017/12/26,368
+120,716,Ciekawe Pomysły,2018/7/15,501
+121,1388,Największa sprzedaż,2018/9/26,936
+122,669,Ciekawe Pomysły,2019/2/16,585
+123,1460,Wysoka sprzedaż,2018/12/7,513
+124,504,Największa sprzedaż,2020/7/3,717
+125,1052,Największa sprzedaż,2019/11/14,102
+126,812,Ciekawe Pomysły,2019/3/24,34
+127,1455,Największa sprzedaż,2019/4/9,765
+128,1679,Punktualnośc,2018/10/21,33
+129,1031,Ciekawe Pomysły,2018/9/13,197
+130,1563,Ciekawe Pomysły,2018/4/10,332
+131,1695,Punktualnośc,2018/12/13,734
+132,536,Punktualnośc,2018/6/1,636
+133,1126,Największa sprzedaż,2019/6/19,999
+134,1266,Ciekawe Pomysły,2019/8/16,780
+135,871,Punktualnośc,2017/7/1,52
+136,1965,Wysoka sprzedaż,2020/5/7,344
+137,976,Największa sprzedaż,2017/7/7,962
+138,1331,Największa sprzedaż,2018/3/11,671
+139,909,Wysoka sprzedaż,2019/5/5,414
+140,881,Ciekawe Pomysły,2018/12/17,880
+141,1585,Największa sprzedaż,2017/6/17,532
+142,1243,Wysoka sprzedaż,2017/5/3,532
+143,1796,Ciekawe Pomysły,2020/11/17,452
+144,1592,Wysoka sprzedaż,2017/5/18,456
+145,1318,Największa sprzedaż,2019/9/19,630
+146,1356,Wysoka sprzedaż,2017/8/10,54
+147,1836,Ciekawe Pomysły,2017/7/8,155
+148,1486,Ciekawe Pomysły,2019/2/27,913
+149,1959,Wysoka sprzedaż,2019/9/25,8
+150,974,Punktualnośc,2018/11/18,730
+151,920,Punktualnośc,2018/10/3,887
+152,1848,Punktualnośc,2019/10/19,633
+153,1116,Największa sprzedaż,2020/4/6,153
+154,759,Największa sprzedaż,2018/7/6,406
+155,604,Ciekawe Pomysły,2019/3/23,410
+156,1494,Punktualnośc,2017/5/21,967
+157,1052,Ciekawe Pomysły,2019/2/16,976
+158,978,Największa sprzedaż,2017/5/24,556
+159,807,Ciekawe Pomysły,2020/9/17,220
+160,829,Punktualnośc,2017/8/9,559
+161,1465,Punktualnośc,2020/10/14,964
+162,1664,Ciekawe Pomysły,2018/12/20,984
+163,1084,Wysoka sprzedaż,2017/2/6,469
+164,670,Wysoka sprzedaż,2019/1/8,469
+165,677,Ciekawe Pomysły,2019/12/23,259
+166,1644,Wysoka sprzedaż,2019/2/9,284
+167,1467,Ciekawe Pomysły,2019/12/3,75
+168,1653,Ciekawe Pomysły,2020/10/27,461
+169,1267,Punktualnośc,2018/8/2,488
+170,646,Punktualnośc,2020/10/8,818
+171,1513,Ciekawe Pomysły,2019/9/25,50
+172,1178,Wysoka sprzedaż,2017/10/21,402
+173,902,Największa sprzedaż,2019/12/15,651
+174,666,Ciekawe Pomysły,2017/6/13,734
+175,1347,Ciekawe Pomysły,2019/11/7,3
+176,1835,Ciekawe Pomysły,2017/3/5,355
+177,1278,Punktualnośc,2017/1/5,429
+178,584,Wysoka sprzedaż,2018/10/13,807
+179,1262,Punktualnośc,2017/11/18,264
+180,1673,Punktualnośc,2019/1/14,131
+181,923,Wysoka sprzedaż,2017/11/9,874
+182,547,Punktualnośc,2019/12/20,111
+183,1157,Największa sprzedaż,2019/2/8,616
+184,659,Punktualnośc,2020/12/9,341
+185,1902,Punktualnośc,2020/12/8,107
+186,1620,Punktualnośc,2019/1/16,332
+187,1924,Ciekawe Pomysły,2017/10/19,842
+188,1390,Wysoka sprzedaż,2018/3/27,123
+189,563,Wysoka sprzedaż,2020/9/25,428
+190,1405,Wysoka sprzedaż,2020/1/5,987
+191,1346,Ciekawe Pomysły,2018/3/5,373
+192,962,Największa sprzedaż,2018/7/24,56
+193,1427,Ciekawe Pomysły,2019/5/25,238
+194,986,Ciekawe Pomysły,2020/11/10,344
+195,1819,Największa sprzedaż,2017/8/6,910
+196,895,Największa sprzedaż,2018/10/24,431
+197,1455,Wysoka sprzedaż,2017/10/12,555
+198,1477,Punktualnośc,2019/5/13,249
+199,1673,Największa sprzedaż,2017/10/23,78
+200,853,Największa sprzedaż,2017/4/1,609

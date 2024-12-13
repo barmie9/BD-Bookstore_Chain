@@ -1,0 +1,7 @@
+LOAD DATA
+CHARACTERSET UTF8
+INFILE 'dane/autor.txt'
+BADFILE 'autor.bad'
+INSERT INTO TABLE autor
+FIELDS TERMINATED BY ','
+(id_autor, imie, nazwisko, data_urodzenia date "yyyy/mm/dd")

@@ -1,0 +1,7 @@
+LOAD DATA
+CHARACTERSET UTF8
+INFILE 'dane/okres.txt'
+BADFILE 'okres.bad'
+INSERT INTO TABLE okres
+FIELDS TERMINATED BY ','
+(id_okres,id_kwartal,id_rok)

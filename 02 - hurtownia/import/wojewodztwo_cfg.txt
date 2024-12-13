@@ -1,0 +1,7 @@
+LOAD DATA
+CHARACTERSET UTF8
+INFILE 'dane/wojewodztwo.txt'
+BADFILE 'wojewodztwo.bad'
+INSERT INTO TABLE wojewodztwo
+FIELDS TERMINATED BY ','
+(id_wojewodztwo,nazwa)

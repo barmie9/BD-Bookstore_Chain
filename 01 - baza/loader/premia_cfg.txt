@@ -1,0 +1,7 @@
+LOAD DATA
+CHARACTERSET UTF8
+INFILE 'dane/premia.txt'
+BADFILE 'premia.bad'
+INSERT INTO TABLE premia
+FIELDS TERMINATED BY ','
+(id_premia, wysokosc_premi, opis, data date "yyyy/mm/dd", id_pracownik)

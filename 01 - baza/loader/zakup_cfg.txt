@@ -1,0 +1,7 @@
+LOAD DATA
+CHARACTERSET UTF8
+INFILE 'dane/zakup.txt'
+BADFILE 'zakup.bad'
+INSERT INTO TABLE zakup
+FIELDS TERMINATED BY ','
+(id_zakup, ilosc, data_zakupu date "yyyy/mm/dd", id_pracownik, id_klient, id_stan_ksiazki)

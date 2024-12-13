@@ -1,0 +1,7 @@
+LOAD DATA
+CHARACTERSET UTF8
+INFILE 'dane/sprzedaz.txt'
+BADFILE 'sprzedaz.bad'
+INSERT INTO TABLE sprzedaz
+FIELDS TERMINATED BY ','
+(id_sprzedaz,zarobek,ilosc,id_okres,id_ksiazka,id_ksiegarnia,id_wojewodztwo,id_pracownik)

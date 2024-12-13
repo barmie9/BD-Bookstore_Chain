@@ -1,0 +1,286 @@
+1,Abecedariusz
+2,Acta martyrum
+3,Adagium
+4,Adoksografia
+5,Aequidicium
+6,Aforyzm
+7,Agitka
+8,Akromonogram
+9,Akrostych
+10,Alba (literatura)
+11,Alfabeton
+12,Ałpamysz
+13,Anakreontyk
+14,Anatomy of roguery
+15,Anegdota
+16,Annały
+17,Apodemikum
+18,Apoftegmat
+19,Apolog
+20,Apologia
+21,Arabeska (literatura)
+22,Aretalogia
+23,Ariada
+24,Astracán
+25,Aube (pieśń)
+26,Autobiografia
+27,Autoepitafium
+28,Awdl
+29,Bajka
+30,Bajka ludowa
+31,Bajka terapeutyczna
+32,Balada (gatunek literacki)
+33,Ballada
+34,Ballada francuska
+35,Ballada romantyczna
+36,Ballade
+37,Baśń
+38,Bergerette
+39,Bildungsroman
+40,Biografia
+41,Blason
+42,Blason populaire
+43,Bruscello
+44,Burletta
+45,Campus novel
+46,Canso
+47,Cantiga
+48,Canzona (literatura)
+49,Carmen patrium
+50,Centon
+51,Chansons de geste
+52,Chantefable
+53,Charakter (gatunek literacki)
+54,Chick lit
+55,Chōka
+56,Chreja
+57,Chuanqi
+58,Cinquain
+59,Clerihew
+60,Climate fiction
+61,Copypasta
+62,Coronach
+63,Cykl nowelistyczny
+64,Cywydd
+65,Czarny kryminał
+66,Dastan (gatunek literacki)
+67,Dialog (literatura)
+68,Diariusz
+69,Dni Arabów
+70,Dreszczowiec
+71,Duma (literatura polska)
+72,Duma (literatura ukraińska)
+73,Dumka
+74,Dytyramb
+75,Dywan (literatura)
+76,Dziennik (literatura)
+77,Dziennik intymny
+78,Dziennik podróży
+79,Dziwny Zachód
+80,Ekfraza
+81,Elegia
+82,Emaus (gatunek literacki)
+83,Emblemat
+84,Englyn
+85,Enkomion
+86,Ensenhamen
+87,Entremés
+88,Epicedium
+89,Epigramat
+90,Epinikion
+91,Epitafium
+92,Epitalamium
+93,Epoda
+94,Epyllion
+95,Erotyk
+96,Esperpento
+97,Fabliaux
+98,Facecja
+99,Fastnachtsspiel
+100,Fescennina
+101,Figlik
+102,Fikcja polityczna
+103,Filipika
+104,Folkevise
+105,Fotonowela
+106,Fraszka
+107,Frottola
+108,Fu (poezja)
+109,Gawęda (literatura)
+110,Gawęda szlachecka
+111,Gazel
+112,Geheimbundroman
+113,Geisslerlieder
+114,Género chico
+115,Genethliakon
+116,Gnom (literatura)
+117,Gnoma
+118,Gregueria
+119,Haiku
+120,Hiperfikcja
+121,Hodoeporikon
+122,Homerokentron
+123,Horror lovecraftowski
+124,Hospodská historka
+125,Huaben
+126,Humoreska
+127,Hymn
+128,Ibisigo
+129,Ibitekerezo
+130,Ijohajocis
+131,Imayō
+132,Intymistyka
+133,Isopet
+134,Izbornik
+135,Jajjukara
+136,Jajkatekara
+137,Jeremiady
+138,Jukar
+139,Karisi
+140,Karykatura
+141,Katauta
+142,Kauhou
+143,Klechda
+144,Knittelvers
+145,Kodycyl
+146,Kolaż literacki
+147,Komentarz prasowy
+148,Komiks
+149,Kronika
+150,Kuplet
+151,Lad lit
+152,Lamentacja (teoria literatury)
+153,Lapidarium (literatura)
+154,Latopis
+155,Laudes (literatura)
+156,Legenda
+157,Lepiej
+158,Libretto
+159,Limeryk
+160,List
+161,List poetycki
+162,Lüshi
+163,Makabreska
+164,Makama
+165,Meander (literatura)
+166,Melodramat
+167,Mimijamb
+168,Minucje
+169,Monogatari
+170,Moralia
+171,Moralitet
+172,Moskalik (wiersz)
+173,Naat
+174,New adult
+175,Ninni
+176,Norito
+177,Novas rimadas
+178,Nowela
+179,Obrazek
+180,Oda (literatura)
+181,Odmiana gatunkowa
+182,Oficjum
+183,Opowiadanie
+184,Padwan
+185,Palinodia
+186,Pamflet
+187,Pamiętnik
+188,Panegiryk
+189,Parada (literatura)
+190,Paradoksografia
+191,Paramythia
+192,Parodia
+193,Pastisz (stylistyka)
+194,Pastorela
+195,Pastourelle
+196,Paszkwil
+197,Pateryk
+198,Pieśni wołczebne
+199,Pieśń (gatunek literacki)
+200,Pieśń eschatologiczna
+201,Pieśń farerska
+202,Pinghua
+203,Piosenka aktorska
+204,Planctus
+205,Planh
+206,Podanie (literatura)
+207,Postylla
+208,Prosodion
+209,Przypowieść
+210,Psalm
+211,Pseudoepigrafy
+212,Purany
+213,Querimonium
+214,Rajok
+215,Raki (versus cancrini)
+216,Rapsod (utwór)
+217,Reportaż
+218,Responsy
+219,Robinsonada
+220,Romanca
+221,Romans (historyczny gatunek literacki)
+222,Romans dworski
+223,Romans epok
+224,Romans pasterski
+225,Rondel (utwór literacki)
+226,Rozprawka syntetyzująca
+227,Rubajjat
+228,Rymowanka
+229,Sadż
+230,Saibara
+231,Sainete
+232,Satyra menippejska
+233,Sedōka
+234,Sentencja
+235,Serena (gatunek literacki)
+236,Sermon joyeux
+237,Setsuwa
+238,Shi
+239,Sielanka
+240,Sirat
+241,Sirventes
+242,Skecz
+243,Sohar
+244,Sonet
+245,Sonetoid
+246,Song (utwór)
+247,Sortilegium
+248,Sotie
+249,Splatterpunk
+250,Stemmat
+251,Sylwa
+252,Synkretyzm w literaturze
+253,Szarada
+254,Sztambuch
+255,Tanka
+256,Tautogram
+257,Technothriller
+258,Tenso
+259,Testament poetycki
+260,Thriller medyczny
+261,Toast
+262,Tonadilla
+263,Tren (literatura)
+264,Triady
+265,Ucaskoma
+266,Upaniszady
+267,Vida
+268,Vilanella
+269,Virelai
+270,Literatura wagonowa
+271,Waka (poezja)
+272,Walentynka
+273,Walterscotyzm
+274,Wat (gatunek literacki)
+275,Western (literatura)
+276,Wiersz obrazkowy
+277,Wyliczanka (literatura)
+278,Xenia (epigramat)
+279,Young adult
+280,Zagadka
+281,Zehel
+282,Zeitroman
+283,Zuihitsu
+284,Zwierciadło (literatura)
+285,Żale (literatura)
+286,Żurawiejka

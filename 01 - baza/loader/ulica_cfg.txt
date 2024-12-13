@@ -1,0 +1,7 @@
+LOAD DATA
+CHARACTERSET UTF8
+INFILE 'dane/ulica.txt'
+BADFILE 'ulica.bad'
+INSERT INTO TABLE ulica
+FIELDS TERMINATED BY ','
+(id_ulica,nazwa)

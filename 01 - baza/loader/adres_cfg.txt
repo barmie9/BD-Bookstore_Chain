@@ -1,0 +1,7 @@
+LOAD DATA
+CHARACTERSET UTF8
+INFILE 'dane/adres.txt'
+BADFILE 'adres.bad'
+INSERT INTO TABLE adres
+FIELDS TERMINATED BY ','
+(id_adres,nr_budynku,nr_mieszkania,id_ulica,id_miejscowosc,id_wojewodztwo,id_kod_pocztowy)

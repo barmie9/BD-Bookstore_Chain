@@ -1,0 +1,7 @@
+LOAD DATA
+CHARACTERSET UTF8
+INFILE 'dane/miejsce.txt'
+BADFILE 'miejsce.bad'
+INSERT INTO TABLE miejsce
+FIELDS TERMINATED BY ','
+(id_miejsce,id_miejscowosc,id_wojewodztwo)
